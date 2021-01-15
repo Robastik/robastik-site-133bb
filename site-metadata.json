@@ -1,9 +1,8 @@
 {
     "base_font": "nunito-sans",
-    "palette": "blue",
+    "palette": "green",
     "header": {
-        "logo_img": "images/logo.svg",
-        "logo_img_alt": "Logo",
+        "logo_img_alt": "Робастик",
         "has_nav": true,
         "nav_links": [
             {
@@ -31,28 +30,30 @@
                 "url": "/signup",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo_img": "images/famous-tiger.jpg"
     },
     "footer": {
         "sections": [
             {
                 "type": "footer_text",
-                "image": "images/logo-alt.svg",
+                "image": "images/purple-octopus.jpg",
                 "image_url": "/",
-                "image_alt": "Footer logo",
-                "content": "Stackbit theme demo"
+                "image_alt": "Робастик",
+                "content": "Сбор данных с сайтов и верстка отчетов в .docx\n",
+                "title": "Парсинг и отчетинг"
             },
             {
                 "type": "footer_nav",
-                "title": "Company",
+                "title": "Робастик",
                 "nav_links": [
                     {
-                        "label": "About Us",
+                        "label": "О Робастике",
                         "url": "/about",
                         "style": "link"
                     },
                     {
-                        "label": "Blog",
+                        "label": "Блог",
                         "url": "/blog",
                         "style": "link"
                     },
