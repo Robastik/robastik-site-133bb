@@ -40,7 +40,8 @@
                 "image": "images/purple-octopus.jpg",
                 "image_url": "/",
                 "image_alt": "Робастик",
-                "content": "Stackbit theme demo"
+                "content": "Stackbit theme demo",
+                "title": "Парсинг"
             },
             {
                 "type": "footer_nav",
