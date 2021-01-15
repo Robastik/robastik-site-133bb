@@ -2,7 +2,7 @@
     "base_font": "nunito-sans",
     "palette": "green",
     "header": {
-        "logo_img_alt": "Logo",
+        "logo_img_alt": "Робастик",
         "has_nav": true,
         "nav_links": [
             {
