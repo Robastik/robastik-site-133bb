@@ -48,7 +48,7 @@
                 "title": "Робастик",
                 "nav_links": [
                     {
-                        "label": "About Us",
+                        "label": "О",
                         "url": "/about",
                         "style": "link"
                     },
