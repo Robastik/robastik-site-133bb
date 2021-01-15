@@ -30,7 +30,8 @@
                 "url": "/signup",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo_img": "images/famous-tiger.jpg"
     },
     "footer": {
         "sections": [
