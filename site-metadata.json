@@ -2,7 +2,6 @@
     "base_font": "nunito-sans",
     "palette": "green",
     "header": {
-        "logo_img": "images/Лого 170.jpg",
         "logo_img_alt": "Logo",
         "has_nav": true,
         "nav_links": [
