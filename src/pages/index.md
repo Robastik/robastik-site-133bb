@@ -6,9 +6,8 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Парсинг и отчетинг в Excel и Word
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+    content: |
+      Сбор данных с сайтов в Excel и верства отчетов в Word
     actions:
       - label: Learn More
         url: /features
