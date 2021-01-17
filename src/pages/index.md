@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: "Парсинг в Excel и отчетинг\_ и Word"
+    title: "Парсинг в Excel и отчетинг\_ в Word"
     content: |
       Сбор данных с сайтов в Excel и верства отчетов в Word
     actions:
