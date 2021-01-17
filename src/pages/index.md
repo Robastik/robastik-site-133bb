@@ -6,8 +6,9 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Парсинг в Excel и отчетинг в Word
-    content: |
-      Сбор данных с сайтов в Excel и авто-верстка отчетов в Word без ошибок
+    content: >
+      Сбор данных с сайтов в Excel и авто-верстка отчетов в Word без ошибок в
+      один клик
     actions:
       - label: Learn More
         url: /features
