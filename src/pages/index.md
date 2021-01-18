@@ -51,7 +51,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Cool Feature of Your Services
+      - title: Удобные графики
         image: images/кеплер хитмап.jpg
         image_alt: App user profile preview
         content: >-
