@@ -59,7 +59,7 @@ sections:
           quis venenatis sem. Proin eget massa id metus eleifend maximus sit
           amet nec urna.
         actions:
-          - label: Learn More
+          - label: Скоро
             url: /features
             style: secondary
             has_icon: true
