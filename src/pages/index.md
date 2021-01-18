@@ -24,10 +24,12 @@ sections:
       - title: Парсинг в Excel
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          *   Ссылку на нужную страницу с данными скопировать из браузера в
+          Excel и кликнуть "Старт". 
+
+
+          *   Авито, ЦИАН и любой сайт по вашему заказу.
         actions:
           - label: Learn More
             url: /features
