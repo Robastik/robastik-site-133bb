@@ -101,8 +101,8 @@
             },
             {
                 "type": "footer_form",
-                "title": "Subscribe",
-                "content": "Stay up to date with our latest developments.",
+                "title": "Подпишись на обновления",
+                "content": "Не пропусти новые и улучшенные функции\n",
                 "form_id": "contactForm",
                 "hide_labels": true,
                 "form_fields": [
