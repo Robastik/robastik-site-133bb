@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: Парсинг в Excel + отчетинг в Word
+    title: Парсинг в Excel<br>+<br>отчетинг в Word
     content: >
       Сбор данных с сайтов в Excel с версткой отчетов в Word без ошибок в один
       клик
