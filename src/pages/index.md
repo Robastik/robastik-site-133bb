@@ -51,15 +51,15 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Cool Feature of Your Services
+      - title: Тепловая карта
         image: images/кеплер хитмап.jpg
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          Карту цен как у [Кеплер](https://kepler.gl/) или сложную диаграмму
+          [d3](https://github.com/d3/d3/wiki/Gallery) можно строить в Excel и
+          автоматически вставлять в отчет Word.
         actions:
-          - label: Learn More
+          - label: Скоро
             url: /features
             style: secondary
             has_icon: true
