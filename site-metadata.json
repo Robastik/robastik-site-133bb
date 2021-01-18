@@ -102,7 +102,7 @@
             {
                 "type": "footer_form",
                 "title": "Подпишись на обновления",
-                "content": "Stay up to date with our latest developments.",
+                "content": "Не пропусти новые и улучшенные функции\n",
                 "form_id": "contactForm",
                 "hide_labels": true,
                 "form_fields": [
