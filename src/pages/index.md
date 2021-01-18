@@ -16,7 +16,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Большие данные для небольших задач
+    title: Биг дата для небольших задач
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
