@@ -7,7 +7,7 @@ sections:
     image_alt: App preview
     title: Парсинг в Excel и отчетинг в Word
     content: >
-      Сбор данных с сайтов в Excel и верстка отчетов в Word без ошибок в один
+      Сбор данных с сайтов в Excel с версткой отчетов в Word без ошибок в один
       клик
     actions:
       - label: Learn More
