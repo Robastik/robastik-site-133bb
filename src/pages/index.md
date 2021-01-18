@@ -59,7 +59,7 @@ sections:
         content: >
           Построй в Excel карту цен как у [Кеплер](https://kepler.gl/) или
           сложную диаграмму [d3](https://github.com/d3/d3/wiki/Gallery) и она
-          автоматически вставится в твой отчет Word.
+          автоматически вставится в твой документ Word.
         actions:
           - label: (Скоро)
             url: /features
