@@ -67,7 +67,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/parallel-spider.png
+        image: images/1.jpg
   - section_id: more
     type: section_reviews
     background: white
