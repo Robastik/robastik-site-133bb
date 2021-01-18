@@ -67,7 +67,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/pleasant-chestnut.png
+        image: images/parallel-spider.png
   - section_id: more
     type: section_reviews
     background: white
