@@ -68,7 +68,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-  - section_id: ьщку
+  - section_id: more
     type: section_reviews
     background: white
     title: Удобство Excel для аналитиков
