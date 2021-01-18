@@ -71,7 +71,7 @@ sections:
   - section_id: more
     type: section_reviews
     background: white
-    title: Удобство Excel для отчетов
+    title: Удобство отчетов в Excel
     subtitle: >-
       Вся рутина оформления типичного аналитического отчета максимально
       автоматизируется
