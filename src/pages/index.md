@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: Парсинг в Excel<br>+отчетинг в Word
+    title: Парсинг в Excel и отчетинг в Word
     content: >
       Сбор данных с сайтов в Excel с версткой отчетов в Word без ошибок в один
       клик
@@ -21,13 +21,15 @@ sections:
       1.Открыть Excel и собрать в него данные с сайтов<br>2.Провести их анализ и
       показать на графике<br>3.Сделать отчет в Word
     features:
-      - title: The Best Feature of Your Services
+      - title: Парсинг в Excel
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          *   Ссылку на нужную страницу с данными скопировать из браузера в
+          Excel и кликнуть "Старт". 
+
+
+          *   Авито, ЦИАН и любой сайт по вашему заказу.
         actions:
           - label: Learn More
             url: /features
