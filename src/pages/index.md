@@ -71,13 +71,15 @@ sections:
   - section_id: more
     type: section_reviews
     background: white
-    title: Удобство Excel для аналитиков
+    title: Удобство отчетов в Excel
     subtitle: >-
       Вся рутина оформления типичного аналитического отчета максимально
       автоматизируется
     reviews:
       - author: Число прописью
-        content: Число прописью
+        content: >-
+          Функция =Прописью() напишет число словами и добавит <b>руб. коп.</b> в
+          соответствии с заданными настройками.
       - author: Jane Roe
         avatar: images/review2.jpg
         content: Склонение ФИО и пол
