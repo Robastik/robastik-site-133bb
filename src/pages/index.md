@@ -71,8 +71,10 @@ sections:
   - section_id: more
     type: section_reviews
     background: white
-    title: Удобство отчетов в Excel
-    subtitle: Автоматизируй оформление отчета Word из расчета Excel
+    title: Расчет Excel оформить в Word
+    subtitle: >-
+      Автоматизируй заполнение документа Word результатами расчета Excel для
+      справок, счетов, отчетов и других документов
     reviews:
       - author: Число прописью
         content: >-
