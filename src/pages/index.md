@@ -42,7 +42,8 @@ sections:
         image_alt: App users welcoming a new member
         content: >
           Результаты анализа в виде чисел, слов и графиков автоматически
-          переносятся из Excel в указанное вами место отчета Word. 
+          переносятся из Excel в указанное вами место отчета Word. Не нужно
+          уметь программировать.
         actions:
           - label: Подробнее
             url: /features
