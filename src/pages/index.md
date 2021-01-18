@@ -77,7 +77,6 @@ sections:
       автоматизируется
     reviews:
       - author: John Doe
-        avatar: images/review1.jpg
         content: Число прописью
       - author: Jane Roe
         avatar: images/review2.jpg
