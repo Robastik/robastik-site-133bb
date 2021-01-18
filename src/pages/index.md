@@ -89,7 +89,9 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Сделай проще
-    subtitle: Упрости свои задачи избегая ошибки и не отвлекаясь на мелочи
+    subtitle: >-
+      С Робастиком можно упростить свои задачи, избежать ошибок и не отвлекаться
+      на мелочи
     actions:
       - label: Скачать Робастик
         url: /signup
