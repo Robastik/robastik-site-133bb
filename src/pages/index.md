@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: Парсинг в Excel и отчетинг в Word
+    title: Парсинг и отчетинг
     content: >
       Сбор данных с сайтов в Excel с версткой отчетов в Word без ошибок в один
       клик
@@ -18,34 +18,34 @@ sections:
     background: gray
     title: Биг дата для небольших задач
     subtitle: >-
-      1.Открыть Excel и собрать в него данные с сайтов<br>2.Провести их анализ и
-      показать на графике<br>3.Сделать отчет в Word
+      1.Открой Excel и собери в него данные с сайтов<br>2.Проведи их анализ и
+      покажи на графике<br>3.Сделай отчет в Word
     features:
       - title: Парсинг в Excel
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >
-          *   Ссылку на нужную страницу с данными скопировать из браузера в
-          Excel и кликнуть "Старт". 
+          *   Ссылку на нужную страницу с данными скопируй из браузера в Excel и
+          кликни "Старт".
 
 
           *   Авито, ЦИАН и любой сайт по вашему заказу.
         actions:
-          - label: Learn More
+          - label: Заказать сбор данных
             url: /features
             style: secondary
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Awesome Feature of Your Services
+      - title: Данные из Excel в отчет Word
         image: images/feature2.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >
+          Результаты анализа в виде чисел, слов и графиков автоматически
+          переносятся из Excel в указанное вами место отчета Word. Не нужно
+          уметь программировать.
         actions:
-          - label: Learn More
+          - label: Подробнее
             url: /features
             style: secondary
             has_icon: true
