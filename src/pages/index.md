@@ -44,7 +44,7 @@ sections:
           Результаты анализа в виде чисел, слов и графиков автоматически
           переносятся из Excel в указанное вами место отчета Word. 
         actions:
-          - label: Learn More
+          - label: Подробнее
             url: /features
             style: secondary
             has_icon: true
