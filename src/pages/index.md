@@ -76,7 +76,7 @@ sections:
       Вся рутина оформления типичного аналитического отчета максимально
       автоматизируется
     reviews:
-      - author: John Doe
+      - author: Число прописью
         content: Число прописью
       - author: Jane Roe
         avatar: images/review2.jpg
