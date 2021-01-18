@@ -94,7 +94,7 @@ sections:
     title: Скачать Робастик сейчас
     subtitle: This is an optional description for the call to action block.
     actions:
-      - label: Get Started
+      - label: Скачать Робастик
         url: /signup
         style: primary
   - section_id: recent-posts
