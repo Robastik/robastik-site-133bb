@@ -38,7 +38,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Отчет Word с данными из Excel
+      - title: Документ Word с данными из Excel
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >
