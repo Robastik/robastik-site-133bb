@@ -5,9 +5,10 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: "Парсинг в Excel и отчетинг\_ и Word"
-    content: |
-      Сбор данных с сайтов в Excel и верства отчетов в Word
+    title: Парсинг в Excel и отчетинг в Word
+    content: >
+      Сбор данных с сайтов в Excel с версткой отчетов в Word без ошибок в один
+      клик
     actions:
       - label: Learn More
         url: /features
@@ -15,10 +16,11 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Features
+    title: Биг дата для небольших задач
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Путь аналитика: <br> 1.Открыть Excel и собрать данные с
+      сайтов<br>2.Провести их анализ и показать на графике<br>3.Сделать отчет в
+      Word
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
