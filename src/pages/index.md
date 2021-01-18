@@ -17,7 +17,7 @@ sections:
     type: section_features
     background: gray
     title: Биг дата для небольших задач
-    subtitle: 'Путь аналитика:'
+    subtitle: 'Путь аналитика: <br> 1'
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
