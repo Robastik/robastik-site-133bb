@@ -52,7 +52,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Cool Feature of Your Services
-        image: images/feature3.png
+        image: images/кеплер хитмап.jpg
         image_alt: App user profile preview
         content: >-
           In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
@@ -91,10 +91,10 @@ sections:
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
   - section_id: call-to-action
     type: section_cta
-    title: This Is Call To Action Block!
+    title: Скачать Робастик сейчас
     subtitle: This is an optional description for the call to action block.
     actions:
-      - label: Get Started
+      - label: Скачать Робастик
         url: /signup
         style: primary
   - section_id: recent-posts
