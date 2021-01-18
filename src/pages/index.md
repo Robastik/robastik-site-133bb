@@ -10,7 +10,7 @@ sections:
       Сбор данных с сайтов в Excel с версткой отчетов в Word без ошибок в один
       клик
     actions:
-      - label: Learn More
+      - label: Скачать Робастик сейчас
         url: /features
         style: primary
   - section_id: features
