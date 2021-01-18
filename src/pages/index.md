@@ -88,7 +88,7 @@ sections:
           возможности для подготовки документов из расчетов Excel
   - section_id: call-to-action
     type: section_cta
-    title: Робастик делает работу проще
+    title: Сделай проще
     subtitle: Упрости свои задачи избегая ошибки и не отвлекаясь на мелочи
     actions:
       - label: Скачать Робастик
