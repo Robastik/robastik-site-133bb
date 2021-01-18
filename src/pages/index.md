@@ -59,7 +59,7 @@ sections:
           сложную диаграмму [d3](https://github.com/d3/d3/wiki/Gallery) и она
           автоматически вставится в твой отчет Word.
         actions:
-          - label: Скоро
+          - label: (Скоро)
             url: /features
             style: secondary
             has_icon: true
