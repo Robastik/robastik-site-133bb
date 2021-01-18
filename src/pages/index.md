@@ -21,7 +21,7 @@ sections:
       1.Открыть Excel и собрать в него данные с сайтов<br>2.Провести их анализ и
       показать на графике<br>3.Сделать отчет в Word
     features:
-      - title: The Best Feature of Your Services
+      - title: Парсинг в Excel
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
