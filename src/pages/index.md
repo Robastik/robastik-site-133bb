@@ -38,12 +38,12 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Данные из Excel в отчет Word
+      - title: Документ Word с данными из Excel
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >
           *   Результаты анализа в виде чисел, слов и графиков автоматически
-          переносятся из Excel в указанное вами место отчета Word. 
+          переносятся из Excel в указанное вами место в документе Word.
 
 
           *   Не нужно уметь программировать.
@@ -59,7 +59,7 @@ sections:
         content: >
           Построй в Excel карту цен как у [Кеплер](https://kepler.gl/) или
           сложную диаграмму [d3](https://github.com/d3/d3/wiki/Gallery) и она
-          автоматически вставится в твой отчет Word.
+          автоматически вставится в твой документ Word.
         actions:
           - label: (Скоро)
             url: /features
@@ -73,7 +73,7 @@ sections:
     background: white
     title: Расчет Excel оформить в Word
     subtitle: >-
-      Автоматизируй заполнение документа Word результатами расчета Excel для
+      Подготовь заполнение документа Word результатами расчета Excel для
       справок, сводок, отчетов и других документов
     reviews:
       - author: Число прописью
