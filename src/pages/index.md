@@ -71,7 +71,7 @@ sections:
   - section_id: more
     type: section_reviews
     background: white
-    title: Отчет Word из расчета Excel
+    title: Расчет Excel в Word
     subtitle: >-
       Автоматизируй заполнение документа Word результатами расчета Excel для
       создания справок, счетов, отчетов и других документов
