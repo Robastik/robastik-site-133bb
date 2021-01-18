@@ -55,9 +55,9 @@ sections:
         image: images/кеплер хитмап.jpg
         image_alt: App user profile preview
         content: >
-          Карту цен как у [Кеплер](https://kepler.gl/) или сложную диаграмму
-          [d3](https://github.com/d3/d3/wiki/Gallery) можно строить в Excel и
-          автоматически вставлять в отчет Word.
+          Построй в Excel карту цен как у [Кеплер](https://kepler.gl/) или
+          сложную диаграмму [d3](https://github.com/d3/d3/wiki/Gallery) и она
+          автоматически вставится в твой отчет Word.
         actions:
           - label: Скоро
             url: /features
