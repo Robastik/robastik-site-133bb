@@ -71,7 +71,7 @@ sections:
   - section_id: reviews
     type: section_reviews
     background: white
-    title: Другие возможности
+    title: Удобство Excel для аналитиков
     subtitle: >-
       Вся рутина оформления типичного аналитического отчета максимально
       автоматизируется
