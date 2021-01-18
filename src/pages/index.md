@@ -71,7 +71,7 @@ sections:
   - section_id: more
     type: section_reviews
     background: white
-    title: Удобство отчетов в Excel
+    title: Отчет Word из расчета Excel
     subtitle: Автоматизируй оформление отчета Word из расчета Excel
     reviews:
       - author: Число прописью
