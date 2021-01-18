@@ -72,9 +72,7 @@ sections:
     type: section_reviews
     background: white
     title: Удобство отчетов в Excel
-    subtitle: >-
-      Вся рутина оформления типичного аналитического отчета максимально
-      автоматизируется
+    subtitle: Автоматизируй оформление отчета Word из расчета Excel
     reviews:
       - author: Число прописью
         content: >-
