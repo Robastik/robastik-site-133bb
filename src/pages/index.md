@@ -18,7 +18,7 @@ sections:
     background: gray
     title: Биг дата для небольших задач
     subtitle: >-
-      1.Открыть Excel и собрать данные с сайтов<br>2.Провести их анализ и
+      1.Открыть Excel и собрать в него данные с сайтов<br>2.Провести их анализ и
       показать на графике<br>3.Сделать отчет в Word
     features:
       - title: The Best Feature of Your Services
