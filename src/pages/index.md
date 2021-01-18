@@ -73,8 +73,8 @@ sections:
     background: white
     title: Другие возможности
     subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
+      Вся рутина оформления типичного аналитического отчета максимально
+      автоматизируется
     reviews:
       - author: John Doe
         avatar: images/review1.jpg
