@@ -17,7 +17,10 @@ sections:
     type: section_features
     background: gray
     title: Биг дата для небольших задач
-    subtitle: 'Путь аналитика: <br> 1'
+    subtitle: >-
+      Путь аналитика: <br> 1.Открыть Excel и собрать данные с
+      сайтов<br>2.Провести их анализ и показать на графике<br>3.Сделать отчет в
+      Word
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
