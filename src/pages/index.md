@@ -100,7 +100,7 @@ sections:
     type: section_posts
     background: gray
     title: С чего начать
-meta_title: 'Робастик '
+meta_title: Робастик
 meta_description: The preview of the Azimuth theme
 template: landing
 canonical_url: robastik.ru
