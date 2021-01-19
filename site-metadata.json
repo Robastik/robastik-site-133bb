@@ -74,7 +74,7 @@
                         "style": "link"
                     },
                     {
-                        "label": "Contact",
+                        "label": "Контакты",
                         "url": "/contact",
                         "style": "link"
                     }
@@ -85,27 +85,28 @@
                 "title": "Community",
                 "nav_links": [
                     {
-                        "label": "Twitter",
-                        "url": "https://twitter.com/",
+                        "label": "Фейсбук",
+                        "url": "https://www.facebook.com/groups/excelword",
                         "style": "link",
                         "has_icon": true,
-                        "icon": "twitter",
+                        "icon": "facebook",
+                        "icon_position": "left",
+                        "new_window": true
+                    },
+                    {
+                        "label": "Email",
+                        "url": "denis@robastik.ru",
+                        "style": "link",
+                        "has_icon": true,
+                        "icon": "envelope",
                         "icon_position": "left"
                     },
                     {
-                        "label": "LinkedIn",
-                        "url": "https://www.linkedin.com/",
+                        "label": "YouTube",
+                        "url": "https://www.youtube.com/channel/UCOf8_9L59pPLT1fK71yWAUg",
                         "style": "link",
                         "has_icon": true,
-                        "icon": "linkedin",
-                        "icon_position": "left"
-                    },
-                    {
-                        "label": "GitHub",
-                        "url": "https://github.com/",
-                        "style": "link",
-                        "has_icon": true,
-                        "icon": "github",
+                        "icon": "youtube",
                         "icon_position": "left"
                     }
                 ]
@@ -121,11 +122,11 @@
                         "input_type": "email",
                         "name": "email",
                         "label": "Email",
-                        "default_value": "Enter email address",
+                        "default_value": "Укажите свой email",
                         "is_required": true
                     }
                 ],
-                "submit_label": "Subscribe"
+                "submit_label": "Подписаться"
             }
         ],
         "has_nav": true,
