@@ -33,8 +33,8 @@ sections:
       - input_type: checkbox
         name: consent
         label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
+          Я понимаю, что отправляю свои контактные данные, чтобы можно было
+          связаться со мной.
         is_required: true
     submit_label: Send Message
 template: landing
