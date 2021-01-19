@@ -1,4 +1,4 @@
 ---
-title: Блог
+title: Блог Робастика
 template: blog
 ---
