@@ -1,10 +1,10 @@
 ---
-title: Home
+title: Главная
 sections:
   - section_id: hero
     type: section_hero
     image: images/hero.png
-    image_alt: App preview
+    image_alt: Меню надстройки Excel Робастик
     title: Парсинг и отчетинг в Excel
     content: >
       Сохранение в Excel опубликованных на сайтах данных и заполнение документов
@@ -15,7 +15,7 @@ sections:
         style: primary
   - section_id: features
     type: section_features
-    background: gray
+    background: white
     title: Биг дата для небольших задач
     subtitle: >-
       1.Открой Excel и собери в него данные с сайтов<br>2.Проведи их анализ и
@@ -73,8 +73,8 @@ sections:
     background: white
     title: Расчет Excel оформить в Word
     subtitle: >-
-      Подготовь заполнение документа Word результатами расчета Excel для
-      справок, сводок, отчетов и других документов
+      Заполнение документа Word результатами расчета Excel для справок, сводок,
+      отчетов и других документов
     reviews:
       - author: Число прописью
         content: >-
@@ -100,7 +100,8 @@ sections:
     type: section_posts
     background: gray
     title: С чего начать
-meta_title: Stackbit Azimuth Theme
+meta_title: Робастик
 meta_description: The preview of the Azimuth theme
 template: landing
+canonical_url: robastik.ru
 ---
