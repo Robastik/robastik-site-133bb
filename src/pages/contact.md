@@ -20,7 +20,7 @@ sections:
         label: Email
         is_required: true
       - input_type: select
-        name: Тема
+        name: Subject
         label: Тема
         default_value: Please select
         options:
