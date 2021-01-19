@@ -1,5 +1,5 @@
 ---
-title: Как напарсить данных с Авито и ЦИАН прямо сейчас
+title: Как напарсить данные с Авито и ЦИАН прямо сейчас
 excerpt: >-
   Work at home parent is an entrepreneur who works from home and integrates
   parenting into his or her business activities.
