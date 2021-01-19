@@ -9,7 +9,7 @@ date: '2021-02-20'
 thumb_image: images/3_thumb.jpg
 thumb_image_alt: A group of people working in a cafe
 image: images/3.jpg
-image_alt: A group of people working in a cafe
+image_alt: Как Робастик помогает аналитикам работать с данными
 template: post
 ---
 
