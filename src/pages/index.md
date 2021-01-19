@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: Парсинг и отчетинг*
+    title: 'Excel:Парсинг и отчетинг*'
     content: >
       \*Отчетинг - автоматическое заполнение шаблонного отчета в формате Word
       результатами выполненного в Excel расчета
