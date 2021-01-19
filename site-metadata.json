@@ -134,7 +134,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Terms of Service",
+                "label": "Условия использования",
                 "url": "/terms-of-service",
                 "style": "link"
             },
