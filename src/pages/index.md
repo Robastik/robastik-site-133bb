@@ -5,10 +5,10 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: 'Excel:<br>Парсинг и отчетинг*'
+    title: Парсинг и отчетинг в Excel
     content: >
-      \*Отчетинг - автоматическое заполнение шаблонного отчета в формате Word
-      результатами выполненного в Excel расчета
+      Сохранение в Excel опубликованных на сайтах данных и заполнение документов
+      в формате Word результатами выполненных в Excel расчетов
     actions:
       - label: Скачать Робастик сейчас
         url: /features
