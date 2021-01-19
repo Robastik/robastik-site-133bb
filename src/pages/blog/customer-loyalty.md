@@ -12,7 +12,7 @@ image: images/3.jpg
 image_alt: Как Робастик помогает аналитикам работать с данными
 template: post
 meta_title: Введение в Робастик
-meta_description: Почему Робастик это дзен аналитика данных
+meta_description: Почему Робастик это дзен Учсуд-аналитика данных
 canonical_url: /blog/introduction
 ---
 
