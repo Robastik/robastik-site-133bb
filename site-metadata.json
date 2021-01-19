@@ -71,7 +71,8 @@
                     {
                         "label": "Руководство",
                         "url": "https://www.notion.so/ebc43e94f3284cbab017c841b37ce881",
-                        "style": "link"
+                        "style": "link",
+                        "new_window": true
                     },
                     {
                         "label": "Контакты",
