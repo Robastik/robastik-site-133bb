@@ -21,7 +21,7 @@ sections:
         is_required: true
       - input_type: select
         name: Тема
-        label: Subject
+        label: Тема
         default_value: Please select
         options:
           - Ошибка на сайте Робастика
