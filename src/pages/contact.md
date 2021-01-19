@@ -32,9 +32,7 @@ sections:
         label: Текст сообщения
       - input_type: checkbox
         name: consent
-        label: >-
-          Я понимаю, что отправляю свои контактные данные, чтобы можно было
-          связаться со мной.
+        label: 'Я понимаю, что отправляю свои контактные данные для связи со мной.'
         is_required: true
     submit_label: Send Message
 template: landing
