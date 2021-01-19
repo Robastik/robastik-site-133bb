@@ -6,29 +6,39 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Home",
+                "label": "Главная",
                 "url": "/",
+                "style": "link",
+                "has_icon": false
+            },
+            {
+                "label": "Парсинг",
+                "url": "/parsing",
                 "style": "link"
             },
             {
-                "label": "Features",
-                "url": "/features",
+                "label": "Отчетинг",
+                "url": "/reporting",
                 "style": "link"
             },
             {
-                "label": "Pricing",
-                "url": "/pricing",
-                "style": "link"
+                "label": "Вики",
+                "url": "/https://www.notion.so/ebc43e94f3284cbab017c841b37ce881",
+                "style": "link",
+                "icon": "arrow-right",
+                "icon_position": "right",
+                "new_window": true
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide",
-                "style": "link"
-            },
-            {
-                "label": "Sign Up",
-                "url": "/signup",
-                "style": "primary"
+                "label": "",
+                "url": "https://www.facebook.com/groups/excelword",
+                "style": "link",
+                "has_icon": true,
+                "icon": "facebook",
+                "icon_position": "left",
+                "new_window": true,
+                "no_follow": true,
+                "type": "action"
             }
         ],
         "logo_img": "images/famous-tiger.jpg"

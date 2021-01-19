@@ -17,9 +17,7 @@ sections:
     type: section_features
     background: white
     title: Биг дата для небольших задач
-    subtitle: >-
-      1.Открой Excel и собери в него данные с сайтов<br>2.Проведи их анализ и
-      покажи на графике<br>3.Сделай отчет в Word
+    subtitle: "1.Собери в Excel\_данные с сайтов<br>2.Проведи их анализ и покажи на графике<br>3.Сделай отчет в Word"
     features:
       - title: Парсинг в Excel
         image: images/feature1.png
@@ -101,7 +99,7 @@ sections:
     background: gray
     title: С чего начать
 meta_title: Робастик
-meta_description: The preview of the Azimuth theme
+meta_description: Парсинг и отчетинг в Excel
 template: landing
 canonical_url: robastik.ru
 ---
