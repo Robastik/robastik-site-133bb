@@ -34,6 +34,6 @@ sections:
         name: consent
         label: 'Я понимаю, что отправляю свои контактные данные для связи со мной.'
         is_required: true
-    submit_label: Send Message
+    submit_label: Отправить
 template: landing
 ---
