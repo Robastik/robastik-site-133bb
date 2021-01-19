@@ -27,7 +27,8 @@
                 "style": "link",
                 "icon": "arrow-right",
                 "icon_position": "right",
-                "new_window": true
+                "new_window": true,
+                "no_follow": true
             },
             {
                 "label": "",
