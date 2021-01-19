@@ -1,16 +1,19 @@
 ---
-title: Customer Loyalty Programs That Stick
-subtitle: A story about customer loyalty
+title: Введение в Робастик
+subtitle: Что он делает и как это отличается от других программ
 author: src/data/authors/jane-doe.yaml
 excerpt: >-
-  A story about customer loyalty curabitur sed consectetur nisi. Integer sit
-  amet commodo massa.
-date: '2019-04-23'
+  Несколько слов о том, что делает Робастик, как он это делает, зачем, для кого
+  и чем все это отличается от других похожих программ.
+date: '2021-02-20'
 thumb_image: images/3_thumb.jpg
-thumb_image_alt: A group of people working in a cafe
+thumb_image_alt: Автоматизация работы с данными для аналитиков в Excel
 image: images/3.jpg
-image_alt: A group of people working in a cafe
+image_alt: Как Робастик помогает аналитикам работать с данными
 template: post
+meta_title: Как устроен Робастик
+meta_description: Почему Робастик это дзен аналитика данных
+canonical_url: /introduction
 ---
 
 **Loyalty** curabitur sed consectetur nisi. Integer sit amet commodo massa. Cras posuere justo magna, id placerat ligula vulputate malesuada. Aenean a ipsum quis neque ornare placerat eu eu orci. Nullam feugiat sed ante in euismod. Pellentesque a nibh dolor. Donec ultrices lacus eget orci commodo ultricies. Morbi placerat purus non varius egestas. Ut tempus ligula quis lorem suscipit, sed vulputate dolor placerat. Aliquam ut massa placerat, vehicula erat non, mattis leo. Pellentesque egestas velit sit amet lectus lobortis, sit amet pharetra ipsum porta. Nullam massa nulla, tincidunt vel volutpat vel, commodo id leo. Curabitur id volutpat lacus, sed commodo velit. Quisque facilisis consectetur nisl vitae vulputate. Proin porttitor ipsum ut diam faucibus, scelerisque posuere ex euismod. Aenean posuere bibendum egestas.
