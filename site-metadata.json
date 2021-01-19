@@ -26,7 +26,8 @@
                 "url": "/https://www.notion.so/ebc43e94f3284cbab017c841b37ce881",
                 "style": "link",
                 "icon": "arrow-right",
-                "icon_position": "right"
+                "icon_position": "right",
+                "new_window": true
             },
             {
                 "label": "Sign Up",
