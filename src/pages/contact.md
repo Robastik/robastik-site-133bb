@@ -25,7 +25,7 @@ sections:
         default_value: Please select
         options:
           - Ошибка на сайте Робастика
-          - 'Предложение или замечание '
+          - Предложение или замечание о робастике
           - Other
       - input_type: textarea
         name: message
