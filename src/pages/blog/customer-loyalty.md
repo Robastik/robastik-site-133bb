@@ -1,6 +1,6 @@
 ---
 title: Введение в Робастик
-subtitle: A story about customer loyalty
+subtitle: Что
 author: src/data/authors/jane-doe.yaml
 excerpt: >-
   A story about customer loyalty curabitur sed consectetur nisi. Integer sit
