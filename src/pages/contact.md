@@ -29,7 +29,7 @@ sections:
           - Предложение сотрудничества
       - input_type: textarea
         name: message
-        label: Message
+        label: Текст сообщения
       - input_type: checkbox
         name: consent
         label: >-
