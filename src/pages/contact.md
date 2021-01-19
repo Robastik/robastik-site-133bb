@@ -4,7 +4,7 @@ sections:
   - section_id: contact
     type: section_contact
     background: gray
-    title: Contact
+    title: Обратная связь
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
@@ -13,29 +13,27 @@ sections:
     form_fields:
       - input_type: text
         name: name
-        label: Name
+        label: Имя
         is_required: true
       - input_type: email
         name: email
         label: Email
         is_required: true
       - input_type: select
-        name: subject
-        label: Subject
-        default_value: Please select
+        name: Subject
+        label: Тема
+        default_value: Пожалуйста выберите
         options:
-          - Error on the site
-          - Sponsorship
-          - Other
+          - Ошибка на сайте Робастика
+          - Предложения и замечания о Робастике
+          - Предложение сотрудничества
       - input_type: textarea
         name: message
-        label: Message
+        label: Текст сообщения
       - input_type: checkbox
         name: consent
-        label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
+        label: 'Я понимаю, что отправляю свои контактные данные для связи со мной.'
         is_required: true
-    submit_label: Send Message
+    submit_label: Отправить
 template: landing
 ---
