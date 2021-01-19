@@ -2,7 +2,7 @@
 title: Введение в Робастик
 subtitle: Что он делает и как это отличается от других программ
 author: src/data/authors/jane-doe.yaml
-excerpt: 'Несколько слов о том, что делает Робастик, .'
+excerpt: 'Несколько слов о том, что делает Робастик, как он это делает, зачем, для кого.'
 date: '2021-02-20'
 thumb_image: images/3_thumb.jpg
 thumb_image_alt: A group of people working in a cafe
