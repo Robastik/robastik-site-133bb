@@ -26,7 +26,7 @@ sections:
         options:
           - Ошибка на сайте Робастика
           - Предложение или замечание о Робастике
-          - Other
+          - Предложение сотрудничества
       - input_type: textarea
         name: message
         label: Message
