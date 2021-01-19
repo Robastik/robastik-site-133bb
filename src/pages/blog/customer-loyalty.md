@@ -1,6 +1,6 @@
 ---
 title: Введение в Робастик
-subtitle: 'Что он делает и как это отличается от '
+subtitle: Что он делает и как это отличается от других программ
 author: src/data/authors/jane-doe.yaml
 excerpt: >-
   A story about customer loyalty curabitur sed consectetur nisi. Integer sit
