@@ -4,7 +4,7 @@ subtitle: Что он делает и как это отличается от д
 author: src/data/authors/jane-doe.yaml
 excerpt: >-
   Несколько слов о том, что делает Робастик, как он это делает, зачем, для кого
-  и чем все это отличается от .
+  и чем все это отличается от других похожих программ.
 date: '2021-02-20'
 thumb_image: images/3_thumb.jpg
 thumb_image_alt: A group of people working in a cafe
