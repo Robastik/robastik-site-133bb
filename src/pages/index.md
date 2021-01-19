@@ -99,7 +99,7 @@ sections:
     background: gray
     title: С чего начать
 meta_title: Робастик
-meta_description: The preview of the Azimuth theme
+meta_description: Парсинг и отчетинг в Excel
 template: landing
 canonical_url: robastik.ru
 ---
