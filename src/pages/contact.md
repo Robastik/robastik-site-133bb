@@ -22,7 +22,7 @@ sections:
       - input_type: select
         name: Subject
         label: Тема
-        default_value: Please select
+        default_value: Пожалуйста выберите
         options:
           - Ошибка на сайте Робастика
           - Предложения и замечания о Робастике
