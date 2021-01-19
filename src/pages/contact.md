@@ -24,7 +24,7 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - Error on the site
+          - Ошибка на сайте Робастика
           - Sponsorship
           - Other
       - input_type: textarea
