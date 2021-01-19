@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     image: images/hero.png
-    image_alt: App preview
+    image_alt: 'Меню надстройки '
     title: Парсинг и отчетинг в Excel
     content: >
       Сохранение в Excel опубликованных на сайтах данных и заполнение документов
