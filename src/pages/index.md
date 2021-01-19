@@ -15,7 +15,7 @@ sections:
         style: primary
   - section_id: features
     type: section_features
-    background: gray
+    background: white
     title: Биг дата для небольших задач
     subtitle: >-
       1.Открой Excel и собери в него данные с сайтов<br>2.Проведи их анализ и
