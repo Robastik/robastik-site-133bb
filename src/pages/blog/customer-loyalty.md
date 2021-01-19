@@ -7,7 +7,7 @@ excerpt: >-
   и чем все это отличается от других похожих программ.
 date: '2021-02-20'
 thumb_image: images/3_thumb.jpg
-thumb_image_alt: 'Робастик '
+thumb_image_alt: 'Автоматизация работы с данными '
 image: images/3.jpg
 image_alt: Как Робастик помогает аналитикам работать с данными
 template: post
