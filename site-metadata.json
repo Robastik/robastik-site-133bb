@@ -121,7 +121,7 @@
                         "input_type": "email",
                         "name": "email",
                         "label": "Email",
-                        "default_value": "Укажите email address",
+                        "default_value": "Укажите свой email address",
                         "is_required": true
                     }
                 ],
