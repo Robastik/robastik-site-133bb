@@ -69,9 +69,11 @@
                         "style": "link"
                     },
                     {
-                        "label": "Sign Up",
-                        "url": "/signup",
-                        "style": "link"
+                        "label": "Документация",
+                        "url": "https://www.notion.so/ebc43e94f3284cbab017c841b37ce881",
+                        "style": "link",
+                        "new_window": true,
+                        "no_follow": true
                     },
                     {
                         "label": "Контакты",

@@ -1,8 +1,8 @@
 ---
-title: The Advantages and Disadvantages of Working from Home
+title: Как напарсить данные с Авито и ЦИАН прямо сейчас
 excerpt: >-
-  Work at home parent is an entrepreneur who works from home and integrates
-  parenting into his or her business activities.
+  Робастик полностью готов к загрузке данных с Авито и ЦИАН после установки.
+  Просто нажмите "Старт" и загрузка начнется с заданной задержкой.
 author: src/data/authors/jane-doe.yaml
 date: '2019-04-22'
 thumb_image: images/9_thumb.jpg
