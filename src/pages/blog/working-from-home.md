@@ -1,11 +1,11 @@
 ---
-title: Как напарсить данные с Авито и ЦИАН прямо сейчас
+title: Как загрузить данные с Авито и ЦИАН в Excel прямо сейчас
 excerpt: >-
   Робастик полностью готов к загрузке данных с Авито и ЦИАН после установки.
   Просто нажмите "Старт" и загрузка начнется с заданной задержкой.
 author: src/data/authors/jane-doe.yaml
 date: '2019-04-22'
-thumb_image: images/9_thumb.jpg
+thumb_image: images/man-exploring-globe-green.png
 thumb_image_alt: People in a conference room
 image: images/9.jpg
 image_alt: People in a conference room
