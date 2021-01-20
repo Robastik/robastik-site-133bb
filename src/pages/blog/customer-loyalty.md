@@ -9,7 +9,7 @@ excerpt: >-
 date: '2021-02-20'
 thumb_image: images/3_thumb.jpg
 thumb_image_alt: Автоматизация работы с данными для аналитиков в Excel
-image: images/3.jpg
+image: images/girl-and-boy-doing-discussion-green.png
 image_alt: Как Робастик помогает аналитикам работать с данными
 template: post
 meta_title: Введение в Робастик
