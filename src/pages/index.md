@@ -3,7 +3,7 @@ title: Главная
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/Меню3 для сайта.png
     image_alt: Меню надстройки Excel Робастик
     title: Парсинг и отчетинг в Excel
     content: >
@@ -20,7 +20,7 @@ sections:
     subtitle: "1.Собери в Excel\_данные с сайтов<br>2.Проведи их анализ и покажи на графике<br>3.Сделай отчет в Word"
     features:
       - title: Парсинг в Excel
-        image: images/feature1.png
+        image: images/Меню4.png
         image_alt: App preview on a phone and tablet
         content: >
           *   Ссылку на нужную страницу с данными скопируй из браузера в Excel и
