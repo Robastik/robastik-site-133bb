@@ -37,7 +37,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Документ Word с данными из Excel
-        image: images/feature2.png
+        image: images/Меню5.png
         image_alt: App users welcoming a new member
         content: >
           *   Результаты анализа в виде чисел, слов и графиков автоматически
