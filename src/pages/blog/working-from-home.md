@@ -7,7 +7,7 @@ author: src/data/authors/jane-doe.yaml
 date: '2019-04-22'
 thumb_image: images/man-exploring-globe-green.png
 thumb_image_alt: People in a conference room
-image: images/9.jpg
+image: images/blue-whale.png
 image_alt: People in a conference room
 template: post
 ---
