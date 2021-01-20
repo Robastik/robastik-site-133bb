@@ -16,7 +16,7 @@ sections:
   - section_id: features
     type: section_features
     background: white
-    title: Биг дата для небольших задач
+    title: Для небольших задач
     subtitle: "1.Собери в Excel\_данные с сайтов<br>2.Проведи их анализ и покажи на графике<br>3.Сделай отчет в Word"
     features:
       - title: Парсинг в Excel
