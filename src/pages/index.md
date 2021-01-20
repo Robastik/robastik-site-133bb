@@ -30,7 +30,7 @@ sections:
 
           *   Авито, ЦИАН и любой сайт по вашему выбору.
         actions:
-          - label: Загрузить данные в Excel
+          - label: Подробнее
             url: /features
             style: secondary
             has_icon: true
