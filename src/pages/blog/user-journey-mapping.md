@@ -8,7 +8,7 @@ excerpt: >-
   результатами проведенного в Excel анализа данных.
 author: src/data/authors/jane-doe.yaml
 date: '2019-03-27'
-thumb_image: images/marketing-employee-working-on-marketing-strategy-green.png
+thumb_image: images/marketing-employee-working-on-marketing-strategy-purple.png
 thumb_image_alt: Business people in a meeting
 image: images/fierce-broccoli.png
 image_alt: Business people in a meeting
