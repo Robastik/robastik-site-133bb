@@ -69,7 +69,7 @@ sections:
   - section_id: more
     type: section_reviews
     background: white
-    title: Расчет Excel оформить в Word
+    title: и другие функции
     subtitle: >-
       Заполнение документа Word результатами расчета Excel для справок, сводок,
       отчетов и других документов
