@@ -7,7 +7,7 @@ excerpt: >-
   и чем все это отличается от других похожих программ, которые делают примерно
   то же самое.
 date: '2021-02-20'
-thumb_image: images/happy-mahogany.png
+thumb_image: images/girl-and-boy-doing-discussion-purple.png
 thumb_image_alt: Автоматизация работы с данными для аналитиков в Excel
 image: images/girl-and-boy-doing-discussion-green.png
 image_alt: Как Робастик помогает аналитикам работать с данными
