@@ -5,7 +5,7 @@ excerpt: >-
   Просто нажмите "Старт" и загрузка начнется с заданной задержкой.
 author: src/data/authors/jane-doe.yaml
 date: '2019-04-22'
-thumb_image: images/man-exploring-globe-green.png
+thumb_image: images/man-exploring-globe-purple.png
 thumb_image_alt: People in a conference room
 image: images/blue-whale.png
 image_alt: People in a conference room
