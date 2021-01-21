@@ -20,7 +20,7 @@ sections:
     subtitle: "1.Собрать в Excel\_данные с сайтов<br>2.Анализировать их и показать на графике<br>3.Сделать отчет в Word"
     features:
       - title: Парсинг в Excel
-        image: images/Меню4.png
+        image: images/main-parsing-double-clear.jpg
         image_alt: App preview on a phone and tablet
         content: >
           *   Скопировать ссылку из браузера в Excel и кликнуть "Старт". Данные
