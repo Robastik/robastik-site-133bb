@@ -16,8 +16,8 @@ sections:
   - section_id: features
     type: section_features
     background: white
-    title: Биг дата для небольших задач
-    subtitle: "1.Собери в Excel\_данные с сайтов<br>2.Проведи их анализ и покажи на графике<br>3.Сделай отчет в Word"
+    title: Для небольших задач
+    subtitle: "1.Собрать в Excel\_данные с сайтов<br>2.Анализировать их и показать на графике<br>3.Сделать отчет в Word"
     features:
       - title: Парсинг в Excel
         image: images/Меню4.png
@@ -69,10 +69,10 @@ sections:
   - section_id: more
     type: section_reviews
     background: white
-    title: Расчет Excel оформить в Word
+    title: ..и другие функции
     subtitle: >-
-      Заполнение документа Word результатами расчета Excel для справок, сводок,
-      отчетов и других документов
+      для подготовки расчета Excel к заполнению в Word справок, сводок, отчетов
+      и других документов
     reviews:
       - author: Число прописью
         content: >-
