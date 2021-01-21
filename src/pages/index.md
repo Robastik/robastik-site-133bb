@@ -3,7 +3,7 @@ title: Главная
 sections:
   - section_id: hero
     type: section_hero
-    image: images/Меню3 для сайта.png
+    image: images/КПДВ.png
     image_alt: Меню надстройки Excel Робастик
     title: Парсинг и отчетинг в Excel
     content: >
