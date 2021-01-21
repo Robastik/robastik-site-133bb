@@ -3,7 +3,7 @@ title: Главная
 sections:
   - section_id: hero
     type: section_hero
-    image: images/Меню3 для сайта.png
+    image: images/КПДВ.png
     image_alt: Меню надстройки Excel Робастик
     title: Парсинг и отчетинг в Excel
     content: >
@@ -23,9 +23,8 @@ sections:
         image: images/Меню4.png
         image_alt: App preview on a phone and tablet
         content: >
-          *   Ссылку на нужную страницу с данными скопируй из браузера в Excel и
-          кликни "Старт". Данные начнут загружаться на лист Excel с заданной
-          задержкой.
+          *   Скопировать ссылку из браузера в Excel и кликнуть "Старт". Данные
+          начнут загружаться на лист Excel с заданной задержкой.
 
 
           *   Авито, ЦИАН и любой сайт по вашему выбору.
