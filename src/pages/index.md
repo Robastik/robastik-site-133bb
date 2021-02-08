@@ -51,7 +51,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Тепловая карта
+      - title: График на карте
         image_alt: App user profile preview
         content: >
           Построй в Excel карту цен как у [Кеплер](https://kepler.gl/) или
