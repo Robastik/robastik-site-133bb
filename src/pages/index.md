@@ -54,9 +54,9 @@ sections:
       - title: График на карте
         image_alt: App user profile preview
         content: >
-          Построй в Excel карту цен как у [Кеплер](https://kepler.gl/) или
-          сложную диаграмму [d3](https://github.com/d3/d3/wiki/Gallery) и она
-          автоматически вставится в твой документ Word.
+          Карта цен как у [Кеплер](https://kepler.gl/) или сложную диаграмму
+          [d3](https://github.com/d3/d3/wiki/Gallery) с автоматической вставкой
+          в заполняемый документ Word.
         actions:
           - label: (Скоро)
             url: /features
