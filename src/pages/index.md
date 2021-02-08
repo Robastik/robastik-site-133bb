@@ -35,7 +35,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Документ Word с данными из Excel
+      - title: Заполнить документ Word по шаблону
         image: images/fabulous-apple.png
         image_alt: App users welcoming a new member
         content: >
