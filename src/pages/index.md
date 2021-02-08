@@ -54,7 +54,7 @@ sections:
       - title: График на карте
         image_alt: App user profile preview
         content: >
-          Карта цен как у [Кеплер](https://kepler.gl/) или сложную диаграмму
+          Карта цен как у [Кеплер](https://kepler.gl/) или сложная диаграмма как
           [d3](https://github.com/d3/d3/wiki/Gallery) с автоматической вставкой
           в заполняемый документ Word.
         actions:
