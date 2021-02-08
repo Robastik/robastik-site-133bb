@@ -17,7 +17,7 @@ sections:
     type: section_features
     background: white
     title: Для небольших задач
-    subtitle: "1.Собрать в Excel\_данные с сайтов<br>2.Анализировать и показать на графике<br>3.Отправить в отчет в Word"
+    subtitle: "1.Собрать в Excel\_данные с сайтов<br>2.Показать их на графике<br>3.Отправить в отчет в Word"
     features:
       - title: Парсинг в Excel
         image: images/main-parsing-double-clear.jpg
