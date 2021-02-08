@@ -7,8 +7,8 @@ sections:
     image_alt: Меню надстройки Excel Робастик
     title: Парсинг и отчетинг в Excel
     content: >
-      Сохранение в Excel опубликованных на сайтах данных и заполнение документов
-      в формате Word результатами выполненных в Excel расчетов
+      Добавьте в меню Excel кнопки для загрузки данных с сайтов и для заполнения
+      документов Word результатами расчетов по шаблону
     actions:
       - label: Скачать Робастик сейчас
         url: /features
@@ -17,7 +17,7 @@ sections:
     type: section_features
     background: white
     title: Для небольших задач
-    subtitle: "1.Собрать в Excel\_данные с сайтов<br>2.Анализировать и показать на графике<br>3.Отправить в отчет в Word"
+    subtitle: "1.Собрать в Excel\_данные с сайтов<br>2.Показать их на графике<br>3.Отправить результаты в Word"
     features:
       - title: Парсинг в Excel
         image: images/main-parsing-double-clear.jpg
@@ -27,7 +27,7 @@ sections:
           начнут загружаться на лист Excel с заданной задержкой.
 
 
-          *   Авито, ЦИАН и любой сайт по вашему выбору.
+          *   Авито, ЦИАН и любой сайт по вашему заказу.
         actions:
           - label: Подробнее
             url: /features
@@ -35,12 +35,12 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Документ Word с данными из Excel
+      - title: Заполнить документ Word по шаблону
         image: images/fabulous-apple.png
         image_alt: App users welcoming a new member
         content: >
-          *   Результаты анализа в виде чисел, слов и графиков автоматически
-          переносятся из Excel в указанное вами место в документе Word.
+          *   Содержимое каждой ячейки и целые таблицы Excel автоматически
+          заполнят указанные вами места в шаблоне Word.
 
 
           *   Не нужно уметь программировать.
@@ -51,7 +51,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Тепловая карта
+      - title: График на карте
         image_alt: App user profile preview
         content: >
           Построй в Excel карту цен как у [Кеплер](https://kepler.gl/) или
