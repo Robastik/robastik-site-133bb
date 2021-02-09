@@ -147,5 +147,6 @@
         "content": "&copy; Робастик"
     },
     "title": "Робастик",
-    "domain": "robastik.ru"
+    "domain": "robastik.ru",
+    "favicon": "images/important-chili.ico"
 }
