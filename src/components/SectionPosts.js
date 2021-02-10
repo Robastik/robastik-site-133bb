@@ -38,7 +38,6 @@ export default class SectionPosts extends React.Component {
                         <div className="post-excerpt">
                           <p>{_.get(post, 'frontmatter.excerpt', null)}</p>
                         </div>
-                        
                       </div>
                     </div>
                   </article>
