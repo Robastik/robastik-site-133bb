@@ -17,22 +17,6 @@ template: page
 
 Мне нравилось программировать в школе и в ВУЗе, но потом я попал в экономику. Вскоре стало ясно, что прикладная экономика состоит из цифр.
 
-| Язык | Метка |
-
-| -----|------|
-
-| Java Script | javascript |
-
-| C++ |cpp|
-
-| HTML|html|
-
-|Markdown|md|
-
-|JSON|json|
-
-|Python|python|
-
-|SQL|sql|
+| Язык | Метка || -----|------|| Java Script | javascript || C++ |cpp|| HTML|html||Markdown|md||JSON|json||Python|python||SQL|sql|
 
 илось программировать в школе, в ВУЗе, но потом я попал в экономику.
