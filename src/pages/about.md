@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: О нас
 subtitle: >-
   This is an optional subtitle. It can be used to describe what this page is
   about.
