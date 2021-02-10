@@ -1,6 +1,6 @@
 ---
 title: Мы любим данные
-subtitle: 'Кто мы, откуда и как хотим вам помочь'
+subtitle: 'собираем, оформляем и визуализируем'
 image: images/about.jpg
 image_alt: Team members in a conference room
 template: page
