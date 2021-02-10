@@ -4,7 +4,7 @@ excerpt: >-
   Робастик полностью готов к загрузке данных с Авито и ЦИАН после установки.
   Просто нажмите "Старт" и загрузка начнется с заданной задержкой.
 author: src/data/authors/jane-doe.yaml
-date: '2019-04-22'
+date: '2100-01-02'
 thumb_image: images/man-exploring-globe-purple.png
 thumb_image_alt: People in a conference room
 image: images/blue-whale.png
