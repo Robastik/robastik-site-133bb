@@ -1,7 +1,7 @@
 ---
 title: 'Мы любим данные:'
 subtitle: 'собираем, оформляем и визуализируем'
-image: images/about.jpg
+image: images/about_kpdv.png
 image_alt: Team members in a conference room
 template: page
 ---
