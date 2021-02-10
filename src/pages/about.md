@@ -1,5 +1,5 @@
 ---
-title: О нас
+title: Мы любим данные
 subtitle: 'Кто мы, откуда и как хотим вам помочь'
 image: images/about.jpg
 image_alt: Team members in a conference room
