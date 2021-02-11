@@ -12,7 +12,7 @@ template: page
 
 Этот кто-то оказался я.
 
-![](/images/ava2.png)
+![](/images/ava3\_enhance.png)
 
 **Привет, я Денис!**
 
