@@ -48,7 +48,7 @@ sections:
         url: 'https://www.notion.so/35af522f0f884c2196c9c827c6148f24'
         style: primary
       - label: Перейти в Контакты для заказа
-        url: '#'
+        url: 'https://www.notion.so/35af522f0f884c2196c9c827c6148f24'
         style: secondary
   - section_id: call-to-action
     type: section_cta
