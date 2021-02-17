@@ -57,7 +57,7 @@ sections:
         style: secondary
   - section_id: call-to-action
     type: section_cta
-    title: Самый доступный парсинг →
+    title: Самый доступный парсинг
     subtitle: Парсинг из меню Excel со встроенным Chrome
     actions:
       - label: Скачать Робастик
