@@ -39,5 +39,7 @@ sections:
         style: secondary
 template: landing
 meta_title: Отчетинг | Робастик
-meta_description: 'Верстка документов Word в Робастике позволяет заполнить файлы '
+meta_description: >-
+  Верстка документов Word в Робастике позволяет заполнить файлы .docx
+  результатами 
 ---
