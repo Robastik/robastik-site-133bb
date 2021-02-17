@@ -1,5 +1,5 @@
 ---
-title: Возможности парсинга у Робастика
+title: Парсинг Робастика
 sections:
   - section_id: features
     type: section_content
