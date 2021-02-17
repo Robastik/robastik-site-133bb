@@ -1,5 +1,5 @@
 ---
-title: Возможности парсинга
+title: 'Возможности парсинга '
 sections:
   - section_id: features
     type: section_content
