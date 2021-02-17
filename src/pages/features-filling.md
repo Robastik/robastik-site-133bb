@@ -39,5 +39,5 @@ sections:
         style: secondary
 template: landing
 meta_title: Отчетинг | Робастик
-meta_description: 'Верстка документов Word '
+meta_description: 'Верстка документов Word в робастике '
 ---
