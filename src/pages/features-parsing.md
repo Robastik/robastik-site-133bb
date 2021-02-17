@@ -6,21 +6,15 @@ sections:
     image: images/parser-brawser.png
     image_alt: Робастик встраивает парсер в Excel
     title: Парсинг
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >+
+      Во время установки Робастик встраивает в Excel браузер Chrome. 
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Одновременно можно указать до 11 разных источников для загрузки. Все
+      источники загружаются независимо и параллельно. Сохранение данных из
+      разных источников возможно как в разные вкладки одного файла Excel, так и
+      в разные файлы.
 
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
-
-      * Phasellus ut enim non lorem venenatis rutrum.
-
-
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
     actions:
       - label: Free Trial
         url: /signup
