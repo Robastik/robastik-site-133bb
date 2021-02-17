@@ -4,7 +4,7 @@ sections:
     type: section_content
     background: gray
     image: images/parser-brawser.png
-    image_alt: App preview on a phone and tablet
+    image_alt: 'Парсер встроен в '
     title: Парсинг
     content: >-
       Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
