@@ -3,7 +3,7 @@ sections:
   - section_id: features-parsing
     type: section_content
     background: gray
-    image: images/feature1.png
+    image: images/parser-brawser.png
     image_alt: App preview on a phone and tablet
     title: Парсинг
     content: >-
