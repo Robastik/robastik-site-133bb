@@ -38,5 +38,5 @@ sections:
         url: '#'
         style: secondary
 template: landing
-meta_title: 'Возможности парсинга у робастика '
+meta_title: 'Возможности парсинга у Робастика '
 ---
