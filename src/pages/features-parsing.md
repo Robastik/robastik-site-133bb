@@ -43,7 +43,7 @@ sections:
       Для заказа парсинга любых источников подробное задание можно передать
       любым указанным в Контактах способом.
     actions:
-      - label: Free Trial
+      - label: Перейти в Контакты для заказа
         url: /signup
         style: primary
       - label: View Demo
