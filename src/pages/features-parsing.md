@@ -49,7 +49,7 @@ sections:
         style: secondary
   - section_id: call-to-action
     type: section_cta
-    title: Парсинг данных в Excel встроенным Chrome
+    title: Самый доступный парсинг
     subtitle: Парсинг данных в Excel встроенным Chrome
     actions:
       - label: Скачать Робастик
