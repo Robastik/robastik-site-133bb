@@ -22,7 +22,7 @@ sections:
         style: secondary
   - section_id: call-to-action
     type: section_cta
-    title: Самый доступный отчетинг!
+    title: Заполни форму в один клик
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: Get Started
