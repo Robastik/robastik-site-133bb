@@ -1,5 +1,5 @@
 ---
-title: Features
+title: Parsing Features
 sections:
   - section_id: features
     type: section_content
