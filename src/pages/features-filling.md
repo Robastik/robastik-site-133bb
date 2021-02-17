@@ -22,7 +22,7 @@ sections:
         style: secondary
   - section_id: call-to-action
     type: section_cta
-    title: Заполни форму в один клик
+    title: Заполни документ в один клик
     subtitle: Проще уже не будет!
     actions:
       - label: Скачать Робастик
