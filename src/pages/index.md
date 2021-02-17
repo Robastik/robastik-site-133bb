@@ -59,7 +59,7 @@ sections:
           в заполняемый документ Word.
         actions:
           - label: (Скоро)
-            url: /features
+            url: /features-plotting
             style: secondary
             has_icon: true
             icon: arrow-right
