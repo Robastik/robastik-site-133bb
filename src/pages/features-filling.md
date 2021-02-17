@@ -38,5 +38,5 @@ sections:
         url: '#'
         style: secondary
 template: landing
-meta_title: Отчетинг | робастик
+meta_title: Отчетинг | Робастик
 ---
