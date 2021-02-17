@@ -23,7 +23,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Заполни форму в один клик
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Проще уже не будет!
     actions:
       - label: Скачать Робастик
         url: '#'
