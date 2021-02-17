@@ -39,5 +39,4 @@ sections:
         style: secondary
 template: landing
 meta_title: Гравик на карте | Робастик
-meta_description: 'Данные '
 ---
