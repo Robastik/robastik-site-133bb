@@ -4,37 +4,51 @@ sections:
   - section_id: features-filling
     type: section_content
     background: gray
-    image: images/feature1.png
+    image: images/Otcheting.jpg
     image_alt: App preview on a phone and tablet
     title: Отчетинг
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >
+      ##### - это заполнение типовых документов Word данными из файла Excel.
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
-
-      * Phasellus ut enim non lorem venenatis rutrum.
+      Значения из ячеек Excel вставляются в указанные для них места в тексте
+      Word. Также переносятся и таблицы.
 
 
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+      1.  Дать ячейке имя (в примере справа - "Имя\_ячейки")
+
+
+      2.  В нужном месте документа Word вставить это имя в фигурных скобках
+      {Имя\_ячейки}
+
+
+      3.  Нажать кнопку "Передать в Word" в меню Робастика
+
+
+      4.  Содержимое из ячейки Excel вставится вместо {Имя\_ячейки} в документе
+      Word
+
+
+      Для вставки таблицы имя листа на ярлыке нужно взять в фигурные скобки:
+      {имя\_листа}. В Word вставится диапазон ячеек от левой верхней заполненной
+      ячейки до правой нижней. 
+
+
+      Подробнее в [Вики](https://www.notion.so/e2620d3d49a74450a0493e1c9c398d2d)
+      Робастика.
+
+
+      Файлы примеров можно скачать здесь:
     actions:
-      - label: Free Trial
-        url: /signup
-        style: primary
-      - label: View Demo
+      - label: Скачать файлы примеров
         url: '#'
         style: secondary
   - section_id: call-to-action
     type: section_cta
-    title: This Is Call to Action Block!
-    subtitle: This is an optional description for the call to action block.
+    title: Заполни документ в один клик
+    subtitle: Проще уже не будет!
     actions:
-      - label: Get Started
+      - label: Скачать Робастик
         url: '#'
         style: secondary
 template: landing
