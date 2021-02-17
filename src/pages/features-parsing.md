@@ -1,5 +1,4 @@
 ---
-title: Парсинг | Робастик
 sections:
   - section_id: features
     type: section_content
