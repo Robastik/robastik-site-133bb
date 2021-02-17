@@ -14,9 +14,6 @@ sections:
       Значения из ячеек Excel вставляются в указанные для них места в тексте
       Word. Также переносятся и таблицы.
     actions:
-      - label: Free Trial
-        url: /signup
-        style: primary
       - label: Скачать демо-файлы
         url: '#'
         style: secondary
