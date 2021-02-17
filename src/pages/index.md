@@ -46,7 +46,7 @@ sections:
           *   Не нужно уметь программировать.
         actions:
           - label: Подробнее
-            url: /features
+            url: /features-filling
             style: secondary
             has_icon: true
             icon: arrow-right
