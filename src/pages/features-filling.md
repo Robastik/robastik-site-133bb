@@ -4,7 +4,7 @@ sections:
   - section_id: features-filling
     type: section_content
     background: gray
-    image: images/cat-parser-left.jpg
+    image: images/Otcheting.jpg
     image_alt: App preview on a phone and tablet
     title: Отчетинг
     content: >
