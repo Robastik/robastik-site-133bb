@@ -4,7 +4,7 @@ sections:
     type: section_content
     background: gray
     image: images/parser-brawser.png
-    image_alt: 'Парсер встроен в '
+    image_alt: Парсер встроен в Excel
     title: Парсинг
     content: >-
       Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
