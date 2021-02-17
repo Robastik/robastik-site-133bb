@@ -39,5 +39,7 @@ sections:
         style: secondary
 template: landing
 meta_title: Гравик на карте | Робастик
-meta_description: 'Робастик позволяет использовать данные в файле Excel для построения '
+meta_description: >-
+  Робастик позволяет использовать данные в файле Excel для построения графика на
+  кар
 ---
