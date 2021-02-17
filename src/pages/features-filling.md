@@ -40,7 +40,7 @@ sections:
 
       Файлы примеров можно скачать здесь:
     actions:
-      - label: Скачать демо-файлы
+      - label: Скачать файлы примеров
         url: '#'
         style: secondary
   - section_id: call-to-action
