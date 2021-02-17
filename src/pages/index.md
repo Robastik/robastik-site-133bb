@@ -30,7 +30,7 @@ sections:
           *   Авито, ЦИАН и любой сайт по вашему заказу.
         actions:
           - label: Подробнее
-            url: /features
+            url: /features-
             style: secondary
             has_icon: true
             icon: arrow-right
