@@ -51,7 +51,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Скачать Робастик сейчас
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Парсинг данных в Excel встроенным Chrome
     actions:
       - label: Get Started
         url: '#'
