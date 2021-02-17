@@ -7,21 +7,12 @@ sections:
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
     title: Отчетинг
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >
+      ##### /- это заполнение типовых документов Word данными из файла Excel.
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
-
-      * Phasellus ut enim non lorem venenatis rutrum.
-
-
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+      Значения из ячеек Excel вставляются в указанные для них места в тексте
+      Word. Также переносятся и таблицы.
     actions:
       - label: Free Trial
         url: /signup
