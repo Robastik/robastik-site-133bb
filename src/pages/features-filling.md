@@ -17,7 +17,7 @@ sections:
       - label: Free Trial
         url: /signup
         style: primary
-      - label: View Demo
+      - label: Скачать демо-файлы
         url: '#'
         style: secondary
   - section_id: call-to-action
