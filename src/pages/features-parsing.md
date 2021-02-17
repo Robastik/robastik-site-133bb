@@ -7,6 +7,9 @@ sections:
     image_alt: Робастик встраивает парсер в Excel
     title: Парсинг
     content: >
+      Только для 64- разрядного Excel.
+
+
       Во время установки Робастик встраивает в Excel браузер Chrome. Не
       используются Selenium, WebDriver и Python.
 
