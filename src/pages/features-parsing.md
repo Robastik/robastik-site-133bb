@@ -4,36 +4,63 @@ sections:
     type: section_content
     background: gray
     image: images/parser-brawser.png
-    image_alt: App preview on a phone and tablet
+    image_alt: Робастик встраивает парсер в Excel
     title: Парсинг
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >
+      Только для 64- разрядного Excel.
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
-
-      * Phasellus ut enim non lorem venenatis rutrum.
+      Управление парсером из меню Excel.
 
 
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+      Во время установки Робастик встраивает в Excel браузер Chrome. Не
+      используются Selenium и WebDriver.
+
+
+      Одновременно можно указать до 11 разных источников для парсинга.
+
+
+      Все источники загружаются независимо и параллельно.
+
+
+      Сохранение данных из разных источников возможно в разные вкладки одного
+      файла Excel или в разные файлы.
+
+
+      Количество загружаемых записей ограничивается только доступным количеством
+      строк на листе Excel.
+
+
+      Скорость загрузки зависит от настраиваемой задержки, ограничений источника
+      и быстродействия компьютера. Обход капчи считается неэтичным - необходимо
+      соблюдать ограничения источника.
+
+
+      Помимо сохранения данных в формате Excel настраивается сохранение копии
+      страницы в формате PDF и расположенных на странице изображений. По заказу
+      возможны любые другие действия.
+
+
+      Дополнительные сведения о приемах парсинга и образцы данных изложены в
+      [Вики](https://www.notion.so/ebc43e94f3284cbab017c841b37ce881) Робастика.
+
+
+      Для проверки работоспособности доступна загрузка Авито и ЦИАН. Образец
+      данных можно скачать ниже.
+
+
+      Для заказа парсинга любых источников подробное задание можно передать
+      любым указанным в Контактах способом.
     actions:
-      - label: Free Trial
-        url: /signup
-        style: primary
-      - label: View Demo
-        url: '#'
+      - label: Перейти в Контакты для заказа
+        url: 'https://www.notion.so/35af522f0f884c2196c9c827c6148f24'
         style: secondary
   - section_id: call-to-action
     type: section_cta
-    title: This Is Call to Action Block!
-    subtitle: This is an optional description for the call to action block.
+    title: Самый доступный парсинг
+    subtitle: Парсинг из меню Excel со встроенным Chrome
     actions:
-      - label: Get Started
+      - label: Скачать Робастик
         url: '#'
         style: secondary
 template: landing
