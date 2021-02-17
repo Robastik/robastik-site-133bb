@@ -53,7 +53,7 @@ sections:
     title: Парсинг данных в Excel встроенным Chrome
     subtitle: Парсинг данных в Excel встроенным Chrome
     actions:
-      - label: Get Started
+      - label: Скачать Робастик
         url: '#'
         style: secondary
 template: landing
