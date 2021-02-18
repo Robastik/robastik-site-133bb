@@ -11,8 +11,6 @@ sections:
       по шаблону документов Word результатами расчетов
     actions:
       - label: Скачать Робастик сейчас
-        url: >-
-          https://firebasestorage.googleapis.com/v0/b/robastik-2cb02.appspot.com/o/Release%2F%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BE%D1%87%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%82%20%D0%A0%D0%BE%D0%B1%D0%B0%D1%81%D1%82%D0%B8%D0%BA%20%20%D0%B2.0.50.4.zip?alt=media&token=9a46b951-3da9-40d9-a355-df535cbf939a
         style: primary
   - section_id: features
     type: section_features
