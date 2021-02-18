@@ -92,7 +92,6 @@ sections:
       на мелочи
     actions:
       - label: Скачать Робастик
-        url: /signup
         style: primary
   - section_id: recent-posts
     type: section_posts
