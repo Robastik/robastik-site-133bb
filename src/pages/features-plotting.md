@@ -38,7 +38,7 @@ sections:
         url: '#'
         style: secondary
 template: landing
-meta_title: Гравик на карте | Робастик
+meta_title: График на карте | Робастик
 meta_description: >-
   Робастик позволяет использовать данные в файле Excel для построения графика на
   карте с привязкой к геокоординатам
