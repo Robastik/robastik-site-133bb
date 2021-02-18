@@ -49,7 +49,8 @@ sections:
     subtitle: Проще уже не будет!
     actions:
       - label: Скачать Робастик
-        url: '#'
+        url: >-
+          https://github.com/Robastik/Robastik/releases/latest/download/Robastik.zip
         style: secondary
 template: landing
 meta_title: Отчетинг | Робастик
