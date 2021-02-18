@@ -61,7 +61,8 @@ sections:
     subtitle: Парсинг из меню Excel со встроенным Chrome
     actions:
       - label: Скачать Робастик
-        url: '#'
+        url: >-
+          https://github.com/Robastik/Robastik/releases/latest/download/Robastik.zip
         style: secondary
 template: landing
 meta_description: >-
