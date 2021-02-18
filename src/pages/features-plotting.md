@@ -19,7 +19,7 @@ sections:
 
     actions:
       - label: Посмотреть демо kepler
-        url: /signup
+        url: 'https://kepler.gl/'
         style: primary
       - label: Посмотреть демо d3
         url: '#'
