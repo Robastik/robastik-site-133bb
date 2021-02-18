@@ -21,7 +21,7 @@ sections:
       - label: Посмотреть демо kepler
         url: /signup
         style: primary
-      - label: View Demo
+      - label: Посмотреть демо d3
         url: '#'
         style: secondary
   - section_id: call-to-action
