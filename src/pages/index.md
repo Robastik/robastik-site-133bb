@@ -11,7 +11,8 @@ sections:
       по шаблону документов Word результатами расчетов
     actions:
       - label: Скачать Робастик сейчас
-        url: /features
+        url: >-
+          https://drive.google.com/file/d/18QeYesRv1ipUjlqUPCUQFF2TC2gBZWBp/view?usp=sharing
         style: primary
   - section_id: features
     type: section_features
