@@ -7,21 +7,14 @@ sections:
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
     title: График на карте
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >+
+      При установке Робастика он встраивает в Excel браузер Chrome и это
+      позволяет показывать данные из файлов .xlsx на карте. 
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      В примере справа показаны собранные Робастиком на Авито объекты
+      недвижимости на карте Яндекса. 
 
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
-
-      * Phasellus ut enim non lorem venenatis rutrum.
-
-
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
     actions:
       - label: Free Trial
         url: /signup
