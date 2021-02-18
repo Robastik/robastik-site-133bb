@@ -36,7 +36,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Новые возможности Excel
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Только для продвинутых
     actions:
       - label: Скачать Робастик
         url: '#'
