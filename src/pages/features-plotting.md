@@ -4,41 +4,46 @@ sections:
   - section_id: features-plotting
     type: section_content
     background: gray
-    image: images/feature1.png
-    image_alt: App preview on a phone and tablet
+    image: images/Map-Sample.png
+    image_alt: >-
+      Собранные Робастиком на Авито объекты недвижимости показаны на карте
+      Яндекса
     title: График на карте
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >
+      Во время установки Робастик встраивает в Excel браузер Chrome и это
+      позволяет показывать данные из файлов .xlsx на карте.
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
-
-      * Phasellus ut enim non lorem venenatis rutrum.
+      В простейшем примере справа показаны собранные Робастиком на Авито объекты
+      недвижимости на тепловой карте Яндекса.
 
 
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+      Сейчас эта возможность временно отключена, чтобы выбрать подходящий дизайн
+      для тепловой карты. Нужно выбрать удовлетворяющий всех вариант. Одним из
+      претендентов является разработка **kepler**, с которую можно посмотреть по
+      ссылке ниже.
+
+
+      Другой возможностью является построение web-графиков. Их возможности
+      хорошо показывает **d3**.
     actions:
-      - label: Free Trial
-        url: /signup
+      - label: Посмотреть демо kepler
+        url: 'https://kepler.gl/'
         style: primary
-      - label: View Demo
-        url: '#'
+      - label: Посмотреть демо d3
+        url: 'https://observablehq.com/@d3/gallery'
         style: secondary
   - section_id: call-to-action
     type: section_cta
-    title: This Is Call to Action Block!
-    subtitle: This is an optional description for the call to action block.
+    title: Новые возможности Excel
+    subtitle: Только для продвинутых
     actions:
-      - label: Get Started
-        url: '#'
+      - label: Скачать Робастик
+        url: >-
+          https://github.com/Robastik/Robastik/releases/latest/download/Robastik.zip
         style: secondary
 template: landing
-meta_title: Гравик на карте | Робастик
+meta_title: График на карте | Робастик
 meta_description: >-
   Робастик позволяет использовать данные в файле Excel для построения графика на
   карте с привязкой к геокоординатам
