@@ -12,8 +12,6 @@ sections:
     actions:
       - label: Скачать Робастик сейчас
         style: primary
-        url: >-
-          https://drive.google.com/file/d/1Zz-tFsEHjnPXWamvzWLuNd5kyUeSxkQc/view?usp=sharing
   - section_id: features
     type: section_features
     background: white
