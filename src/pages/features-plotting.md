@@ -22,7 +22,7 @@ sections:
         url: 'https://kepler.gl/'
         style: primary
       - label: Посмотреть демо d3
-        url: '#'
+        url: 'https://observablehq.com/@d3/gallery'
         style: secondary
   - section_id: call-to-action
     type: section_cta
