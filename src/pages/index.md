@@ -12,6 +12,8 @@ sections:
     actions:
       - label: Скачать Робастик сейчас
         style: primary
+        url: >-
+          https://github.com/Robastik/Robastik/releases/latest/download/Robastik.zip
   - section_id: features
     type: section_features
     background: white
