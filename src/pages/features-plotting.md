@@ -5,7 +5,7 @@ sections:
     type: section_content
     background: gray
     image: images/Map-Sample.png
-    image_alt: App preview on a phone and tablet
+    image_alt: 'Собранные Робастиком на авито '
     title: График на карте
     content: >+
       При установке Робастика он встраивает в Excel браузер Chrome и это
