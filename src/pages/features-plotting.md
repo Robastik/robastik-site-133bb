@@ -4,7 +4,7 @@ sections:
   - section_id: features-plotting
     type: section_content
     background: gray
-    image: images/feature1.png
+    image: images/Map-Sample.png
     image_alt: App preview on a phone and tablet
     title: График на карте
     content: >+
