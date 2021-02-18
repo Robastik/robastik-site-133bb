@@ -38,7 +38,7 @@ sections:
     title: Новые возможности Excel
     subtitle: This is an optional description for the call to action block.
     actions:
-      - label: Get Started
+      - label: Скачать Робастик
         url: '#'
         style: secondary
 template: landing
