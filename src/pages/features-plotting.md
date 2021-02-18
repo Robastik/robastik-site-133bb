@@ -5,7 +5,9 @@ sections:
     type: section_content
     background: gray
     image: images/Map-Sample.png
-    image_alt: 'Собранные Робастиком на Авито '
+    image_alt: >-
+      Собранные Робастиком на Авито объекты недвижимости показаны на карте
+      Яндекса
     title: График на карте
     content: >+
       При установке Робастика он встраивает в Excel браузер Chrome и это
