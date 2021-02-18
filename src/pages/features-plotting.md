@@ -18,7 +18,7 @@ sections:
       недвижимости на карте Яндекса. 
 
     actions:
-      - label: Free Trial
+      - label: Посмотреть демо kepler
         url: /signup
         style: primary
       - label: View Demo
