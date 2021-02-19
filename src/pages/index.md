@@ -13,7 +13,7 @@ sections:
       - label: Скачать Робастик сейчас
         style: primary
         url: >-
-          https://github.com/Robastik/Robastik/releases/latest/download/Robastik.zip
+          https://github.com/Robastik/Robastik/releases/latest/download/Robastik.for.Excel.64-bit.zip
   - section_id: features
     type: section_features
     background: white
