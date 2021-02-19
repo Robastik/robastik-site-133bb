@@ -50,7 +50,7 @@ sections:
     actions:
       - label: Скачать Робастик
         url: >-
-          https://github.com/Robastik/Robastik/releases/latest/download/Robastik.zip
+          https://github.com/Robastik/Robastik/releases/latest/download/Robastik.for.Excel.64-bit.zip
         style: secondary
 template: landing
 meta_title: Отчетинг | Робастик
