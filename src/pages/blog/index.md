@@ -1,5 +1,5 @@
 ---
-title: Робастик | Блог
+title: Блог
 template: blog
 meta_title: /blog
 meta_description: >-
