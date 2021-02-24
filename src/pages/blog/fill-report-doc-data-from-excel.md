@@ -1,5 +1,5 @@
 ---
-title: Как заполнить отчет в .doc данными из Excel в один клик
+title: Как заполнить документ данными из Excel в один клик
 subtitle: >-
   Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
   aliquet rhoncus sed, hendrerit vel odio.
