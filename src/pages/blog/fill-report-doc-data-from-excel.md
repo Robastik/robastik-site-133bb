@@ -14,13 +14,78 @@ image: images/fierce-broccoli.png
 image_alt: Business people in a meeting
 template: post
 ---
+Заполнение документов по шаблону знакомо всем. Справки,
+счета, договора, декларации, отчеты и т.д. – сопровождают любой рабочий
+процесс. Если это часть вашей работы, и вы заполняете документы данными из Excel, то Робастик вам
+поможет.
 
-Curabitur sed consectetur nisi. Integer sit amet commodo massa. Cras posuere justo magna, id placerat ligula vulputate malesuada. Aenean a ipsum quis neque ornare placerat eu eu orci. Nullam feugiat sed ante in euismod. Pellentesque a nibh dolor. Donec ultrices lacus eget orci commodo ultricies. Morbi placerat purus non varius egestas. Ut tempus ligula quis lorem suscipit, sed vulputate dolor placerat. Aliquam ut massa placerat, vehicula erat non, mattis leo. Pellentesque egestas velit sit amet lectus lobortis, sit amet pharetra ipsum porta. Nullam massa nulla, tincidunt vel volutpat vel, commodo id leo. Curabitur id volutpat lacus, sed commodo velit. Quisque facilisis consectetur nisl vitae vulputate. Proin porttitor ipsum ut diam faucibus, scelerisque posuere ex euismod. Aenean posuere bibendum egestas.
+##### Все делается в два шага:
 
-Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur aliquet rhoncus sed, hendrerit vel odio. Etiam pharetra neque vel gravida tincidunt. Etiam consequat commodo elit id eleifend. Nullam eu justo eu odio pretium feugiat. Sed non neque dui. Fusce leo erat, imperdiet quis pulvinar vitae, consequat quis dolor. Curabitur eu quam et odio vehicula auctor convallis nec ipsum. Nam vitae dui sapien. Pellentesque vitae lorem id ipsum lacinia consectetur id a erat. Nulla semper ut erat vel vulputate. Nulla sagittis dui ut dapibus euismod. Phasellus et dui posuere, lobortis erat a, pretium nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas molestie ut tellus in convallis. Cras luctus urna quis velit volutpat, semper venenatis mauris auctor.
+1.  Всем нужным ячейкам в Excel даются названия.
 
-Aenean dui sem, sollicitudin non venenatis eget, gravida rutrum risus. Proin massa leo, convallis id orci at, convallis dignissim mi. Integer et arcu arcu. Sed tristique diam id elit iaculis accumsan. Donec vehicula libero nunc, quis dictum orci pharetra nec. Proin blandit pellentesque sapien et sodales. Phasellus convallis sapien venenatis semper iaculis. Curabitur commodo iaculis mi, nec gravida nunc pellentesque ac. Nullam ac felis est. Donec gravida arcu ipsum, ut pulvinar est scelerisque id. Duis lobortis ante eu ante volutpat, quis pharetra sapien mattis. Sed ex enim, accumsan ut volutpat a, consectetur iaculis urna. Donec tempus enim sed porta euismod.
+2.  Эти названия вставляются в нужные места в документе.
 
-Nam mauris leo, mattis in finibus sit amet, mattis vitae libero. In sed leo purus. Fusce ac suscipit nisl. Vestibulum tristique neque nec lacus finibus porta. In erat libero, pellentesque non sodales quis, mollis a elit. Vestibulum viverra dui ut ornare maximus. Aliquam at odio quis magna convallis euismod.
+Теперь подробнее.
 
-Integer nisi nisi, hendrerit a ultrices ut, facilisis at odio. Suspendisse aliquet sed magna in bibendum. Praesent sit amet tincidunt purus. Cras sollicitudin at ante semper feugiat. Sed sem sem, dignissim id aliquet ac, interdum fringilla ipsum. Proin laoreet metus leo, et tempor felis aliquam at. Cras eget urna vehicula, elementum tellus a, tempor odio. Morbi pretium augue erat, et suscipit metus varius non. Quisque vitae lectus id mi consequat laoreet. Nam non molestie elit. Proin iaculis vel ex non rhoncus. Donec metus velit, blandit quis arcu quis, venenatis sodales velit.
+Во-первых, что такое название ячейки? Это просто и удобно.
+
+Вот
+это поле слева от строки формул дает ячейке название. Сейчас в этом поле
+написано **В3**. 
+
+![](file:///C:\Users\9EE3~1\AppData\Local\Temp\msohtmlclip1\01\clip_image001.png)![](file:///C:\Users\9EE3~1\AppData\Local\Temp\msohtmlclip1\01\clip_image003.jpg) 
+
+Если в этом поле написать **Цена\_товара**, то ячейка **В3 **будет получит название **Цена\_товара**. Вот так:![](file:///C:\Users\9EE3~1\AppData\Local\Temp\msohtmlclip1\01\clip_image005.jpg)
+
+Теперь, например, формулу **=В3\*1,2** можно написать как **= Цена\_товара\*1,2** и результат будет одинаковый. Попробуйте и сразу
+все поймете.
+
+Со вторым шагом проще. Например, содержимое нашей ячейки **Цена\_товара **(в нашем примере это 45) нужно вставить вместо подчеркивания в текст «*В договоре указан товар по цене \__ руб. в необходимом количестве*». Для этого просто надо заменить подчеркивание на название ячейки в фигурных скобках, вот так: «*В договоре указан товар по цене {Цена\_товара} руб. в необходимом количестве*». 
+
+Все, теперь при клике кнопки **Передать в Word** создается новый документ Word с текстом «*В договоре указан товар по цене 45 руб. в необходимом количестве*».
+
+Еще раз повторим весь процесс от начала до конца:
+
+1.  В файле Excel находятся данные, которыми надо заполнить текст в документе Word. 
+
+2.  Даем название каждой ячейке, которую надо подставлять в текст.
+
+3.  В документе Word названия ячеек вставляем в фигурных скобках в те места, куда надо подставлять их значения. Этот документ теперь будем называть шаблоном.
+
+4.  В меню Робастика кликнуть кнопку Укажите файл шаблона Word и в появившемся окне выбрать нужный шаблон.
+
+5.  В меню Робастика кликнуть кнопку Передать в Word. 
+
+После этого будет открыт **шаблон **и в него будут подставлены значения из Excel. Затем заполненный документ будет сохранен с именем файла Excel и в ту же папку, где находится этот файл. 
+
+> Никогда не называйте 
+>
+> **шаблон **
+>
+> так же, как файл Excel
+
+##### Теперь о вставке целой таблицы.
+
+Например, для вставки таблицы с листа **Экспликация **название этого листа нужно вставлять как **{Экспликация}**. Т.е. чтобы указать лист Excel, с которого надо вставить таблицу в документ, в название этого листа на ярлыке нужно добавить фигурные скобки. ![](file:///C:\Users\9EE3~1\AppData\Local\Temp\msohtmlclip1\01\clip_image007.jpg)
+
+И в документе Word также указать название листа в фигурных скобках:![](file:///C:\Users\9EE3~1\AppData\Local\Temp\msohtmlclip1\01\clip_image009.jpg)
+
+##### Бонусы
+
+1.  Кнопка Обнулить расчет очистит все ячейки с названиями. Это позволяет избежать ошибки, когда в Excel по недогляду остаются старые данные и потом они попадают в новый документ.
+
+2.  Незаполненные ячейки с названиями подсвечиваются красным цветом. Это позволяет избежать ошибки, когда в шаблон передаются пустые ячейки. Эта подсветка отключается в Настройки – Контроль – Подсветка незаполненных ячеек.
+
+3.  После заполнения шаблона данными в файле Excel создается лист Контроль, на котором указываются результаты заполнения, в т.ч. все использованные и пропущенные ячейки. 
+
+> Откройте демонстрационные примеры, которые идут в комплекте с Робастиком 
+
+##### Дополнительные функции
+
+1.  Для работы с ФИО - функции склонения (кому, кого), определения пола (-ый, -ая), сокращения инициалов. 
+
+2.  Несколько вариантов написания чисел словами (3,33 → Три рубля 33 коп).
+
+3.  Определение расстояния между географическими точками по долготе и широте.
+
+Примеры использования функций находятся в демонстрационных примерах (идут в комплекте с Робастиком), в инструкции *Как пользоваться программой.docx*, в Меню – Настройки – Функции. 
