@@ -9,7 +9,7 @@ excerpt: >-
 author: src/data/authors/jane-doe.yaml
 date: '2100-01-01'
 thumb_image: images/marketing-employee-working-on-marketing-strategy-purple.png
-thumb_image_alt: Business people in a meeting
+thumb_image_alt: Автоматически заполнить поля документа данными из Excel в надстройке VBA
 image: images/fierce-broccoli.png
 image_alt: Автоматически заполнить поля документа данными из Excel в надстройке VBA
 template: post
