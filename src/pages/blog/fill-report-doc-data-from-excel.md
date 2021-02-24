@@ -1,8 +1,8 @@
 ---
 title: Как заполнить документ данными из Excel в один клик
 subtitle: >-
-  Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
-  aliquet rhoncus sed, hendrerit vel odio.
+  Самый быстрый способ самостоятельно автоматизировать заполнение форм
+  документов по шаблону данными из Excel
 excerpt: >-
   Не нужно быть программистом, чтобы автоматизировать заполнение документов Word
   результатами проведенного в Excel анализа данных.
