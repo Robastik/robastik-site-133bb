@@ -6,7 +6,7 @@ excerpt: >-
 author: src/data/authors/jane-doe.yaml
 date: '2100-01-02'
 thumb_image: images/man-exploring-globe-purple.png
-thumb_image_alt: 'Парсить Авито и ЦИАН '
+thumb_image_alt: Парсить Авито и ЦИАН без регистрации и СМС
 image: images/blue-whale.png
 image_alt: Парсинг любого сайта из меню Excel
 template: post
