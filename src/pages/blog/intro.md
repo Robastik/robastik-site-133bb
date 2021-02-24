@@ -12,7 +12,7 @@ image: images/girl-and-boy-doing-discussion-green.png
 image_alt: Как Робастик помогает аналитикам работать с данными
 template: post
 meta_title: >-
-  Введение в Робастик: надстройка VBA помогает сделать работу в Excel и Word  в
+  Введение в Робастик: надстройка VBA помогает сделать работу в Excel и Word в
   один клик
 meta_description: Почему Робастик это дзен Excel-аналитика данных
 canonical_url: ''
