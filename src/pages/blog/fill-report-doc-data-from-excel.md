@@ -5,7 +5,7 @@ subtitle: >-
   документов по шаблону данными из Excel
 excerpt: >-
   Не нужно быть программистом, чтобы автоматизировать заполнение документов Word
-  результатами проведенного в Excel анализа данных.
+  данными из Excel.
 author: src/data/authors/jane-doe.yaml
 date: '2100-01-01'
 thumb_image: images/marketing-employee-working-on-marketing-strategy-purple.png
