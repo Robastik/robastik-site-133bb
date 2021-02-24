@@ -8,7 +8,7 @@ date: '2100-01-02'
 thumb_image: images/man-exploring-globe-purple.png
 thumb_image_alt: People in a conference room
 image: images/blue-whale.png
-image_alt: Парсинг любого сайта из меню Ezxcel
+image_alt: Парсинг любого сайта из меню Excel
 template: post
 subtitle: 'Выбери ссылку на раздел сайта, а остальное сделает Excel'
 ---
