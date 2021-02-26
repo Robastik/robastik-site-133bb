@@ -11,7 +11,7 @@ export default class Action extends React.Component {
         let action_icon = _.get(action, 'icon', null) || 'arrow-left';
         let action_icon_pos = _.get(action, 'icon_position', null) || 'left';
         return (
-            <Link to={withPrefix(_.get(action, 'url', null))}
+            <Link onClick={withPrefix(_.get(action, 'onClick', null))} to={withPrefix(_.get(action, 'url', null))}
               {...(_.get(action, 'new_window', null) ? ({target: '_blank'}) : null)}
               {...((_.get(action, 'new_window', null) || _.get(action, 'no_follow', null)) ? ({rel: (_.get(action, 'new_window', null) ? ('noopener ') : '') + (_.get(action, 'no_follow', null) ? ('nofollow') : '')}) : null)}
               className={classNames({'button': (action_style === 'primary') || (action_style === 'secondary'), 'secondary': action_style === 'secondary', 'has-icon': _.get(action, 'has_icon', null)})}>

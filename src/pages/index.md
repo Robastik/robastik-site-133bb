@@ -12,6 +12,7 @@ sections:
     actions:
       - label: Скачать Робастик сейчас
         style: primary
+        onClick: ym(72915511, "reachGoal", "Скачивание на главной вверху"); return true;
         url: >-
           https://github.com/Robastik/Robastik/releases/latest/download/Robastik.for.Excel.64-bit.zip
   - section_id: features
