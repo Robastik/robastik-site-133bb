@@ -1,5 +1,5 @@
 ---
-title: Privacy Policy
+title: Персональные данные
 template: page
 ---
 
