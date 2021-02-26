@@ -1,5 +1,5 @@
 ---
-title: Terms of Service
+title: Пользовательское соглашение
 template: page
 ---
 
