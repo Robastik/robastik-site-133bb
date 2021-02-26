@@ -12,9 +12,20 @@ sections:
     actions:
       - label: Скачать Робастик сейчас
         style: primary
-        onClick: ym(72915511, "reachGoal", "Скачивание на главной вверху"); return true;
+        onClick: >-
+          ym(72915511, "reachGoal", "Скачивание на главной вверху"); return
+          true;
         url: >-
           https://github.com/Robastik/Robastik/releases/latest/download/Robastik.for.Excel.64-bit.zip
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: left
+        new_window: false
+        no_follow: false
+        type: action
   - section_id: features
     type: section_features
     background: white
