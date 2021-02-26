@@ -14,19 +14,53 @@ subtitle: 'Выбери ссылку на раздел сайта, а остал
 meta_title: Робастик | Парсинг
 meta_description: 'Робастик - VBA надстройка Excel для парсинга Авито, ЦИАН и любых других сайтов'
 ---
+**Парсить Авито, ЦИАН и другие сайты Робастиком** действительно очень просто. Просто – потому что не требуется изучать новую программу для парсинга, ведь все делает сам Excel.
 
-**Working from home** convallis aenean et tortor at risus viverra adipiscing at in. Maecenas accumsan lacus vel facilisis volutpat est. Nisl suscipit adipiscing bibendum est ultricies. Nulla facilisi cras fermentum odio eu feugiat pretium. Donec ac odio tempor orci dapibus. Eget velit aliquet sagittis id. Morbi non arcu risus quis varius quam quisque id diam. Facilisis gravida neque convallis a cras semper auctor neque vitae. Diam phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet. Aliquam vestibulum morbi blandit cursus risus. Eget mauris pharetra et ultrices neque ornare.
+Робастик добавляет в меню Excel кнопку для добавления ссылок, которые надо спарсить. Там же рядом и кнопка «Старт», которая запускает сам процесс. Это весь *Дата Сайэнс*, который надо знать для сбора данных в интернете.
 
-## Advantages and Disadvantages 
+Во время установки Робастик встраивает в Excel браузер Chrome. Поэтому весь процесс парсинга можно видеть непосредственно в окне
+браузера. 
 
-Dignissim diam quis enim lobortis scelerisque. Vitae elementum curabitur vitae nunc. Ultrices neque ornare aenean euismod elementum nisi quis eleifend quam. Et ligula ullamcorper malesuada proin libero nunc consequat interdum. Quam lacus suspendisse faucibus interdum posuere. Bibendum arcu vitae elementum curabitur vitae nunc. Ullamcorper malesuada proin libero nunc. Sit amet risus nullam eget felis eget nunc lobortis. Elementum curabitur vitae nunc sed velit dignissim sodales. Turpis in eu mi bibendum neque egestas congue quisque egestas.
+Робастик не использует Selenium и WebDriver.
 
-> Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do. - Pele
+По умолчанию одновременно можно парсить до 11 разных ссылок. Все они загружаются независимо и параллельно в разных экземплярах браузера. Под заказ количество одновременно загружаемых ссылок не ограничено.
 
-Fermentum iaculis eu non diam. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Viverra nam libero justo laoreet sit amet cursus. Interdum consectetur libero id faucibus nisl tincidunt eget nullam. Aliquet sagittis id consectetur purus ut. Iaculis eu non diam phasellus. Ipsum dolor sit amet consectetur adipiscing elit duis. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien nec. Dictum sit amet justo donec enim diam. Ultrices eros in cursus turpis massa tincidunt dui. Adipiscing elit ut aliquam purus sit.
+Загружаемые данные сохраняются здесь же в открытый файл .xlsx. Для каждой ссылки
+создается своя вкладка с автоматически формируемым названием на ярлыке. В
+названии указывается принадлежность данных на вкладке: Авито или ЦИАН,
+коммерческая или жилая, название города или его id. Например, названия листов Excel могут
+быть *Авито.Дом.yakutsk* и *ЦИАН.Комм.ufa4560*.  Одновременно можно сохранять данные как в
+разные вкладки одного файла, так и в разные файлы.
 
-## Types Of Work
+Количество загружаемых записей ограничивается только
+доступным количеством строк на листе Excel (1 048 576 строк). 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Felis donec et odio pellentesque diam volutpat. A diam maecenas sed enim ut sem viverra aliquet. Felis eget nunc lobortis mattis aliquam faucibus. Urna cursus eget nunc scelerisque viverra mauris. Pellentesque elit ullamcorper dignissim cras tincidunt lobortis. Ac tincidunt vitae semper quis lectus nulla at volutpat diam. Sapien faucibus et molestie ac feugiat sed lectus vestibulum. Ac turpis egestas sed tempus urna et pharetra pharetra massa. Vitae semper quis lectus nulla. Velit sed ullamcorper morbi tincidunt ornare. A arcu cursus vitae congue mauris. Amet nulla facilisi morbi tempus iaculis urna.
+Робастик также умеет сохранять копии страницы в формате PDF.
+Сохраняются и расположенные на странице изображения. Эти возможности
+включены по умолчанию, отключить их можно в меню **Настройки**. 
 
-Fermentum iaculis eu non diam. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Viverra nam libero justo laoreet sit amet cursus. Interdum consectetur libero id faucibus nisl tincidunt eget nullam. Aliquet sagittis id consectetur purus ut. Iaculis eu non diam phasellus. Ipsum dolor sit amet consectetur adipiscing elit duis. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien nec. Dictum sit amet justo donec enim diam. Ultrices eros in cursus turpis massa tincidunt dui. Adipiscing elit ut aliquam purus sit.
+> По заказу возможны любые другие действия на страницах.
+
+Обход капчи в общем случае считается неэтичным. Если
+источник отдает данные без капчи с определенной скоростью, следует пользоваться
+предоставленной возможностью и не прибегать к техническим трюкам, вследствие
+которых сайт источника может испытывать перегрузки или дестабилизацию
+действующей модели монетизации. Следует иметь в виду, что для коммерческого сайта
+парсинг является бесполезной нагрузкой и злоупотребление скоростью парсинга
+может значительно осложнить его работу. 
+
+Это правило подходит тем, для кого парсинг одних и тех же
+источников является регулярной практикой. При таком подходе ежедневный сбор с одного
+источника 1 – 2 тысяч страниц с данными обычно покрывает потребность сбора всех
+вновь публикуемых на этом источнике материалов. 
+
+> Регулярность сбора данных сглаживает связанную с ним нагрузку на источник.
+
+Для проверки работоспособности парсинга в Робастике доступна
+загрузка некоторых разделов Авито и ЦИАН. Актуальная информация о доступных для
+загрузки разделах находится в Вики Робастика.
+
+Для заказа парсинга любого сайта свяжитесь любым указанным в
+Контактах способом.
+
+ 
