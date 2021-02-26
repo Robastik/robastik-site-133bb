@@ -13,8 +13,8 @@ template: post
 subtitle: 'Выбери ссылку на раздел сайта, а остальное сделает Excel'
 meta_title: Робастик | Парсинг
 meta_description: >-
-  Робастик - VBA надстройка Excel Авито, ЦИАН и любой другой сайт в Excel без
-  регистрации и СМС
+  Робастик - VBA надстройка Excel для парсинга Авито, ЦИАН и любой другой сайт в
+  Excel без регистрации и СМС
 ---
 
 **Working from home** convallis aenean et tortor at risus viverra adipiscing at in. Maecenas accumsan lacus vel facilisis volutpat est. Nisl suscipit adipiscing bibendum est ultricies. Nulla facilisi cras fermentum odio eu feugiat pretium. Donec ac odio tempor orci dapibus. Eget velit aliquet sagittis id. Morbi non arcu risus quis varius quam quisque id diam. Facilisis gravida neque convallis a cras semper auctor neque vitae. Diam phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet. Aliquam vestibulum morbi blandit cursus risus. Eget mauris pharetra et ultrices neque ornare.
