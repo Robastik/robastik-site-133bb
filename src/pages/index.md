@@ -102,7 +102,9 @@ sections:
     type: section_posts
     background: gray
     title: С чего начать
-meta_title: 'Робастик | Кнопки в меню Excel для парсинга сайтов и '
+meta_title: >-
+  Робастик | Кнопки в меню Excel для парсинга сайтов и заполнения документов по
+  шаблону
 meta_description: Парсинг и отчетинг в Excel
 template: landing
 canonical_url: robastik.ru
