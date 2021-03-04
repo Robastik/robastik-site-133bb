@@ -105,7 +105,7 @@ sections:
 meta_title: >-
   Робастик | Кнопки в меню Excel для парсинга сайтов и заполнения документов по
   шаблону
-meta_description: Парсинг и отчетинг в Excel
+meta_description: робастик
 template: landing
 canonical_url: robastik.ru
 ---
