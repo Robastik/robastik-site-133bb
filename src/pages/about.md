@@ -4,6 +4,7 @@ subtitle: 'собираем, оформляем и визуализируем'
 image: images/about_kpdv_1.png
 image_alt: Team members in a conference room
 template: page
+meta_title: 'Робастик '
 ---
 **Все хотят добывать знания из данных,**
 но никому не нравится рутина их сбора и оформления результатов.
