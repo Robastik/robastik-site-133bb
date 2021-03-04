@@ -102,7 +102,7 @@ sections:
     type: section_posts
     background: gray
     title: С чего начать
-meta_title: 'Робастик '
+meta_title: 'Робастик | '
 meta_description: Парсинг и отчетинг в Excel
 template: landing
 canonical_url: robastik.ru
