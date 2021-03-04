@@ -8,9 +8,9 @@ sections:
     content: >
       По всем вопросам использования Робастика ждем ваши сообщения в
       [соцсетях](https://www.facebook.com/groups/excelword), по [электронной
-      почте](denis@robastik.ru), в [Вики
-      ](https://www.notion.so/ebc43e94f3284cbab017c841b37ce881)или через форму
-      ниже.
+      почте](denis@robastik.ru), в
+      [Вики](https://www.notion.so/ebc43e94f3284cbab017c841b37ce881) или через
+      форму ниже.
 
 
       ##### Ваша обратная связь очень нужна!
