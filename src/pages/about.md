@@ -5,6 +5,7 @@ image: images/about_kpdv_1.png
 image_alt: Team members in a conference room
 template: page
 meta_title: Робастик | О нас
+meta_description: 'Кто мы и зачем '
 ---
 **Все хотят добывать знания из данных,**
 но никому не нравится рутина их сбора и оформления результатов.
