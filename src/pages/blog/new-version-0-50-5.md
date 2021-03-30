@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Новая версия Робастика 0.50.5
 subtitle: lorem-ipsum
 date: '2021-03-30'
 excerpt: lorem-ipsum
