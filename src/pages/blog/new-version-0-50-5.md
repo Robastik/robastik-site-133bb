@@ -1,7 +1,7 @@
 ---
 title: Новая версия Робастика 0.50.5
 subtitle: Парсить Авито и ЦИАН стало удобнее
-date: '2100-03-30'
+date: '2021-03-30'
 excerpt: Парсить Авито и ЦИАН стало удобнее
 canonical_url: lorem-ipsum
 no_index: false
