@@ -5,7 +5,7 @@ author: src/data/authors/jane-doe.yaml
 excerpt: >-
   Несколько слов о том, что делает Робастик и чем отличается от других похожих
   программ, которые делают примерно то же самое.
-date: 20992-01-03
+date: 275760-01-03
 thumb_image: images/girl-and-boy-doing-discussion-purple.png
 thumb_image_alt: Автоматизация работы с данными для аналитиков в Excel
 image: images/girl-and-boy-doing-discussion-green.png
