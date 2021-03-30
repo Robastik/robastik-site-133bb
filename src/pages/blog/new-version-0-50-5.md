@@ -10,7 +10,7 @@ thumb_image: images/nervous-rabbit.png
 image: images/Меню Робастика.png
 image_alt: 'Робастик - парсер Авито, ЦИАН и сайтов по заказу'
 thumb_image_alt: Раздел Робастика в главном меню Windows
-meta_title: 'Новое в версии Робастик 0.50.5 '
+meta_title: Новое в версии Робастик 0.50.5
 meta_description: 'Мартовская версия Робастика 0.50.5 для парсинга Авито, ЦИАН и сайтов по заказу'
 canonical_url: ' '
 ---
