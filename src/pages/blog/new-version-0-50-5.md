@@ -17,7 +17,7 @@ no_index: false
 template: post
 author: src/data/authors/jane-doe.yaml
 thumb_image: images/marketing-employee-working-on-marketing-strategy-purple.png
-image: images/fierce-broccoli.png
+image: images/Меню Робастика.png
 ---
 **Заполнение документов по шаблону** знакомо всем. Справки, счета, договора, декларации, отчеты и т.д. – сопровождают любой рабочий
 процесс. Если это часть вашей работы и вы заполняете документы данными из Excel, то вы попали куда нужно.
