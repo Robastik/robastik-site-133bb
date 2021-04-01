@@ -109,5 +109,5 @@ meta_description: >-
   дополнительной настройки сразу после установки Робастика. Для заполнения
   документов по шаблону не требуется программировать.
 template: landing
-canonical_url: robastik.ru
+canonical_url: ' '
 ---
