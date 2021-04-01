@@ -64,4 +64,5 @@ meta_description: >-
   одновременно
 meta_title: Парсинг | Робастик
 title: Парсинг
+canonical_url: ' '
 ---
