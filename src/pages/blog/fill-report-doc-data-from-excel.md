@@ -4,8 +4,8 @@ subtitle: >-
   Самый легкий способ самостоятельно автоматизировать заполнение форм документов
   по шаблону данными из Excel
 excerpt: >-
-  Не нужно быть программистом, чтобы автоматизировать заполнение документов Word
-  данными из Excel.
+  Не нужно быть программистом, чтобы автоматизировать заполнение шаблонных
+  документов данными из Excel.
 author: src/data/authors/jane-doe.yaml
 date: '2100-01-01'
 thumb_image: images/marketing-employee-working-on-marketing-strategy-purple.png
