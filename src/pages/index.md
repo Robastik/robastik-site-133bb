@@ -60,7 +60,7 @@ sections:
         content: >
           Карта цен как у [Кеплер](https://kepler.gl/) или сложная диаграмма как
           [d3](https://github.com/d3/d3/wiki/Gallery) с автоматической вставкой
-          в заполняемый документ Word.
+          в заполняемый по шаблону документ Word.
         actions:
           - label: (Скоро)
             url: /features-plotting
