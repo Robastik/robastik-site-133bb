@@ -21,7 +21,7 @@ sections:
     type: section_features
     background: white
     title: Для отчета о рынке
-    subtitle: "1.Собрать в Excel\_данные с сайтов<br>2.Показать их на графике<br>3.Отправить результаты в Word"
+    subtitle: "1.Собрать в Excel\_данные с сайтов<br>2.Показать графике<br>3.Отправить результаты в Word"
     features:
       - title: Парсинг в Excel
         image: images/main-parsing-double-clear.jpg
