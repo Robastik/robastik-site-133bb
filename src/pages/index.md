@@ -43,8 +43,8 @@ sections:
         image: images/fabulous-apple.png
         image_alt: App users welcoming a new member
         content: >
-          *   Содержимое каждой ячейки и целые таблицы Excel автоматически
-          заполнят указанные вами места в шаблоне Word.
+          *   Содержимое названных ячеек и целые таблицы Excel будут вставлены в
+          отмеченные вами места документа Word.
 
 
           *   Не нужно программировать.
