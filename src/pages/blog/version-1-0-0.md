@@ -11,7 +11,7 @@ canonical_url: ' '
 no_index: false
 template: post
 author: src/data/authors/jane-doe.yaml
-thumb_image: images/nervous-rabbit.png
+thumb_image: images/Меню.jpg
 image: images/Меню.jpg
 ---
 1.  Изменилось оформление раздела **Настройки**. Справка по каждому пункту открывается по клику на **?**, который находится справа в зеленом прямоугольникке этого пункта меню.
