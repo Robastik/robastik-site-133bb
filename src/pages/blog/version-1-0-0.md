@@ -12,7 +12,7 @@ no_index: false
 template: post
 author: src/data/authors/jane-doe.yaml
 thumb_image: images/nervous-rabbit.png
-image: images/Меню Робастика.png
+image: images/Меню.jpg
 ---
 1.  Появилась поддержка HD-мониторов, на которых вместо браузера был черный прямоугольник. Теперь на HD-мониторах можно видеть процесс парсинга и подбирать задержку стало удобнее. Уже работает на Авито, ЦИАН будет поправлен в ближайшее время.
 
