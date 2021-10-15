@@ -11,7 +11,7 @@ canonical_url: ' '
 no_index: false
 template: post
 author: src/data/authors/jane-doe.yaml
-thumb_image: images/Меню.jpg
+thumb_image: images/Others.jpg
 image: images/Others.jpg
 ---
 ## Обновление версии 1.0.0.
