@@ -49,4 +49,4 @@ image: images/Others.jpg
 
 Ваши пожелания и рекомендации по улучшению внешнего вида, повышения удобства и понятности приветствуются.
 
-Подробнее о версии 1.0.0. по ссылке <https://robastik.ru/blog/version-1-0-0> [GitHub](http://github.com)
+Подробнее о \[версии 1.0.0.]\(https://robastik.ru/blog/version-1-0-0/)
