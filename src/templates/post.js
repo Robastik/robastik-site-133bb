@@ -20,6 +20,7 @@ export default class Post extends React.Component {
     render() {
         return (
             <Layout {...this.props}>
+          <meta property="og:image" content={withPrefix(_.get(this.props, 'pageContext.frontmatter.image', null))}/>
             <div className="outer">
               <div className="inner-medium">
                 <article className="post post-full">
