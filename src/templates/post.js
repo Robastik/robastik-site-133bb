@@ -15,14 +15,14 @@ export const query = graphql`
     }
   }
 `;
-
+//let domain = _.trim(_.get(this.props, 'pageContext.site.siteMetadata.domain', null), '/');
 
 export default class Post extends React.Component {
     render() {
         return (
           <Layout {...this.props}>
-          let domain = _.trim(_.get(this.props, 'pageContext.site.siteMetadata.domain', null), '/');
-          <meta property="og:image" content={domain + withPrefix(_.get(this.props, 'pageContext.frontmatter.image', null))}/>  
+          
+          <meta property="og:image" content={withPrefix(_.get(this.props, 'pageContext.frontmatter.image', null))}/>  
             <div className="outer">
               <div className="inner-medium">
                 <article className="post post-full">
