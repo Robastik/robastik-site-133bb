@@ -22,6 +22,7 @@ export default class Body extends React.Component {
                     <meta name="viewport" content="width=device-width, initialScale=1.0" />
                     <meta name="google" content="notranslate" />
                     <meta name="description" content={_.get(this.props, 'pageContext.frontmatter.meta_description', null)}/>
+                    <meta property="og:image" content={withPrefix(_.get(this.props, 'pageContext.frontmatter.image', null))}/>
                     {_.get(this.props, 'pageContext.frontmatter.canonical_url', null) ? (
                     <link rel="canonical" href={_.get(this.props, 'pageContext.frontmatter.canonical_url', null)}/>
                     ) : (_.get(this.props, 'pageContext.site.siteMetadata.domain', null) && ((() => {
