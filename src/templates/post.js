@@ -22,7 +22,7 @@ export default class Post extends React.Component {
         return (
           <Layout {...this.props}>
           
-          <meta property="og:image" content="https://" + {_.trim(_.get(this.props, 'pageContext.site.siteMetadata.domain', null), '/') + withPrefix(_.get(this.props, 'pageContext.frontmatter.image', null))}/>  
+          <meta property="og:image" content={"https://" + _.trim(_.get(this.props, 'pageContext.site.siteMetadata.domain', null), '/') + withPrefix(_.get(this.props, 'pageContext.frontmatter.image', null))}/>  
             <div className="outer">
               <div className="inner-medium">
                 <article className="post post-full">
