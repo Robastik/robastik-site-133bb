@@ -10,7 +10,7 @@ import Footer from './Footer';
 export default class Body extends React.Component {
     render() {
         let sitedomain = _.trim(_.get(this.props, 'pageContext.site.siteMetadata.domain', null), '/');
-        
+        let imgpath = _.get(this.props, 'imgpath', 'images/girl-and-boy-doing-discussion-green.png');
         let title = _.get(this.props, 'pageContext.frontmatter.title', null) + ' | ' + _.get(this.props, 'pageContext.site.siteMetadata.title', null);
         let font = _.get(this.props, 'pageContext.site.siteMetadata.base_font', null) || 'nunito-sans';
         if (_.get(this.props, 'pageContext.frontmatter.meta_title', null)) {
