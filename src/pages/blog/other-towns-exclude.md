@@ -52,4 +52,4 @@ image: images/Others.jpg
 
 Ваши пожелания и рекомендации по улучшению внешнего вида, повышения удобства и понятности приветствуются.
 
-Подробнее о версии 1.0.0. \['jhf']\(https://www.stackbit.com/docs/studio-guides/editing-content/)
+Подробнее о версии 1.0.0. \\[jhf\\]\(https://www.stackbit.com/docs/studio-guides/editing-content/)
