@@ -9,6 +9,7 @@ import Footer from './Footer';
 
 export default class Body extends React.Component {
     render() {
+        let sitedomain = _.trim(_.get(this.props, 'pageContext.site.siteMetadata.domain', null), '/');
         let title = _.get(this.props, 'pageContext.frontmatter.title', null) + ' | ' + _.get(this.props, 'pageContext.site.siteMetadata.title', null);
         let font = _.get(this.props, 'pageContext.site.siteMetadata.base_font', null) || 'nunito-sans';
         if (_.get(this.props, 'pageContext.frontmatter.meta_title', null)) {
@@ -19,6 +20,7 @@ export default class Body extends React.Component {
                 <Helmet>
                     <title>{title}</title>
                     <meta charSet="utf-8"/>
+                    <meta property="og:image" content={"https://" + sitedomain}/>  
                     <meta name="viewport" content="width=device-width, initialScale=1.0" />
                     <meta name="google" content="notranslate" />
                     <meta name="description" content={_.get(this.props, 'pageContext.frontmatter.meta_description', null)}/>
