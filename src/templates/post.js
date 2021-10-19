@@ -19,7 +19,6 @@ export const query = graphql`
 
 export default class Post extends React.Component {
     render() {
-      let imgpath = _.get(this.props, 'pageContext.frontmatter.image', null);
         return (
           <Layout {...this.props,imgpath:'testimgpath'}>
           
