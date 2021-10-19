@@ -6,6 +6,8 @@ import {Layout} from '../components/index';
 import {htmlToReact, withPrefix} from '../utils';
 import BlogPostFooter from '../components/BlogPostFooter';
 
+import {Helmet} from 'react-helmet';
+
 // this minimal GraphQL query ensures that when 'gatsby develop' is running,
 // any changes to content files are reflected in browser
 export const query = graphql`
@@ -21,7 +23,9 @@ export default class Post extends React.Component {
     render() {
         return (
           <Layout {...this.props} imgpath='testpath'>
+          <Helmet>
           <meta property="og:image" content={"https://" + _.trim(_.get(this.props, 'pageContext.site.siteMetadata.domain', null), '/') + withPrefix(_.get(this.props, 'pageContext.frontmatter.image', null))}/>  
+          </Helmet>
             <div className="outer">
               <div className="inner-medium">
                 <article className="post post-full">
