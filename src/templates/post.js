@@ -20,8 +20,7 @@ export const query = graphql`
 export default class Post extends React.Component {
     render() {
         return (
-          <Layout {...this.props,imgpath:'testimgpath'}>
-          
+          <Layout {...this.props'}>
           <meta property="og:image" content={"https://" + _.trim(_.get(this.props, 'pageContext.site.siteMetadata.domain', null), '/') + withPrefix(_.get(this.props, 'pageContext.frontmatter.image', null))}/>  
             <div className="outer">
               <div className="inner-medium">
