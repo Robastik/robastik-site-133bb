@@ -26,6 +26,9 @@ export default class Post extends React.Component {
           <Helmet>
           <meta property="og:image" content={"https://" + _.trim(_.get(this.props, 'pageContext.site.siteMetadata.domain', null), '/') + withPrefix(_.get(this.props, 'pageContext.frontmatter.image', null))}/>  
           <meta property="og:type" content="article"/>
+          <meta property="og:title" content={_.get(this.props, 'pageContext.frontmatter.subtitle', null) + " : " + _.get(this.props, 'pageContext.frontmatter.subtitle', null)}/>
+          <meta property="og:url" content={"https://" + _.trim(_.get(this.props, 'pageContext.site.siteMetadata.domain', null), '/') + withPrefix(_.get(this.props, 'pageContext.url', null))}/>
+          <meta property="og:description" content={_.get(this.props, 'pageContext.frontmatter.meta_description', null)}/>
           </Helmet>
             <div className="outer">
               <div className="inner-medium">
