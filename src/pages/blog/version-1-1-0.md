@@ -12,7 +12,7 @@ no_index: false
 template: post
 author: src/data/authors/jane-doe.yaml
 thumb_image: images/Меню.jpg
-image: images/Меню.jpg
+image: images/Робастик.1.1.0.png
 ---
 1.  Изменилось оформление раздела **Настройки**. Справка по каждому пункту открывается по клику на **?**, который находится справа в зеленом прямоугольнике этого пункта меню.
 
