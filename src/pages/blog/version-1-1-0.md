@@ -11,7 +11,7 @@ canonical_url: '  '
 no_index: false
 template: post
 author: src/data/authors/jane-doe.yaml
-thumb_image: images/Робастик.1.1.0.png
+thumb_image: images/робастик_1_1_0.iuJ83.png
 image: images/Робастик.1.1.0.png
 ---
 
