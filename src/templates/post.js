@@ -6,6 +6,8 @@ import {Layout} from '../components/index';
 import {htmlToReact, withPrefix} from '../utils';
 import BlogPostFooter from '../components/BlogPostFooter';
 
+import {Helmet} from 'react-helmet';
+
 // this minimal GraphQL query ensures that when 'gatsby develop' is running,
 // any changes to content files are reflected in browser
 export const query = graphql`
@@ -15,11 +17,19 @@ export const query = graphql`
     }
   }
 `;
+//let domain = _.trim(_.get(this.props, 'pageContext.site.siteMetadata.domain', null), '/');
 
 export default class Post extends React.Component {
     render() {
         return (
-            <Layout {...this.props}>
+          <Layout {...this.props} imgpath='testpath'>
+          <Helmet>
+          <meta property="og:image" content={"https://" + _.trim(_.get(this.props, 'pageContext.site.siteMetadata.domain', null), '/') + withPrefix(_.get(this.props, 'pageContext.frontmatter.image', null))}/>  
+          <meta property="og:type" content="article"/>
+          <meta property="og:title" content={_.get(this.props, 'pageContext.frontmatter.subtitle', null) + " : " + _.get(this.props, 'pageContext.frontmatter.subtitle', null)}/>
+          <meta property="og:url" content={"https://" + _.trim(_.get(this.props, 'pageContext.site.siteMetadata.domain', null), '/') + withPrefix(_.get(this.props, 'pageContext.url', null))}/>
+          <meta property="og:description" content={_.get(this.props, 'pageContext.frontmatter.meta_description', null)}/>
+          </Helmet>
             <div className="outer">
               <div className="inner-medium">
                 <article className="post post-full">
