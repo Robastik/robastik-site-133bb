@@ -7,7 +7,7 @@ image_alt: 'Робастик - парсер Авито, ЦИАН и сайтов
 thumb_image_alt: Настройка парсера Авито и ЦИАН
 meta_title: Новое в версии Робастик 1.0.0
 meta_description: 'Версия Робастика 1.0.0 для парсинга Авито, ЦИАН и сайтов по заказу'
-canonical_url: ' '
+canonical_url: '  '
 no_index: false
 template: post
 author: src/data/authors/jane-doe.yaml
