@@ -12,7 +12,7 @@ no_index: false
 template: post
 author: src/data/authors/jane-doe.yaml
 thumb_image: images/робастик_1_1_0.iuJ83.png
-image: images/Робастик.1.1.0.png
+image: images/clickPhone.jpg
 ---
 
 Разные версии Excel в разных версиях Windows работают немного по-разному. В версии 1.1.0 удалось воспроизвести и исправить ошибки, возникающие при некоторых комбинациях версий ПО. Парсинг Авито и ЦИАН работает без изменений.
