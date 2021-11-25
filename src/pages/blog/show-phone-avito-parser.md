@@ -14,7 +14,7 @@ template: post
 author: src/data/authors/jane-doe.yaml
 thumb_image: images/clickPhone.jpg
 image: images/AvitoClickMenu-6254ff90.jpg
-excerpt: Робастик открывать телефон в парсере Авито
+excerpt: Робастик открываеть телефон в парсере Авито
 ---
 В настройках Робастика появился новый пункт: сохранять копию PDF с открым номером телефона.
 
