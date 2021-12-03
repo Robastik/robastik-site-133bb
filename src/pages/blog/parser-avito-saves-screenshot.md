@@ -13,7 +13,7 @@ canonical_url: '   '
 no_index: false
 template: post
 author: src/data/authors/jane-doe.yaml
-thumb_image: images/clickPhone.jpg
+thumb_image: images/РобастикPNG.png
 image: images/РобастикPNG.png
 ---
 В настройках Робастика появился новый пункт: сохранять копию PDF с открым номером телефона.
