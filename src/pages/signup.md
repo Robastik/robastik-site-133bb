@@ -3,7 +3,7 @@ title: Sign Up
 subtitle: >-
   This is an optional subtitle. It can be used to describe what this page is
   about.
-image: images/11.jpg
+image: images/РобастикPNG.png
 image_alt: Office desk top view
 template: page
 ---
