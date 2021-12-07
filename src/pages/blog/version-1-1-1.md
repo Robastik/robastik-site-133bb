@@ -6,7 +6,7 @@ excerpt: Улучшена справка парсера Авито и ЦИАН
 image_alt: 'Робастик - парсер Авито, ЦИАН и сайтов по заказу'
 thumb_image_alt: Новая версия 1.1.1 парсера Авито и ЦИАН
 meta_title: Улучшена справка парсера Авито и ЦИАН
-meta_description: Парсер Авито и ЦИАН улучшил стабильность
+meta_description: 'Установка '
 canonical_url: '  '
 no_index: false
 template: post
