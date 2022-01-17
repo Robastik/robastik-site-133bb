@@ -11,7 +11,7 @@ no_index: false
 template: post
 author: src/data/authors/jane-doe.yaml
 thumb_image: images/Робастик.1.1.1.png
-image: images/Робастик.1.1.1.png
+image: images/2022.png
 subtitle: Что сделано в 2021 и план на 2022
 ---
 Небольшие, но важные информационные дополнения:
