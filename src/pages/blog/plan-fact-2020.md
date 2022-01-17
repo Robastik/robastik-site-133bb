@@ -12,7 +12,7 @@ template: post
 author: src/data/authors/jane-doe.yaml
 thumb_image: images/Робастик.1.1.1.png
 image: images/Робастик.1.1.1.png
-subtitle: 'Что сделано в 2021 и '
+subtitle: 'Что сделано в 2021 и план на '
 ---
 Небольшие, но важные информационные дополнения:
 
