@@ -10,7 +10,7 @@ canonical_url: '  '
 no_index: false
 template: post
 author: src/data/authors/jane-doe.yaml
-thumb_image: images/2022.png
+thumb_image: images/2022tall.png
 image: images/2022.png
 subtitle: Что сделано в 2021 и план на 2022
 ---
