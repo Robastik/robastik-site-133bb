@@ -59,7 +59,7 @@
                 "title": "Робастик",
                 "nav_links": [
                     {
-                        "label": "О нас",
+                        "label": "О Робастике",
                         "url": "/about",
                         "style": "link"
                     },
