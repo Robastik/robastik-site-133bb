@@ -22,4 +22,4 @@ image: images/Робастик.1.1.2.png
 
 Сообщения об ошибках, а также замечания и предложения пожалуйста отправляйте по этим [контактам](https://www.notion.so/35af522f0f884c2196c9c827c6148f24). Ваши сообщения позволяют делать Робастик лучше для вас.
 
-Предыдущую версию можно скачать в архиве на [здесь](https://drive.google.com/drive/folders/1vOupCE1vRTIJnFEeUkU4DWPEsbcFrijg).
+Предыдущую версию можно скачать в архиве [здесь](https://drive.google.com/drive/folders/1vOupCE1vRTIJnFEeUkU4DWPEsbcFrijg).
