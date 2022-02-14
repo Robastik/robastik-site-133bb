@@ -11,7 +11,7 @@ canonical_url: '  '
 no_index: false
 template: post
 author: src/data/authors/jane-doe.yaml
-thumb_image: images/2022tall.png
+thumb_image: images/Робастик.1.1.2 small.png
 image: images/Робастик.1.1.2.png
 ---
 За год было выпущено несколько релизов,  значительно повысивших стабильность работы с разными версиями MS Office и Windows. Завершен значительный этап разработки, большинство «детских болезней» вылечено. Установка теперь делается привычным способом в три клика, удаление в один клик.
