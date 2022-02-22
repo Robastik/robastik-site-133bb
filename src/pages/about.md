@@ -8,6 +8,6 @@ meta_title: Робастик | О нас
 meta_description: Кто мы и зачем этот сайт
 canonical_url: ' '
 ---
-\<p style="text-align: center;">gfh\</p>
+\<center>gfh\</center>
 
 **Денис Мамаев**
