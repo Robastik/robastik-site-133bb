@@ -2,7 +2,7 @@
 title: График на карте
 subtitle: Начинаем тестировать
 date: '2022-03-24'
-excerpt: График на карте
+excerpt: В новой версии 1.2.0
 image_alt: График на карте в Excel
 thumb_image_alt: График на карте в Excel
 meta_title: График на карте
