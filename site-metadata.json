@@ -29,17 +29,6 @@
                 "icon_position": "right",
                 "new_window": true,
                 "no_follow": true
-            },
-            {
-                "label": "",
-                "url": "https://www.facebook.com/groups/excelword",
-                "style": "link",
-                "has_icon": true,
-                "icon": "facebook",
-                "icon_position": "left",
-                "new_window": true,
-                "no_follow": true,
-                "type": "action"
             }
         ],
         "logo_img": "images/Лого 20.png"
