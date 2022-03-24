@@ -21,7 +21,6 @@ sections:
     type: section_features
     background: white
     title: Делаете анализ рынка?
-    subtitle: "1.Собрать в Excel\_данные с сайтов<br>2.Показать график на карте<br>3.Отправить результаты в Word"
     features:
       - title: Парсинг в Excel
         image: images/MenuParser.png
