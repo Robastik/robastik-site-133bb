@@ -31,6 +31,6 @@ sections:
         style: secondary
 template: landing
 meta_title: График на карте | Робастик
-meta_description: 'Робастик покажет '
+meta_description: 'Робастик покажет данные на карте '
 canonical_url: ' '
 ---
