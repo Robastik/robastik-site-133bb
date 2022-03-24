@@ -1,12 +1,12 @@
 ---
 title: График на карте
 subtitle: Начинаем тестировать
-date: '2022-02-14'
-excerpt: Все важное - просто и понятно
+date: '2022-03-24'
+excerpt: График на карте
 image_alt: График на карте в Excel
-thumb_image_alt: Новое в парсерах Авито и ЦИАН версии 1.1.2
-meta_title: Новая инструкция Робастика
-meta_description: Все нужное просто и понятно
+thumb_image_alt: График на карте в Excel
+meta_title: График на карте
+meta_description: Тестируем работу графика на карте в Excel
 canonical_url: '  '
 no_index: false
 template: post
@@ -24,7 +24,7 @@ image: images/Робастик.1.2.0 small.png
 
 Также доступны подписи на карте.
 
-![](images/MapDemoPost-f129abeb.PNG)
+![](images/MapDemoPost.PNG)
 
 Обратите внимание: если карта показывает не ту местность, значит в формуле **Ссылка** перепутаны местами долгота и широта.
 
