@@ -6,7 +6,7 @@ sections:
     background: gray
     image: images/Otcheting.jpg
     image_alt: App preview on a phone and tablet
-    title: Отчетинг
+    title: Шаблонизатор
     content: >
       ##### - это заполнение типовых документов Word данными из файла Excel.
 
