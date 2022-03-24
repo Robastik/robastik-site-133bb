@@ -57,10 +57,14 @@ sections:
             icon_position: right
       - title: График на карте
         image_alt: App user profile preview
-        content: >
-          Карта цен как у [Кеплер](https://kepler.gl/) или сложная диаграмма как
-          [d3](https://github.com/d3/d3/wiki/Gallery) с автоматической вставкой
-          в заполняемый по шаблону документ Word.
+        content: |
+          *   Вставить на лист Excel шаблон карты
+
+          *   Указать данные для отображения на карте
+
+          *   Отобразить на карте указанные данные
+
+          *   Скопировать карту с данными в буфер обмена
         actions:
           - label: (Скоро)
             url: /features-plotting
