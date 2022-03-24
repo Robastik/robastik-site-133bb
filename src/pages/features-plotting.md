@@ -19,10 +19,7 @@ sections:
       Добавьте подписи к данным.
 
       Справка прилагается к установочному файлу.
-    actions:
-      - label: Посмотреть демо d3
-        url: 'https://observablehq.com/@d3/gallery'
-        style: secondary
+    actions: []
   - section_id: call-to-action
     type: section_cta
     title: Новые возможности Excel
