@@ -58,7 +58,7 @@ sections:
       - title: График на карте
         image_alt: App user profile preview
         content: |
-          *   Вставить на лист Excel шаблон карты
+          *   Добавить на лист Excel шаблон карты
 
           *   Указать данные для отображения на карте
 
