@@ -20,7 +20,6 @@ sections:
   - section_id: features
     type: section_features
     background: white
-    title: Делаете анализ рынка?
     features:
       - title: Парсинг в Excel
         image: images/MenuParser.png
