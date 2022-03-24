@@ -23,7 +23,7 @@
             },
             {
                 "label": "Карта",
-                "url": "features-plotting",
+                "url": "/features-plotting",
                 "style": "link",
                 "icon": "arrow-right",
                 "icon_position": "right",
