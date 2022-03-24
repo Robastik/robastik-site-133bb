@@ -40,7 +40,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Заполнить документ Word по шаблону
-        image: images/MenuWord.png
+        image: images/MenuWord-2496f53a.png
         image_alt: App users welcoming a new member
         content: >
           *   Содержимое отмеченных вами ячеек и целые таблицы Excel будут
