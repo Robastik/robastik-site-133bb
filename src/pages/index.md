@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/magenta-celery.png
     image_alt: Меню надстройки Excel Робастик
-    title: Парсинг и шаблонизатор<br>в Excel
+    title: Парсинг и шаблонизаторв Excel
     content: >
       Добавьте в меню Excel кнопки для загрузки данных с Авито, ЦИАН и для
       заполнения документов по шаблону
