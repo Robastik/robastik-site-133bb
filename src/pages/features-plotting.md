@@ -5,7 +5,7 @@ sections:
     type: section_content
     background: gray
     image: images/Map-Sample.png
-    image_alt: Собранные Робастиком на Авито объекты недвижимости показаны на карте
+    image_alt: на Авито объекты недвижимости показаны на карте
     title: График на карте
     content: |
       Покажите данные на карте.
