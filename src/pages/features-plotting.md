@@ -31,6 +31,8 @@ sections:
         style: secondary
 template: landing
 meta_title: График на карте | Робастик
-meta_description: Робастик покажет данные на карте в Excel  с помощью маркеров
+meta_description: >-
+  Робастик покажет данные на карте в Excel  с помощью маркеров разного цвета и
+  размера
 canonical_url: ' '
 ---
