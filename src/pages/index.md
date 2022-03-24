@@ -68,7 +68,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/кеплер хитмап 2.png
+        image: images/MapMenu.png
   - section_id: more
     type: section_reviews
     background: white
