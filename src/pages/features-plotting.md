@@ -1,5 +1,5 @@
 ---
-title: Маппинг
+title: График на карте
 sections:
   - section_id: features-plotting
     type: section_content
