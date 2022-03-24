@@ -11,7 +11,7 @@ canonical_url: '  '
 no_index: false
 template: post
 author: src/data/authors/jane-doe.yaml
-thumb_image: images/Робастик.1.1.2 small.png
+thumb_image: images/Робастик.1.2.0 small.png
 image: images/Робастик.1.2.0 small.png
 ---
 Как было анонсировано, полученные с Авито и ЦИАН данные о координатах объектов недвижимости теперь можно использовать для отображения их на карте.
