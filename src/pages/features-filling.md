@@ -36,10 +36,7 @@ sections:
 
       Подробнее в прилагаемой к установочному файлу справке и в
       [Вики](https://www.notion.so/e2620d3d49a74450a0493e1c9c398d2d) Робастика.
-    actions:
-      - label: Скачать файлы примеров
-        url: '#'
-        style: secondary
+    actions: []
   - section_id: call-to-action
     type: section_cta
     title: Заполнить в один клик
