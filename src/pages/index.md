@@ -24,7 +24,7 @@ sections:
     subtitle: "1.Собрать в Excel\_данные с сайтов<br>2.Показать график на карте<br>3.Отправить результаты в Word"
     features:
       - title: Парсинг в Excel
-        image: images/main-parsing-double-clear.jpg
+        image: images/MenuParser.png
         image_alt: App preview on a phone and tablet
         content: >
           *   Скопировать ссылку из браузера в Excel и кликнуть "Старт". Данные
