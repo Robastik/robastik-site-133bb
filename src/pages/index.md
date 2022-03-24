@@ -66,7 +66,7 @@ sections:
 
           *   Скопировать карту с данными в буфер обмена
         actions:
-          - label: (Скоро)
+          - label: Подробнее
             url: /features-plotting
             style: secondary
             has_icon: true
