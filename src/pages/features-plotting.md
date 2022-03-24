@@ -5,7 +5,7 @@ sections:
     type: section_content
     background: gray
     image: images/Map-Sample.png
-    image_alt: Объекты недвижимости показаны на карте
+    image_alt: Объекты показаны на карте
     title: График на карте
     content: |
       Покажите данные на карте.
