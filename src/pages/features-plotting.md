@@ -20,9 +20,6 @@ sections:
 
       Справка прилагается к установочному файлу.
     actions:
-      - label: Посмотреть демо kepler
-        url: 'https://kepler.gl/'
-        style: primary
       - label: Посмотреть демо d3
         url: 'https://observablehq.com/@d3/gallery'
         style: secondary
