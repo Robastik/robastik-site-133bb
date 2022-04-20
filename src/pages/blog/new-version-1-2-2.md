@@ -21,13 +21,16 @@ image: images/Screenshot-Avito-CIAN.jpg
 Изменения коснулись улучшения совместимости: изображение скриншота не ограничивается видимой частью экрана.
 
 Обязательно давайте отзыв о Робастике на удобной вам площадке:
--
-[Фейсбук](https://www.facebook.com/groups/excelword/)
-[ВКонтакте](https://vk.com/exceltoword)
-[Телеграм](https://t.me/RobastikRu)
-[Дзен](https://zen.yandex.ru/robastik)
-[Аппрайзер](http://appraiser.ru/default.aspx?SectionId=32&g=posts&t=14905)
--
+
+- [Фейсбук](https://www.facebook.com/groups/excelword/)
+
+- [ВКонтакте](https://vk.com/exceltoword)
+
+- [Телеграм](https://t.me/RobastikRu)
+
+- [Дзен](https://zen.yandex.ru/robastik)
+
+- [Аппрайзер](http://appraiser.ru/default.aspx?SectionId=32&g=posts&t=14905)
 
 Расскажите о Робастике коллегам! 
 
