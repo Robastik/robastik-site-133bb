@@ -11,8 +11,8 @@ canonical_url: ' '
 no_index: false
 template: post
 author: src/data/authors/jane-doe.yaml
-thumb_image: images/Avito-CIAN-Screenshot.png
-image: images/Avito-CIAN-Screenshot.png
+thumb_image: images/Screenshot-Avito-CIAN.jpg
+image: images/Screenshot-Avito-CIAN.jpg
 ---
 В версии 1.2.2 изменена функция сохранения скриншотов страниц Авито и ЦИАН. 
 
