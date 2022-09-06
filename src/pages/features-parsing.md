@@ -31,7 +31,7 @@ sections:
         style: secondary
 template: landing
 meta_description: >-
-Парсинг Aвиt0 и ЦИАН из меню Excel со встроенным Chrome
+  Парсинг Aвиt0 и ЦИАН из меню Excel со встроенным Chrome
 meta_title: Парсинг | Робастик
 title: Парсинг
 canonical_url: ' '
