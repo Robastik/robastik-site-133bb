@@ -2,10 +2,10 @@
 title: Как сделать тепловую карту цен на недвижимость 
 subtitle: Без макросов и VBA в Excel
 date: '2022-10-20'
-excerpt: Строим карту цен в Excel
+excerpt: Строим карту цен в Excel без макросов и VBA
 image_alt: Парсинг Авито и ЦИАН для тепловой карты цен
 thumb_image_alt: Heatmap цен квартир по данным Авито и ЦИАН
-meta_title: Строим карту цен в Excel
+meta_title: Строим карту цен в Excel без макросов и VBA
 meta_description: Для квартир с Авито и ЦИАН
 canonical_url: ' '
 no_index: false
