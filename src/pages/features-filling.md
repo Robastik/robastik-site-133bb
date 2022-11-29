@@ -1,5 +1,5 @@
 ---
-title: Отчетинг
+title: Шаблонизатор
 sections:
   - section_id: features-filling
     type: section_content
