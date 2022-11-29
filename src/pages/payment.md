@@ -17,9 +17,6 @@ sections:
             style: secondary
       - title: Коммерческие
         subtitle: ООО, ИП, ЧПО, другие
-        <!---
-        price: $49/m
-        --->
         details: Размер месячной платы зависит от выбранных функций программного продукта, для которых отключается демонстрационный режим.  <br>Оплата по счету. Договор и акт предоставляются.
         highlight: true
         actions:
@@ -28,9 +25,6 @@ sections:
             style: primary
       - title: Государственные
         subtitle: ГБУ, ГУП, МУП, другие
-        <!---
-        price: $149/m
-        --->
         details: |-
           * Vestibulum non eros quis
           * Aenean iaculis lorem
