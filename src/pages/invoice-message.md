@@ -1,5 +1,5 @@
 ---
-title: Подписка Робастика
+title: Подписка
 subtitle: Оформление договора и счета
 author: src/data/authors/jane-doe.yaml
 excerpt: >-
