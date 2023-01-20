@@ -1,7 +1,7 @@
 ---
 title: 'Мы любим данные:'
 subtitle: 'собираем, анализируем и визуализируем'
-image: images/about_kpdv_1.png
+image: images/about-KPDV.jpg
 image_alt: Team members in a conference room
 template: page
 meta_title: Робастик | О нас
