@@ -28,6 +28,14 @@ export default class Post extends React.Component {
           <meta property="og:title" content={_.get(this.props, 'pageContext.frontmatter.title', null) + " : " + _.get(this.props, 'pageContext.frontmatter.subtitle', null)}/>
           <meta property="og:url" content={"https://" + _.trim(_.get(this.props, 'pageContext.site.siteMetadata.domain', null), '/') + withPrefix(_.get(this.props, 'pageContext.url', null))}/>
           <meta property="og:description" content={_.get(this.props, 'pageContext.frontmatter.meta_description', null)}/>
+          <script>
+            window.onload = function(){
+              let params = new URLSearchParams(location.search);
+              let fileId = params.get('fileId'); // spreadsheet ID
+              let sheetId = params.get('sheetId'); // gid → sheet ID 
+              document.getElementById("myframe").setAttribute("src", 'https://docs.google.com/spreadsheets/d/'+fileId+'/edit?usp=sharing&rm=minimal#gid='+sheetId);
+            }
+          <script/>
           </Helmet>
             <div className="outer">
               <div className="inner-medium">
@@ -41,8 +49,8 @@ export default class Post extends React.Component {
                     )}
                   </header>
                   <div className="post-content">
-                  <iframe src="https://script.google.com/macros/s/AKfycbz8SgO2ozjfWp5pVZxmpLEYhgrWGFDzIqS5LGmsneqlIMmqOIeoPF2fnJgvhIFhIjUZ9g/exec" 
-width="100%" height="600" frameborder="0" seamless></iframe>
+                    
+                  <iframe id="builder" width="100%" height="600" frameborder="0" seamless></iframe>
                   </div>
                   <BlogPostFooter {...this.props} page={this.props.pageContext} date_type={'long'} />
                 </article>
