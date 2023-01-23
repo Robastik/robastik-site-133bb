@@ -41,7 +41,7 @@ export default class Post extends React.Component {
                     )}
                   </header>
                   <div className="post-content">
-                  <iframe src="https://script.google.com/macros/s/AKfycbz1cmnfAIFbc5uit3tzZYi2g3FiHv32mLl3APvm7oJ3F40rsoCyORYP-MO6IDqm6bgWWg/exec" 
+                  <iframe src="https://script.google.com/macros/s/AKfycbzlvPKwqA3CnV9qxQoiDgr4hRD8-JddINR6z4ERCRPgjv3CPx42eJUiNc8QhN2T79LeUQ/exec" 
 height="30%" width="100%" frameborder="0"></iframe>
                   </div>
                   <BlogPostFooter {...this.props} page={this.props.pageContext} date_type={'long'} />
