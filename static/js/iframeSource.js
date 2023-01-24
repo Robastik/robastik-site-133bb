@@ -8,5 +8,5 @@ window.onload = function(){
     console.log(sheetId);
     let iframeSource = 'https://docs.google.com/spreadsheets/d/'+fileId+'/edit?usp=sharing&rm=minimal#gid='+sheetId;
     console.log(iframeSource);
-    document.getElementById("myframe").setAttribute("src", iframeSource);
+    document.getElementById("builder").setAttribute("src", iframeSource);
 }
