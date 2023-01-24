@@ -29,17 +29,7 @@ export default class Post extends React.Component {
           <meta property="og:url" content={"https://" + _.trim(_.get(this.props, 'pageContext.site.siteMetadata.domain', null), '/') + withPrefix(_.get(this.props, 'pageContext.url', null))}/>
           <meta property="og:description" content={_.get(this.props, 'pageContext.frontmatter.meta_description', null)}/>
           <script src={'js/iframeSource.js'} type="text/javascript" defer/>
-          <script type="text/javascript" defer>window.onload = function(){
-                console.log(window.location.search);
-                let params = new URLSearchParams(window.location.search);
-                let fileId = params.get("fileId"); // spreadsheet ID
-                console.log(fileId);
-                let sheetId = params.get("sheetId"); // gid → sheet ID 
-                console.log(sheetId);
-                let iframeSource = "https://docs.google.com/spreadsheets/d/"+fileId+"/edit?usp=sharing&rm=minimal#gid="+sheetId;
-                console.log(iframeSource);
-                document.getElementById("myframe").setAttribute("src", iframeSource);
-            }</script> 
+          
           script={[{
             "type": "text/javascript",
             "defer": true,
