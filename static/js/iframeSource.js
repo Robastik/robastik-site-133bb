@@ -6,7 +6,7 @@ window.onload = function(){
     console.log(fileId);
     let sheetId = params.get('sheetId'); // gid → sheet ID 
     console.log(sheetId);
-    let iframeSource = 'https://docs.google.com/spreadsheets/d/'+fileId+'/edit?usp=sharing&rm=minimal#gid='+sheetId;
+    let iframeSource = 'https://docs.google.com/spreadsheets/d/'+fileId+'/edit?usp=sharing&rm=minimal#gid='+sheetId+'&single=true&widget=true&headers=false';
     console.log(iframeSource);
     document.getElementById("builder").setAttribute("src", iframeSource);
 }
