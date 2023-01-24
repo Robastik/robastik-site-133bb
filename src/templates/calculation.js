@@ -28,6 +28,8 @@ export default class Post extends React.Component {
           <meta property="og:title" content={_.get(this.props, 'pageContext.frontmatter.title', null) + " : " + _.get(this.props, 'pageContext.frontmatter.subtitle', null)}/>
           <meta property="og:url" content={"https://" + _.trim(_.get(this.props, 'pageContext.site.siteMetadata.domain', null), '/') + withPrefix(_.get(this.props, 'pageContext.url', null))}/>
           <meta property="og:description" content={_.get(this.props, 'pageContext.frontmatter.meta_description', null)}/>
+          <script src={'js/iframeSource.js'} type="text/javascript" defer/>
+          <script/>
           </Helmet>
             <div className="outer">
               <div className="inner-medium">
