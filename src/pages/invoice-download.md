@@ -1,6 +1,6 @@
 ---
-title: Готовые документы
-subtitle: Для скачивания
+title: Скачать
+subtitle: Готовые документы
 author: src/data/authors/jane-doe.yaml
 excerpt: >-
   .
