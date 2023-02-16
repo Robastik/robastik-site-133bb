@@ -1,18 +1,18 @@
 ---
 title: Подписка
-subtitle: Оформление договора и счета
+subtitle: Расчет и оформление
 author: src/data/authors/jane-doe.yaml
 excerpt: >-
   -
 date: '2100-01-03'
-thumb_image: images/girl-and-boy-doing-discussion-purple.png
-thumb_image_alt: Автоматизация работы с данными для аналитиков в Excel
-image: images/girl-and-boy-doing-discussion-green.png
-image_alt: Как Робастик помогает аналитикам работать с данными
+thumb_image: images/fillin-template-document-excel-docx-automate.png
+thumb_image_alt: Парсинг автоматический сбор данных загрузка объявлений Авито ЦИАН недвижимость
+image: images/parsing-realty-Avito-CIAN-download-Excel-AddIn.png
+image_alt: Загрузить объявления недвижимость квартиры коммерческая земельные участки с Авито и ЦИАН
 template: gatein
 meta_title: >-
-  Оформление подписки
-meta_description: Договор и счет
+  Подписка
+meta_description: Расчет и оформление
 canonical_url: ' '
 ---
 Текст
