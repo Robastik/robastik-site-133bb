@@ -29,6 +29,16 @@
                 "icon_position": "right",
                 "new_window": true,
                 "no_follow": true
+            },
+            {
+                "label": "Цены",
+                "url": "/price-list?mode=price",
+                "style": "link"
+            },
+            {
+                "label": "Блог",
+                "url": "/blog",
+                "style": "link"
             }
         ],
         "logo_img": "images/Лого 20.png"

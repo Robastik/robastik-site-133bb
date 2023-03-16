@@ -1,6 +1,6 @@
 ---
-title: Оплата
-subtitle: Расчет и оформление
+title: Цены
+subtitle: на парсинг недвижимости
 author: src/data/authors/jane-doe.yaml
 excerpt: >-
   -
@@ -11,8 +11,8 @@ image: images/parsing-realty-Avito-CIAN-download-Excel-AddIn.png
 image_alt: Загрузить объявления недвижимость квартиры коммерческая земельные участки с Авито и ЦИАН
 template: gatein
 meta_title: >-
-  Подписка
-meta_description: Расчет и оформление
+  Прайс
+meta_description: Парсинг недвижимости
 canonical_url: ' '
 ---
 Текст
