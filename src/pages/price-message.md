@@ -1,6 +1,6 @@
 ---
 title: Цены
-subtitle: на парсинг недвижимости
+subtitle: и условия использования
 author: src/data/authors/jane-doe.yaml
 excerpt: >-
   -
