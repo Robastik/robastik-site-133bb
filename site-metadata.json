@@ -76,6 +76,36 @@
                 "title": "Контакты",
                 "nav_links": [
                     {
+                        "label": "Email",
+                        "url": "mail@robastik.ru",
+                        "style": "link",
+                        "has_icon": true,
+                        "icon": "envelope",
+                        "icon_position": "left"
+                    },
+                    {
+                        "label": "Telegram",
+                        "url": "https://t.me/RobastikRu",
+                        "style": "link",
+                        "has_icon": true,
+                        "icon": "telegram",
+                        "icon_position": "left"
+                    },
+                    {
+                        "label": "WhatsApp",
+                        "url": "https://wa.me/message/YRGCZNRS7UEAM1",
+                        "style": "link",
+                        "has_icon": true,
+                        "icon": "whatsapp",
+                        "icon_position": "left"
+                    }
+                ]
+            },
+            {
+                "type": "footer_nav",
+                "title": "Сообщество",
+                "nav_links": [
+                    {
                         "label": "Фейсбук",
                         "url": "https://www.facebook.com/groups/excelword",
                         "style": "link",
@@ -83,14 +113,6 @@
                         "icon": "facebook",
                         "icon_position": "left",
                         "new_window": true
-                    },
-                    {
-                        "label": "Email",
-                        "url": "denis@robastik.ru",
-                        "style": "link",
-                        "has_icon": true,
-                        "icon": "envelope",
-                        "icon_position": "left"
                     },
                     {
                         "label": "YouTube",
@@ -101,11 +123,11 @@
                         "icon_position": "left"
                     },
                     {
-                        "label": "Telegram",
-                        "url": "https://t.me/RobastikRu",
+                        "label": "ВКонтакте",
+                        "url": "https://vk.com/exceltoword",
                         "style": "link",
                         "has_icon": true,
-                        "icon": "telegram",
+                        "icon": "vk",
                         "icon_position": "left"
                     }
                 ]
