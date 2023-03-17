@@ -4,7 +4,7 @@ window.onload = function(){
 
     if(params.has("height")){//высота iframe
         //для прайс-листа надо меньше высоты
-        document.getElementById("builder").setAttribute("height", '"'+ params.get("height") +'"');
+        document.getElementById("builder").setAttribute("height", params.get("height"));
     }else{
         //по умолчанию и для генератора счетов высота 2000 норм
         document.getElementById("builder").setAttribute("height", "2000");
