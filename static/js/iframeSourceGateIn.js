@@ -3,7 +3,7 @@ window.onload = function(){
     let params = new URLSearchParams(window.location.search);
 
     //Опубликованный WebApp Копир Калькуляции
-    let idWebApp = 'AKfycbyyyVptadhb7N7pkzXVqZkFxGqXmFGC4OD4tZWRMH5UPPpe511eVEm0uMiG68GkTfNCbw';
+    let idWebApp = 'AKfycbykFVfy7z8vtGlwvyQ4mOE2ZwzThbMuAVAhZHOMhrGMKKhHO11Q-b1iEPijR6t1UFvL8w';
     let urlWebApp = 'https://script.google.com/macros/s/'+ idWebApp +'/exec';
     document.getElementById("webapp").setAttribute("src", urlWebApp +'?'+ params.toString());
 }
