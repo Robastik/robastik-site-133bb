@@ -7,14 +7,10 @@ window.onload = function(){
     let urlWebApp = 'https://script.google.com/macros/s/'+ idWebApp +'/exec';
     document.getElementById("webapp").setAttribute("src", urlWebApp +'?'+ params.toString());
 }
-window.onpageshow = function(event){
+window.addEventListener ('pageshow', function (event) {
     if (event.persisted) {
-        let params = new URLSearchParams(window.location.search);
-
-        //Опубликованный WebApp Копир Калькуляции
-        let idWebApp = 'AKfycbwpzTWMPdSaKBswBmH53kuKfLY-_LCzkp4Z-uKv_DXFuogA5qEfKgSl0yMW8F2FQNyLTQ';
-        let urlWebApp = 'https://script.google.com/macros/s/'+ idWebApp +'/exec';
-        document.getElementById("webapp").setAttribute("src", urlWebApp +'?'+ params.toString());
+      console.log ('Эта страница восстановлена ​​из BFcache.');
+    } else {
+      console.log ('Эта страница загрузилась по запросу.');
     }
-    
-}
+});
