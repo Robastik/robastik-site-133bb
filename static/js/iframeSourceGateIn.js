@@ -9,7 +9,9 @@ window.onload = function(){
     document.getElementById("webapp").setAttribute("src", urlWebApp +'?'+ params.toString());
 
     window.addEventListener ('pageshow', function (event) {
-        if (event.persisted) {
+        console.log ('pageshow');
+        const navigationType = performance.getEntriesByType('navigation')[0].type;
+        if (event.persisted || navigationType == 'back_forward' ) {
           console.log ('Эта страница восстановлена ​​из BFcache.');
         } else {
           console.log ('Эта страница загрузилась по запросу.');
