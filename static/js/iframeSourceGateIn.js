@@ -7,21 +7,17 @@ window.onload = function(){
     let urlWebApp = 'https://script.google.com/macros/s/'+ idWebApp +'/exec';
     document.getElementById("webapp").setAttribute("src", urlWebApp +'?'+ params.toString());
 }
-    const events = ["pagehide", "pageshow", "unload", "load"];
-
+    
+const events = ["pageshow"];
 const eventLogger = (event) => {
   switch (event.type) {
-    case "pagehide":
     case "pageshow": {
-      let isPersisted = event.persisted ? "persisted" : "not persisted";
-      console.log(`Event: ${event.type} - ${isPersisted}`);
-      break;
+        if (event.persisted) {
+            window.location.reload();
+        }
+    break;
     }
-    default:
-      console.log(`Event: ${event.type}`);
-      break;
   }
 };
-
 events.forEach((eventName) => window.addEventListener(eventName, eventLogger));
 
