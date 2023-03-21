@@ -8,8 +8,8 @@ window.onload = function(){
     document.getElementById("webapp").setAttribute("src", urlWebApp +'?'+ params.toString());
 }
     
-const events = ["pageshow"];
-const eventLogger = (event) => {
+var events = ["pageshow"];
+var eventLogger = (event) => {
   switch (event.type) {
     case "pageshow": {
         if (event.persisted) {
