@@ -41,7 +41,7 @@ export default class Post extends React.Component {
                     </div>
                     )}
                   </header>
-                  <div className="post-content" style="background-image: url('https://firebasestorage.googleapis.com/v0/b/robastik-2cb02.appspot.com/o/Preloader_webapp.gif?alt=media&token=e6306d2f-4e41-4fd8-aabc-066f0a097095');">
+                  <div className="post-content">
                   <iframe id="webapp" width="100%" height="800" frameborder="0" src="https://firebasestorage.googleapis.com/v0/b/robastik-2cb02.appspot.com/o/page%2Fpreloader.html?alt=media&token=be7ee1fb-8cca-493c-a552-8ea45a3b3e4a" seamless></iframe>
                   </div>
                   <BlogPostFooter {...this.props} page={this.props.pageContext} date_type={'long'} />
