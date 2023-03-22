@@ -23,7 +23,7 @@ export default class Post extends React.Component {
         return (
           <Layout {...this.props} imgpath='testpath'>
           <Helmet>
-            <meta name="viewport" content=""/>
+            <meta name="viewport" content="width=1024"/>
             <meta property="og:image" content={"https://" + _.trim(_.get(this.props, 'pageContext.site.siteMetadata.domain', null), '/') + withPrefix(_.get(this.props, 'pageContext.frontmatter.image', null))}/>  
             <meta property="og:type" content="article"/>
             <meta property="og:title" content={_.get(this.props, 'pageContext.frontmatter.title', null) + " : " + _.get(this.props, 'pageContext.frontmatter.subtitle', null)}/>
