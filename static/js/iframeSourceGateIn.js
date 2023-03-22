@@ -5,6 +5,8 @@ window.onload = function(){
     divBackground.style.backgroundRepeat = "no-repeat";
     divBackground.style.backgroundPosition = "50% 20%";
 
+
+
     let params = new URLSearchParams(window.location.search);
 
     //Опубликованный WebApp Копир Калькуляции
