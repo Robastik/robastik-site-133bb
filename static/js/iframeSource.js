@@ -2,7 +2,7 @@
 window.onload = function(){
     //Для мобильных показывать инструкцию для перехода на Desktop site
     if((/mobi/).test(window.navigator.userAgent.toLowerCase())){
-        const iframeSource = "https://firebasestorage.googleapis.com/v0/b/robastik-2cb02.appspot.com/o/page%2FturnMobileOption.html?alt=media&token=51a82c94-0670-42db-9ebf-f8efb67ebc4e";
+        const iframeSource = "https://firebasestorage.googleapis.com/v0/b/robastik-2cb02.appspot.com/o/page%2FturnMobileOption.html?alt=media&token=50134dbf-d460-467a-97e9-511732b23026";
         document.getElementById("builder").setAttribute("src", iframeSource);
         document.getElementById("builder").setAttribute("height", "2000");
     }else{//для десктопа показать google sheet калькуляцию
