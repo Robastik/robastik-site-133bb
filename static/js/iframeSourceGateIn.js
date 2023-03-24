@@ -1,6 +1,6 @@
  //Опубликованный WebApp Копир Калькуляции
 //!!! И в следующей безымянной функции
-let idWebApp = 'AKfycby-LmIaHHV1tuXc2g3npJMUrZPlvmSVKsMHoGAEGWJmgyqA6lL9Yj1IenVVKcJ6DHvKsw';
+let idWebApp = 'AKfycbzmfjVRKdUDmMoARZheeJbP5uW5qhSM5dViGHEZRPTied4cnwY4rBnm_rFpod-dVv95Tw';
 
 
 //Скрипт загружает iframe из источника, переданного на страницу в get параметрах
