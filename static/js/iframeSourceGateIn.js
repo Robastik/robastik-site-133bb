@@ -1,3 +1,8 @@
+ //Опубликованный WebApp Копир Калькуляции
+//!!! И в следующей безымянной функции
+let idWebApp = 'AKfycby-LmIaHHV1tuXc2g3npJMUrZPlvmSVKsMHoGAEGWJmgyqA6lL9Yj1IenVVKcJ6DHvKsw';
+
+
 //Скрипт загружает iframe из источника, переданного на страницу в get параметрах
 window.onload = function(){
     let divBackground = document.getElementsByClassName("post-content")[0];
@@ -11,7 +16,7 @@ window.onload = function(){
 
     //Опубликованный WebApp Копир Калькуляции
     //!!! И в следующей безымянной функции
-    let idWebApp = 'AKfycbx3tX9TIJOUfRYq6jaK7SkSFi0UF_nWUeRq0vjKeOVhfehO39X6YncU1H6GfEDSgNmqkQ';
+    //let idWebApp = 'AKfycby-LmIaHHV1tuXc2g3npJMUrZPlvmSVKsMHoGAEGWJmgyqA6lL9Yj1IenVVKcJ6DHvKsw';
     let urlWebApp = 'https://script.google.com/macros/s/'+ idWebApp +'/exec';
     document.getElementById("webapp").setAttribute("src", urlWebApp +'?'+ params.toString());
 }
@@ -22,7 +27,7 @@ window.onload = function(){
             let params = new URLSearchParams(window.location.search);
 
             //Опубликованный WebApp Копир Калькуляции
-            let idWebApp = 'AKfycbx3tX9TIJOUfRYq6jaK7SkSFi0UF_nWUeRq0vjKeOVhfehO39X6YncU1H6GfEDSgNmqkQ';
+            //let idWebApp = 'AKfycby-LmIaHHV1tuXc2g3npJMUrZPlvmSVKsMHoGAEGWJmgyqA6lL9Yj1IenVVKcJ6DHvKsw';
             let urlWebApp = 'https://script.google.com/macros/s/'+ idWebApp +'/exec';
             document.getElementById("webapp").setAttribute("src", urlWebApp +'?'+ params.toString());
         }
