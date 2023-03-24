@@ -10,7 +10,8 @@ window.onload = function(){
     let params = new URLSearchParams(window.location.search);
 
     //Опубликованный WebApp Копир Калькуляции
-    let idWebApp = 'AKfycbxid1XtyGei_9fFgnGpgtsr3o8T7bB2pYrcBUk1lHICbeEj1JI8EpFC1-BnwrVnyWJIDQ';
+    //!!! И в следующей безымянной функции
+    let idWebApp = 'AKfycbx3tX9TIJOUfRYq6jaK7SkSFi0UF_nWUeRq0vjKeOVhfehO39X6YncU1H6GfEDSgNmqkQ';
     let urlWebApp = 'https://script.google.com/macros/s/'+ idWebApp +'/exec';
     document.getElementById("webapp").setAttribute("src", urlWebApp +'?'+ params.toString());
 }
@@ -21,11 +22,9 @@ window.onload = function(){
             let params = new URLSearchParams(window.location.search);
 
             //Опубликованный WebApp Копир Калькуляции
-            let idWebApp = 'AKfycbxid1XtyGei_9fFgnGpgtsr3o8T7bB2pYrcBUk1lHICbeEj1JI8EpFC1-BnwrVnyWJIDQ';
+            let idWebApp = 'AKfycbx3tX9TIJOUfRYq6jaK7SkSFi0UF_nWUeRq0vjKeOVhfehO39X6YncU1H6GfEDSgNmqkQ';
             let urlWebApp = 'https://script.google.com/macros/s/'+ idWebApp +'/exec';
             document.getElementById("webapp").setAttribute("src", urlWebApp +'?'+ params.toString());
-
-            //window.location.reload();
         }
     };
 })();
