@@ -43,10 +43,7 @@ export default class Post extends React.Component {
                   </header>
                   <div className="post-content">
                     {htmlToReact(_.get(this.props, 'pageContext.html', null))}
-                    <iframe id="webapp" width="100%" height="80" frameborder="0" 
-                    src="
-                    https://firebasestorage.googleapis.com/v0/b/robastik-2cb02.appspot.com/o/page%2Fpreloader.html?alt=media&token=be7ee1fb-8cca-493c-a552-8ea45a3b3e4a
-                    " seamless></iframe>
+                    <iframe id="webapp" width="100%" height="120" frameborder="0" src="https://firebasestorage.googleapis.com/v0/b/robastik-2cb02.appspot.com/o/page%2Fpreloader.html?alt=media&token=be7ee1fb-8cca-493c-a552-8ea45a3b3e4a" seamless></iframe>
                   </div>
                   <BlogPostFooter {...this.props} page={this.props.pageContext} date_type={'long'} />
                 </article>
