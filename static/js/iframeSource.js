@@ -12,6 +12,7 @@ window.onload = function(){
         divBackground.style.backgroundRepeat = "no-repeat";
         divBackground.style.backgroundPosition = "50% 0%";
 
+        alert("Смотреть Прайс-лист");
 
         let params = new URLSearchParams(window.location.search);
 
@@ -22,7 +23,7 @@ window.onload = function(){
             //по умолчанию и для генератора счетов высота 2000 норм
             document.getElementById("builder").setAttribute("height", "2000");
         }
-        alert("Прайс-лист");
+        
         let fileId = params.get('fileId'); // spreadsheet ID
         let sheetId = params.get('sheetId'); // gid → sheet ID
         let iframeSource = 'https://docs.google.com/spreadsheets/d/'+fileId+'/edit?usp=sharing&rm=minimal#gid='+sheetId;
