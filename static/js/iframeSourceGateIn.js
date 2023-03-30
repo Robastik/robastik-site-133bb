@@ -22,12 +22,12 @@ window.onload = function(){
     if(params.has("rm")){
         let realMode = params.get('rm');
         if(realMode){
-            let licenseLink = realLicenseLink
+            var licenseLink = realLicenseLink
         }else{
-            let licenseLink = demoLicenseLink
+            var licenseLink = demoLicenseLink
         }
     }else{
-        let licenseLink = demoLicenseLink
+        var licenseLink = demoLicenseLink
     }
 
     //ссылка без адреса
