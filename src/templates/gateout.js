@@ -43,7 +43,9 @@ export default class Post extends React.Component {
                     )}
                   </header>
                   <div className="post-content">
-                  <iframe id="webapp" width="100%" height="400px" frameborder="0" seamless></iframe>
+                    <div className="iframeHolder">
+                      <iframe id="webapp" width="100%" height="400px" frameborder="0" seamless></iframe>
+                    </div>
                   </div>
                   <BlogPostFooter {...this.props} page={this.props.pageContext} date_type={'long'} />
                 </article>
