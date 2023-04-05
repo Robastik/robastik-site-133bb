@@ -39,7 +39,7 @@ window.onload = function(){
 
     //Опубликованный WebApp Копир Калькуляции
     //!!! И в следующей безымянной функции
-    let idWebApp = 'AKfycbxyUxkUquL67fBfauGOdlg-fenCejeg29AsjuUutMdUkR2j0ZtbZonYucko10CRCjRoug';
+    let idWebApp = 'AKfycbw25P_GoS4OZEpZJg-d1GMaDWrrhuE0rtvyOrGqLvZzEoLMXton0hHYjhhAPIY73TYxLw';
     let urlWebApp = 'https://script.google.com/macros/s/'+ idWebApp +'/exec';
     document.getElementById("webapp").setAttribute("src", urlWebApp +'?'+ params.toString());
 }
@@ -50,7 +50,7 @@ window.onload = function(){
             let params = new URLSearchParams(window.location.search);
 
             //Опубликованный WebApp Копир Калькуляции
-            let idWebApp = 'AKfycbxyUxkUquL67fBfauGOdlg-fenCejeg29AsjuUutMdUkR2j0ZtbZonYucko10CRCjRoug';
+            let idWebApp = 'AKfycbw25P_GoS4OZEpZJg-d1GMaDWrrhuE0rtvyOrGqLvZzEoLMXton0hHYjhhAPIY73TYxLw';
             let urlWebApp = 'https://script.google.com/macros/s/'+ idWebApp +'/exec';
             document.getElementById("webapp").setAttribute("src", urlWebApp +'?'+ params.toString());
         }
