@@ -50,7 +50,7 @@ window.onload = function(){
     }else{
         if(params.has("mode")){
             let mode = params.get('mode');
-            if(mode == 'price){
+            if(mode == 'price'){
                var task = 'fileId=priceList';
             }else{
                var task = 'fileId=invoiceBuilder';
