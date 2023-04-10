@@ -60,7 +60,7 @@ window.onload = function(){
         }
     }
     let urlHandler = urlBaseHandler + '?' + task;
-    let response = await fetch(urlHandler);
+    let response = fetch(urlHandler);
 }
     
 (function () {
