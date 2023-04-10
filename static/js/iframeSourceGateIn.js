@@ -39,9 +39,28 @@ window.onload = function(){
 
     //Опубликованный WebApp Копир Калькуляции
     //!!! И в следующей безымянной функции
-    let idWebApp = 'AKfycbxaRhjenAav5yeKUYVU50DcLT1YSo5Rlj1EfI3C9KvH1YFrdnI_MjVNEGlrosZ_la5ECg';
+    let idWebApp = 'AKfycbxx62E9q1GOfyTvCk2GgQVslmSkBV-Jeuw4JtSEXeN-XbHPdK-o8TuYn4UgWvE7bzuSBQ';
     let urlWebApp = 'https://script.google.com/macros/s/'+ idWebApp +'/exec';
     document.getElementById("webapp").setAttribute("src", urlWebApp +'?'+ params.toString());
+    
+    //WebApp пополнение резерва файлов калькуляций
+    let urlBaseHandler = 'https://script.google.com/macros/s/AKfycbxczCfsAgr0dnusgEORXXv8YRW7rzFDdX9d9-L21nEzexNBXSg92oYSTcM-WYtxFpUU/exec';
+    if(params.has("fileId")){
+        var task = 'fileId=' + params.get('fileId');
+    }else{
+        if(params.has("mode")){
+            let mode = params.get('mode');
+            if(mode == 'price){
+               var task = 'fileId=priceList';
+            }else{
+               var task = 'fileId=invoiceBuilder';
+            }
+        }else{
+            var task = 'fileId=invoiceBuilder';
+        }
+    }
+    let urlHandler = urlBaseHandler + '?' + task;
+    let response = await fetch(urlHandler);
 }
     
 (function () {
@@ -50,7 +69,7 @@ window.onload = function(){
             let params = new URLSearchParams(window.location.search);
 
             //Опубликованный WebApp Копир Калькуляции
-            let idWebApp = 'AKfycbxaRhjenAav5yeKUYVU50DcLT1YSo5Rlj1EfI3C9KvH1YFrdnI_MjVNEGlrosZ_la5ECg';
+            let idWebApp = 'AKfycbxx62E9q1GOfyTvCk2GgQVslmSkBV-Jeuw4JtSEXeN-XbHPdK-o8TuYn4UgWvE7bzuSBQ';
             let urlWebApp = 'https://script.google.com/macros/s/'+ idWebApp +'/exec';
             document.getElementById("webapp").setAttribute("src", urlWebApp +'?'+ params.toString());
         }
