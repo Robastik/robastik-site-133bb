@@ -1,7 +1,7 @@
 //Опубликованный WebApp Копир Калькуляции
 //!!! И в следующей безымянной функции
 
-/*
+
 //Скрипт загружает iframe из источника, переданного на страницу в get параметрах
 window.onload = function(){
     //анимация прелоадера
@@ -42,7 +42,7 @@ window.onload = function(){
     let idWebApp = 'AKfycbyDkTJYmYCkapyfRW3nnhJA0Kr7xJhFm3ieMJF31wdkNC__Ge8hGaGva-RV85U5Vo-IdA';
     let urlWebApp = 'https://script.google.com/macros/s/'+ idWebApp +'/exec';
     document.getElementById("webapp").setAttribute("src", urlWebApp +'?'+ params.toString());
-}*/
+}
     
 (function () {
     window.onpageshow = function(event) {
