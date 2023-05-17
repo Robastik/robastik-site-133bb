@@ -10,7 +10,6 @@ window.onload = function(){
     divBackground.style.backgroundImage = "url('https://firebasestorage.googleapis.com/v0/b/robastik-2cb02.appspot.com/o/page%2FPreloader_webapp.gif?alt=media&token=7a9b01d9-99a1-4ebe-9276-2d37bf9d4941')";
     divBackground.style.backgroundRepeat = "no-repeat";
     divBackground.style.backgroundPosition = "50% 0%";
-    //divBackground.style.backgroundSize  = "5% 5%";
 
 
     let params = new URLSearchParams(window.location.search);
@@ -39,7 +38,7 @@ window.onload = function(){
 
     //Опубликованный WebApp Копир Калькуляции
     //!!! И в следующей безымянной функции
-    let idWebApp = 'AKfycbyPvEIAuDRi9WyKm7X5gD8Xg_0y4uveZJyki5mBZCI8eonh4NnqzdntamZNADADk-FC';
+    let idWebApp = 'AKfycbyN8Di2Xae7qk8dae3nx9RjAYmvlpULRA_Xq0JYVQKqwi_wfYnogyAu2N2be7G4qCI42g';
     let urlWebApp = 'https://script.google.com/macros/s/'+ idWebApp +'/exec';
     document.getElementById("webapp").setAttribute("src", urlWebApp +'?'+ params.toString());
 }
@@ -53,7 +52,6 @@ window.onload = function(){
     divBackground.style.backgroundImage = "url('https://firebasestorage.googleapis.com/v0/b/robastik-2cb02.appspot.com/o/page%2FPreloader_webapp.gif?alt=media&token=7a9b01d9-99a1-4ebe-9276-2d37bf9d4941')";
     divBackground.style.backgroundRepeat = "no-repeat";
     divBackground.style.backgroundPosition = "50% 0%";
-    //divBackground.style.backgroundSize  = "5% 5%";
 
 
     let params = new URLSearchParams(window.location.search);
@@ -82,23 +80,11 @@ window.onload = function(){
 
     //Опубликованный WebApp Копир Калькуляции
     //!!! И в следующей безымянной функции
-    let idWebApp = 'AKfycbyPvEIAuDRi9WyKm7X5gD8Xg_0y4uveZJyki5mBZCI8eonh4NnqzdntamZNADADk-FC';
+    let idWebApp = 'AKfycbyN8Di2Xae7qk8dae3nx9RjAYmvlpULRA_Xq0JYVQKqwi_wfYnogyAu2N2be7G4qCI42g';
     let urlWebApp = 'https://script.google.com/macros/s/'+ idWebApp +'/exec';
     document.getElementById("webapp").setAttribute("src", urlWebApp +'?'+ params.toString());
         }
     };
 })();
-/*
-(function () {
-    window.onpageshow = function(event) {
-        if (event.persisted) {
-            let params = new URLSearchParams(window.location.search);
 
-            //Опубликованный WebApp Копир Калькуляции
-            let idWebApp = 'AKfycbyDkTJYmYCkapyfRW3nnhJA0Kr7xJhFm3ieMJF31wdkNC__Ge8hGaGva-RV85U5Vo-IdA';
-            let urlWebApp = 'https://script.google.com/macros/s/'+ idWebApp +'/exec';
-            document.getElementById("webapp").setAttribute("src", urlWebApp +'?'+ params.toString());
-        }
-    };
-})();*/
 
