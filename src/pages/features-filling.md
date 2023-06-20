@@ -34,8 +34,7 @@ sections:
       верхней заполненной ячейки до правой нижней заполненной.
 
 
-      Подробнее в прилагаемой к установочному файлу справке и в
-      [Вики](https://wiggly-albatross-82f.notion.site/e2620d3d49a74450a0493e1c9c398d2d) Робастика.
+      Подробнее в [блоге](https://robastik.ru/blog/fill-report-doc-data-from-excel/) Робастика.
     actions: []
   - section_id: call-to-action
     type: section_cta
