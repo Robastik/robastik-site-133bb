@@ -38,7 +38,7 @@ window.onload = function(){
 
     //Опубликованный WebApp Копир Калькуляции
     //!!! И в следующей безымянной функции
-    let idWebApp = 'AKfycbwwMjsogO-cpP5e2mx7DGKI1RFs-QoZXbZZ93Akakd8FRVhp7QOqheiv4I4MpevXQ63Aw';
+    let idWebApp = 'AKfycbyEa8CK5er_R6R0jODrnIzbXx_a4X3rjSNLozW4t11IDHl7f-lnIPqVGXSzjTtxrtx7';
     let urlWebApp = 'https://script.google.com/macros/s/'+ idWebApp +'/exec';
     document.getElementById("webapp").setAttribute("src", urlWebApp +'?'+ params.toString());
 }
@@ -80,7 +80,7 @@ window.onload = function(){
 
     //Опубликованный WebApp Копир Калькуляции
     //!!! И в следующей безымянной функции
-    let idWebApp = 'AKfycbwwMjsogO-cpP5e2mx7DGKI1RFs-QoZXbZZ93Akakd8FRVhp7QOqheiv4I4MpevXQ63Aw';
+    let idWebApp = 'AKfycbyEa8CK5er_R6R0jODrnIzbXx_a4X3rjSNLozW4t11IDHl7f-lnIPqVGXSzjTtxrtx7';
     let urlWebApp = 'https://script.google.com/macros/s/'+ idWebApp +'/exec';
     document.getElementById("webapp").setAttribute("src", urlWebApp +'?'+ params.toString());
         }
