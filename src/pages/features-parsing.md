@@ -4,32 +4,29 @@ sections:
     type: section_content
     background: gray
     image: images/parser-brawser.png
-    image_alt: Робастик встраивает парсер в Excel
+    image_alt: Парсинг Авито и ЦИАН квартиры коммерчаская земля участки гаражи
     title: Парсинг
     content: >
-      Робастик - это надстройка Excel для парсинга веб-сайтов.
+      Запускается из меню Excel и загружает данные на лист Excel.
 
 
-      Можно сохранять объявления в PDF / PNG с номером телефона, а также фото из объявлений. 
-      
-      
-      По заказу возможны любые другие действия на страницах сайтов.
+      Сохраняет скриншот в PNG или PDF, загружает фото из объявлений, открывает номер телефона. 
 
 
       Справочные материалы прилагаются в комплекте с установочным файлом, а также в 
-      [Вики](https://www.notion.so/ebc43e94f3284cbab017c841b37ce881) Робастика.
+      [Вики](https://wiggly-albatross-82f.notion.site/ebc43e94f3284cbab017c841b37ce881) Робастика.
 
 
-      Aвиt0 и ЦИАН можно парсить сразу после установки Робастика. Для заказа парсинга
-      других сайтов свяжитесь любым указанным в Контактах способом.
+      Aвиt0 и ЦИАН парсит сразу после установки Робастика. Для заказа парсинга
+      других сайтов недвижимости оставьте заявку в ватсапе:
     actions:
-      - label: Перейти в Контакты для заказа
-        url: 'https://www.notion.so/35af522f0f884c2196c9c827c6148f24'
+      - label: Открыть ватсап
+        url: 'https://wa.me/message/YRGCZNRS7UEAM1'
         style: secondary
   - section_id: call-to-action
     type: section_cta
     title: Самый доступный парсинг
-    subtitle: Парсинг из меню Excel со встроенным Chrome
+    subtitle: Качает сразу в Excel
     actions:
       - label: Скачать Робастик
         url: >-
@@ -37,7 +34,7 @@ sections:
         style: secondary
 template: landing
 meta_description: >-
-  Парсинг Aвиt0 и ЦИАН из меню Excel со встроенным Chrome
+  Недвижимость Aвиt0 и ЦИАН в Excel
 meta_title: Парсинг | Робастик
 title: Парсинг
 canonical_url: ' '
