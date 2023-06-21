@@ -20,9 +20,9 @@ sections:
     type: section_features
     background: white
     features:
-      - title: Парсинг в Excel
+      - title: Парсинг недвижимости в Excel
         image: images/MenuParser.png
-        image_alt: App preview on a phone and tablet
+        image_alt: Парсинг недвижимости Авито ЦИАН в Excel
         content: >
           *   Скопировать ссылку из браузера в Excel и кликнуть "Старт". Данные
           начнут загружаться на лист Excel.
@@ -38,7 +38,7 @@ sections:
             icon_position: right
       - title: Заполнить документ Word по шаблону
         image: images/MenuWord-2496f53a.png
-        image_alt: App users welcoming a new member
+        image_alt: Заполнение документов данными из Excel
         content: >
           *   Содержимое отмеченных вами ячеек и целые таблицы Excel будут
           вставлены в указанные вами места документа Word.
@@ -53,7 +53,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: График на карте
-        image_alt: App user profile preview
+        image_alt: Тепловая карта heatmap недвижимости Авито ЦИАН
         content: |
           *   Добавить на лист Excel шаблон карты
 
