@@ -4,8 +4,8 @@ sections:
     type: section_content
     background: gray
     image_alt: Парсинг Авито и ЦИАН квартиры коммерчаская земля участки гаражи
-    title: Версия устарела
-    subtitle: Скачайте свежую
+    title: Обновите версию
+    subtitle: Ваша версия Робастика не поддерживается
     content: >
       Запускается из меню Excel и загружает данные на лист Excel.
 
