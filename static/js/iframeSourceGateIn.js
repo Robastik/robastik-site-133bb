@@ -4,7 +4,7 @@
 
 //Скрипт загружает iframe из источника, переданного на страницу в get параметрах
 window.onload = function(){
-    /*
+    
     //анимация прелоадера
     //или в css, inline не собирается
     let divBackground = document.getElementsByClassName("iframeHolder")[0];
@@ -42,10 +42,11 @@ window.onload = function(){
     let idWebApp = 'AKfycbxhTa_VJLMduOHVp3THfHJWeAm2U_04g9jlHfP89U0elmqXWVlik-D0Z2i5ocN1yZFdmQ';
     let urlWebApp = 'https://script.google.com/macros/s/'+ idWebApp +'/exec';
     document.getElementById("webapp").setAttribute("src", urlWebApp +'?'+ params.toString());
-    */
+    
 }
     
 (function () {
+    /*
     window.onpageshow = function(event) {
         if (event.persisted) {
             //анимация прелоадера
@@ -87,6 +88,7 @@ window.onload = function(){
     document.getElementById("webapp").setAttribute("src", urlWebApp +'?'+ params.toString());
         }
     };
+    */
 });
 
 
