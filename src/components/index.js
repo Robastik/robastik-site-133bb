@@ -11,6 +11,7 @@ import Header from './Header';
 import Icon from './Icon';
 import SectionContact from './SectionContact';
 import SectionContent from './SectionContent';
+import SectionMessage from './SectionMessage';
 import SectionCta from './SectionCta';
 import SectionFaq from './SectionFaq';
 import SectionFeatures from './SectionFeatures';
@@ -34,6 +35,7 @@ export {
     Icon,
     SectionContact,
     SectionContent,
+    SectionMessage,
     SectionCta,
     SectionFaq,
     SectionFeatures,
@@ -58,6 +60,7 @@ export default {
     Icon,
     SectionContact,
     SectionContent,
+    SectionMessage,
     SectionCta,
     SectionFaq,
     SectionFeatures,
