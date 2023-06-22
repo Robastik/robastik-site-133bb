@@ -1,7 +1,7 @@
 ---
 sections:
   - section_id: actual-version
-    type: section_content
+    type: section_message
     background: gray
     image_alt: Парсинг Авито и ЦИАН квартиры коммерчаская земля участки гаражи
     title: Обновите версию

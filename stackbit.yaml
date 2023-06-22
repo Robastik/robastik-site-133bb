@@ -275,6 +275,7 @@ models:
           labelField: title
           models:
             - section_content
+            - section_message
             - section_cta
             - section_faq
             - section_features
@@ -436,6 +437,39 @@ models:
         label: Title
         description: The title of the section
   section_content:
+    type: object
+    label: Content Section
+    extends:
+      - section
+    fields:
+      - type: markdown
+        name: content
+        label: Content
+        description: The text content of the section
+      - type: image
+        name: image
+        label: Image
+        description: The image of the section
+      - type: string
+        name: image_alt
+        label: Image Alt Text
+        description: The alt text of the section image
+      - type: enum
+        name: background
+        label: Background
+        description: The background of the section
+        options:
+          - gray
+          - white
+        default: gray
+      - type: list
+        name: actions
+        label: Action Buttons
+        items:
+          type: model
+          models:
+            - action
+  section_message:
     type: object
     label: Content Section
     extends:
