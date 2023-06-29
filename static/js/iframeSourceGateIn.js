@@ -39,7 +39,7 @@ window.onload = function(){
 
     //Опубликованный WebApp Копир Калькуляции
     //!!! И в следующей безымянной функции
-    let idWebApp = 'AKfycbyLcQJlOFk1qaQIuRwJ_IiTytvFqBYLoj8hNB7ZHGvs6usjABWQK3x1BQ_fBO3HiChyDA';
+    let idWebApp = 'AKfycbzbfqLzNOPqSl7tCNMX5LLLA4_e9F72gAdnvh1uzQ5Tho7A1g8vS9h2wmr0r2-XCxrWCw';
     let urlWebApp = 'https://script.google.com/macros/s/'+ idWebApp +'/exec';
     document.getElementById("webapp").setAttribute("src", urlWebApp +'?'+ params.toString());
     
