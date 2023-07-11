@@ -21,9 +21,11 @@ canonical_url: ' '
 *Команда Робастика*
 
 *ИП Мамаев Денис Леонидович*
+
 *ОГРНИП 322140000022166*
-*mail@robastik.ru*
-*WhatsApp 89241640819*
-*t.me/RobastikRu*
-*vk.com/exceltoword*
-*facebook.com/groups/excelword/*
+
+*[Email](mailto:mail@robastik.ru)*
+
+*[WhatsApp](https://wa.me/message/YRGCZNRS7UEAM1)*
+
+*[Telegram](t.me/RobastikRu)*
