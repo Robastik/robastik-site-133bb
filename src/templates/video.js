@@ -3,7 +3,7 @@ import _ from 'lodash';
 import {graphql} from 'gatsby';
 
 import {Layout} from '../components/index';
-import {htmlToReact, withPrefix} from '../utils';
+import {htmlToReact, withPrefix, markdownify} from '../utils';
 import BlogPostFooter from '../components/BlogPostFooter';
 
 import {Helmet} from 'react-helmet';
