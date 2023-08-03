@@ -62,7 +62,7 @@ canonical_url: ' '
 
 5.  Нажать кнопку **Заполнить**. После этого будет открыт **шаблон** и в него вместо фигурных скобок будут подставлены данные из Excel. Затем заполненный документ будет сохранен с именем файла Excel и в ту же папку, где находится этот файл Excel. Если файл Excel называется **Справка.xlsx**, то заполненный шаблон сохранится рядом с ним под именем **Справка.docx**.
 
-</p><iframe allowfullscreen="" frameborder="0" height="315" src="http://www.youtube.com/embed/UkWd0azv3fQ?start=90" width="420"></iframe><p>
+<iframe allowfullscreen="" frameborder="0" height="315" src="http://www.youtube.com/embed/UkWd0azv3fQ?start=90" width="420"></iframe>
 
 > Никогда не называйте **шаблон** одинаково с файлом Excel. 
 
