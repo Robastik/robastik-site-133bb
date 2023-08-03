@@ -112,7 +112,6 @@ part2: >-
   - [Ютуб](https://youtu.be/wAaUBo_rXaQ) Видеоинструкция
   - [Ношн](https://wiggly-albatross-82f.notion.site/ebc43e94f3284cbab017c841b37ce881) Вики Робастика
   - [Email](mailto:tech@robastik.ru) по вопросам техподдержки
-
 canonical_url: ' '
 ---
 Прежний текст.
