@@ -48,7 +48,7 @@ export default class Post extends React.Component {
                   )}
                   <div className="post-content">
                     {markdownify(_.get(this.props, 'pageContext.frontmatter.part1', null))}
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/wAaUBo_rXaQ?start=16" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    <iframe width="560" height="315" src={_.get(this.props, 'pageContext.frontmatter.youtube', null)} title="Как заполнить документ данными из Excel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                     {htmlToReact(_.get(this.props, 'pageContext.html', null))}
                   </div>
                   <BlogPostFooter {...this.props} page={this.props.pageContext} date_type={'long'} />
