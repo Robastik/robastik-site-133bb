@@ -3,7 +3,6 @@ title: Заполнить из Excel любые документы по шабл
 subtitle: >-
   Автоматически вставляйте данные из Excel в поля типовых бланков Word
 sections:
-    actions: []
   - section_id: call-to-action
     type: section_cta
     title: Заполнить в один клик
