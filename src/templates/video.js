@@ -51,17 +51,18 @@ export default class Post extends React.Component {
                       <iframe width="560" height="315" src={_.get(this.props, 'pageContext.frontmatter.youtube', null)} title="Как заполнить документ данными из Excel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                     {htmlToReact(_.get(this.props, 'pageContext.html', null))}
                   </div>
-                  {_.map(_.get(this.props, 'pageContext.frontmatter.sections', null), (section, section_idx) => {
-                      let component = _.upperFirst(_.camelCase(_.get(section, 'type', null)));
-                      let Component = components[component];
-                      return (
-                        <Component key={section_idx} {...this.props} section={section} site={this.props.pageContext.site} />
-                      )
-                  })}
+                  
                   <BlogPostFooter {...this.props} page={this.props.pageContext} date_type={'long'} />
                 </article>
               </div>
             </div>
+            {_.map(_.get(this.props, 'pageContext.frontmatter.sections', null), (section, section_idx) => {
+                let component = _.upperFirst(_.camelCase(_.get(section, 'type', null)));
+                let Component = components[component];
+                return (
+                  <Component key={section_idx} {...this.props} section={section} site={this.props.pageContext.site} />
+                )
+            })}
             </Layout>
         );
     }
