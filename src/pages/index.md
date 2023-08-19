@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/magenta-celery.png
     image_alt: Меню надстройки Excel Робастик
-    title: Автоматизация в Excel
+    title: Автоматизация в Excel и Word
     content: >
       Добавьте в Excel:
 
@@ -49,15 +49,15 @@ sections:
         image: images/MenuWord-2496f53a.png
         image_alt: АвтоЗаполнение шаблона Word данными из Excel
         content: >
-          *   Перенос данных из [ячеек](/blog/fill-report-doc-data-from-excel/) Excel в поля документа Word
+          *   [Перенос данных из ячеек](/blog/fill-report-doc-data-from-excel/) Excel в поля документа Word
 
           *   Импорт в Word таблиц Excel с форматированием
 
-          *   Вставка изображений в шаблон Word
+          *   [Вставка изображений](/blog/create-image-tables-word-merge-excel/) в шаблон Word
 
           *   Контроль результата автозаполнения по шаблону
 
-          *   Демонстрационные примеры прилагаются
+          *   [Демонстрационные примеры](/blog/demo-files-fill-template-word-excel-vba/) прилагаются
         actions:
           - label: Подробнее
             url: /features-filling
