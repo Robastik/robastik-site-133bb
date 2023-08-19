@@ -6,7 +6,7 @@ sections:
     background: gray
     image: images/Otcheting.jpg
     image_alt: Заполнение полей договора спецификации документа данными из Excel
-    title: Автозаполнение Word
+    title: Автозаполнение Word из Excel
     content: >
       ##### Автозаполнение шаблонных документов Word данными из Excel
 
