@@ -46,7 +46,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Заполнить документ Word по шаблону
-        image: images/MenuWord-2496f53a.png
+        image: images/-2496f53a.png
         image_alt: АвтоЗаполнение шаблона Word данными из Excel
         content: >
           *   [Перенос данных из ячеек](/blog/fill-report-doc-data-from-excel/) Excel в поля документа Word
