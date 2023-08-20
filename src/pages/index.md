@@ -46,7 +46,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Заполнить документ Word по шаблону
-        image: images/-2496f53a.png
+        image: images/MenuWord-2496f53a.png
         image_alt: АвтоЗаполнение шаблона Word данными из Excel
         content: >
           *   [Перенос данных из ячеек](/blog/fill-report-doc-data-from-excel/) Excel в поля документа Word
@@ -55,7 +55,7 @@ sections:
 
           *   [Вставка изображений](/blog/create-image-tables-word-merge-excel/) в шаблон Word
 
-          *   Контроль результата автозаполнения по шаблону
+          *   [Контроль результата](/blog/merge-word-excel-template-control-errors/) автозаполнения по шаблону
 
           *   [Демонстрационные примеры](/blog/demo-files-fill-template-word-excel-vba/) прилагаются
         actions:
