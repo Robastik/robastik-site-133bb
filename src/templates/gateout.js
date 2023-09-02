@@ -28,6 +28,7 @@ export default class Post extends React.Component {
           <meta property="og:title" content={_.get(this.props, 'pageContext.frontmatter.title', null) + " : " + _.get(this.props, 'pageContext.frontmatter.subtitle', null)}/>
           <meta property="og:url" content={"https://" + _.trim(_.get(this.props, 'pageContext.site.siteMetadata.domain', null), '/') + withPrefix(_.get(this.props, 'pageContext.url', null))}/>
           <meta property="og:description" content={_.get(this.props, 'pageContext.frontmatter.meta_description', null)}/>
+          <meta name="robots" content="noindex" />
           <script src={withPrefix('js/iframeSourceGateOut.js')} type="text/javascript" defer/>
           <script/>
           </Helmet>
