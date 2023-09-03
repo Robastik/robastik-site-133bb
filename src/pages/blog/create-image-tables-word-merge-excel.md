@@ -5,8 +5,8 @@ subtitle: >-
 sections:
   - section_id: call-to-action
     type: section_cta
-    title: Автозаполнение Word из Excel
-    subtitle: типовых документов, форм, бланков в Word
+    title: Автозаполнение из Excel в один клик
+    subtitle: для типовых документов, форм, бланков в Word
     actions:
       - label: Скачать Робастик
         url: >-
