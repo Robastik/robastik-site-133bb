@@ -34,7 +34,7 @@ sections:
       верхней заполненной ячейки до правой нижней заполненной.
 
 
-      Подробнее в [блоге](https://robastik.ru/blog/fill-report-doc-data-from-excel/) Робастика.
+      Смотри [развернутое описание](/blog/fill-report-doc-data-from-excel/) всех функций автозаполнения с иллюстрациями и примерами.
     actions: []
   - section_id: call-to-action
     type: section_cta
