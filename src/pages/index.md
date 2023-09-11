@@ -51,7 +51,7 @@ sections:
         content: >
           *   [Перенос данных из ячеек](/blog/fill-report-doc-data-from-excel/) Excel в поля документа Word
 
-          *   Импорт в Word таблиц Excel с форматированием
+          *   Импорт в Word [целых таблиц](/fill-report-doc-data-from-excel#как-вставить-целую-таблицу) Excel с форматированием
 
           *   [Вставка изображений](/blog/create-image-tables-word-merge-excel/) в шаблон Word
 
