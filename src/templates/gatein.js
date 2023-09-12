@@ -45,7 +45,7 @@ export default class Post extends React.Component {
                   <div className="post-content">
                     {htmlToReact(_.get(this.props, 'pageContext.html', null))}
                     <div className="iframeHolder">
-                      <iframe id="webapp" width="100%" height="200" frameborder="0" seamless></iframe>
+                      <iframe id="webapp" width="100%" height="200" frameborder="0" seamless srcdoc="<html><body style='background-color: #f7f9fb'></body></html>"></iframe>
                     </div>
                   </div>
                   <BlogPostFooter {...this.props} page={this.props.pageContext} date_type={'long'} />
