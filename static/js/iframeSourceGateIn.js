@@ -42,6 +42,7 @@ window.onload = function(){
     let idWebApp = 'AKfycbzbfqLzNOPqSl7tCNMX5LLLA4_e9F72gAdnvh1uzQ5Tho7A1g8vS9h2wmr0r2-XCxrWCw';
     let urlWebApp = 'https://script.google.com/macros/s/'+ idWebApp +'/exec';
     document.getElementById("webapp").setAttribute("src", urlWebApp +'?'+ params.toString());
+    document.getElementById("webapp").removeAttribute("srcdoc");
     
 }
     
