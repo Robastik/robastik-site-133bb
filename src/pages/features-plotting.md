@@ -21,7 +21,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Новые возможности Excel
-    subtitle: Только для продвинутых
+    subtitle:  Экспертность - это просто
     actions:
       - label: Скачать Робастик
         url: >-
