@@ -7,7 +7,7 @@ sections:
     image_alt: Парсинг Авито и ЦИАН квартиры коммерчаская земля участки гаражи
     title: Парсинг
     content: >
-      [Запускается из меню Excel](/blog/start-parsing-avito-cian-now/) и загружает данные на лист Excel.
+      [Запускается из меню Excel](blog/start-parsing-avito-cian-now/) и загружает данные на лист Excel.
 
 
       Сохраняет скриншот в PNG или PDF, загружает фото из объявлений, открывает номер телефона. 

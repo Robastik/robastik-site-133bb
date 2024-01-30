@@ -2,7 +2,7 @@
 title: Как загрузить данные с Авито и ЦИАН прямо сейчас
 excerpt: >-
   Робастик полностью готов к загрузке данных с Авито и ЦИАН после установки.
-  Просто нажмите "Старт" и загрузка начнется с заданной задержкой.
+  Просто нажмите "Старт" и загрузка начнется.
 author: src/data/authors/jane-doe.yaml
 date: '2100-01-02'
 thumb_image: images/man-exploring-globe-purple.png
@@ -10,12 +10,86 @@ thumb_image_alt: Парсить Авито и ЦИАН без регистрац
 image: images/blue-whale.png
 image_alt: Парсинг любого сайта из меню Excel
 template: post
-subtitle: 'Выбери ссылку на раздел сайта, а остальное сделает Excel'
+subtitle: 'Выбери ссылку на сайте недвижимости, а остальное сделает Excel'
 meta_title: Робастик | Парсинг
 meta_description: 'Робастик - VBA надстройка Excel для парсинга Авито, ЦИАН и любых других сайтов'
 canonical_url: 'https://robastik.ru/blog/start-parsing-avito-cian-now/'
 ---
 **Парсить Авито, ЦИАН и другие сайты Робастиком** действительно очень просто. Просто – потому что не требуется изучать новую программу для парсинга, ведь все делает сам Excel.
+
+## 1 Демонстрационный режим
+
+Можно скачать и установить Робастик прямо сейчас, чтобы протестировать парсинг в демонстрационном режиме. По изложенной здесь инструкции можно быстро разобраться с запуском и настройкой парсинга недвижимости в демонстрационном режиме. В демонстрационном режиме некоторые случайно выбранные данные заменяются ссылкой на оформление подписки:
+
+![Демо режим парсинга Авито и ЦИАН](images/start-parsing-avito-cian-now/demo-mode-parsing.PNG)
+
+Ссылка **Отключение демонстрационного режима** ведет на страницу оформления подписки.  
+
+>Оформить оплату на сайте нельзя!/nПереход на страницу оформления подписки возможен только из Excel с установленным Робастиком.
+
+Другой способ для оформления оплаты → кнопка **ОПЛАТА** в меню **Настройки** Робастика:
+
+![Меню оплаты парсинга](images/start-parsing-avito-cian-now/payment-parsing.PNG)
+
+На странице оплаты можно выбрать галочками необходимые функции парсинга аналогично калькулятору на странице [Цены](/price-message?mode=price), указать реквизиты заказчика и получить автоматически сформированный счет с договором.
+
+## 2 Перечень собираемых данных
+
+Выгружаются данные, которые есть на странице в видимом или скрытом виде. В основном состав данных стабилен. Точный состав данных иногда меняется. Для ознакомления с актуальным составом данных по конкретным разделам сайтов установите Робастик и протестируйте парсинг в демонстрационном режиме.
+
+### 2.1 ЦИАН
+
+Примерный состав данных раздела коммерческой недвижимости:
+
+__Фото,  Ссылка,  Категория,  Статус,  ТипСделки,  offerType,  address.address0,  address.address1,  address.address2,  address.address3,  address.address4,  address.address5,  широта,  долгота,  id,  objectGuid,  cianId,  userId,  publishedUserId,  cianUserId,  Описание,  phones.countryCode,  Телефон,  terms.days,  terms.type,  tariffIdentificator.tariffId,  tariffIdentificator.tariffGridType,  publishTerms.autoprolong,  cadastralNumber,  Общая,  Этаж,  Цена,  bargainTerms.priceType,  bargainTerms.currency,  bargainTerms.vatIncluded,  bargainTerms.vatType,  prices.rur,  prices.usd,  prices.eur,  vatPrices.rur,  vatPrices.usd,  vatPrices.eur,  Этажность,  building.totalArea,  ДатаРедактирования,  pricePerUnitArea,  pricePerUnitAreaRur,  pricePerUnitAreaUsd,  pricePerUnitAreaEur,  priceTotal,  priceTotalRur,  priceTotalUsd,  priceTotalEur,  vatPriceTotalRur,  pricesPerSquareMeter.rur,  pricesPerSquareMeter.usd,  pricesPerSquareMeter.eur,  exportLinks.pdfUrl,  exportLinks.docxUrl,  Добавлено,  valueAddedServices.isStandard,  Опубликовано,  trackingData.oblId,  trackingData.cityId,  trackingData.fbRegion,  trackingData.fbCity,  isImported,  timezone,  isEnabledCallTracking,  callTrackingProvider,  userTrust,  userTrustLevel,  isUniqueCheckDate,  externalId,  bestPlaceAnalyticsAvailable,  Загружено,  address.full,  businessShoppingCenter.buildingType,  businessShoppingCenter.id,  businessShoppingCenter.name,  businessShoppingCenter.type,  businessShoppingCenter.url,  land.area,  land.areaUnitType,  Материал,  Строительство,  Парковка,  building.name,  Потолок,  building.type,  building.statusType,  liftTypes.type,  liftTypes.count,  building.houseMaterialType,  isUniqueForCian,  businessShoppingCenter.buildingClassType,  land.type,  parking.placesCount,  parking.isFree,  building.accessType,  building.classType,  building.ventilationType,  building.conditioningType,  building.heatingType,  building.extinguishingSystemType,  isUnique,  hasInternet,  building.shoppingCenterScaleType,  building.tenants,  valueAddedServices.isPremium,  jk.id,  jk.name,  house.id,  house.name,  gaGeo.oblId,  gaGeo.cityId,  jk.fullUrl,  newbuilding.id,  newbuilding.name,  house.isFinished,  finishDate.quarter,  finishDate.year,  newbuildingFeatures.imagesCount,  newbuildingFeatures.firstImageUrl,  newbuildingFeatures.deadlineInfo,  title,  conditionType,  valueAddedServices.isTop3__
+
+### 2.2 Авито
+
+Меню парсинга Авито включает возможность управления полнотой сохраняемых данных. 
+
+![Опция полного набора данных](images/start-parsing-avito-cian-now/avito-menu-full-dataset.PNG)
+
+При отключенной настройке сохраняется минимальный жестко закрепленный набор данных. Примерный состав закрепленного набора данных в разделе аренды коммерческой недвижимости:
+
+__Фото, Ссылка, itemID, Общая_площадь, Этаж, Отделка, Планировка, Тип_аренды, Арендные_каникулы, Право, Офер, Продавец_стаж, Цена, Цена_назначена, Цена_база, Цена_валюта, КатегорияID, Локация, ЛокацияID, Адрес, Долгота, Широта, Активные, Завершенные, Подменный, Описание, Опубликовано, Тип_здания, Класс_здания, Парковка, Назначение, Загружено, Высота_потолков, Аренда_части, Минимальный_срок_аренды, Продавец_ачивка, Вход, Отдельный_вход, Отопление, Удалённость_от_дороги, Количество_парковочных_мест, Юрлицо, Платежи_включены__
+
+Полный набор данных очень велик (350 полей в данном случае), что может затруднять работу с данными. Полный набор данных не закреплен жестко, а формируется динамически на основе фактически имеющихся на странице данных. Динамический характер формирования полного набора данных позволяет избежать потери данных в случае изменения структуры представленных на странице данных. Жестко закрепленный минимальный набор потребует в таком случае ручного исправления. 
+
+> Если вы используете минимальный набор данных, то при отсутствии необходимых полей обращайтесь в техподдержку для внесения своевременных исправлений.
+
+## 3 Техническая поддержка пользователей
+
+Изменения на сайтах происходят постоянно и это неизбежно сказывается на работе парсеров. Изменения структуры данных, настройка прав доступа, оптимизация нагрузки, защита от деструктивных действий и многие другие незаметные внешне изменения - это обычная каждодневная жизнь IT-сервисов.
+
+Часто эти изменения приводят к отсутствию некоторых данных в скачиваемой информации, нарушают действия на странице (например, открытие номера телефона) или выводят мешающее на скриншоте всплывающее окно.
+
+По этой причине к сбоям парсинга надо относиться как к нормальному явлению. При обнаружении сбоя надо сразу сообщать о нем с указанием:
+- версии Excel,
+- версии Робастика,
+- ссылок, на которых наблюдается сбой,
+- скриншота окна Excel при сбое,
+- описанием сбоя (отсутствуют или неверные данные, не сохраняются фото и т.п.).
+
+С любым вопросом о технической поддержке можно обращаться в [Ватсап](https://wa.me/message/YRGCZNRS7UEAM1) и [Телеграм](https://t.me/RobastikRu)
+
+Другие ресурсы Робастика:
+- [Фейсбук](https://www.facebook.com/groups/excelword/)
+- [ВКонтакте](https://vk.com/exceltoword)
+- [Дзен](https://zen.yandex.ru/robastik)
+- [Аппрайзер](http://appraiser.ru/default.aspx?SectionId=32&g=posts&t=14905)
+- [Почта](tech@robastik.ru).
+
+*Cообщайте о неполадках Робастика и это поможет сделать его лучше для вас!*
+
+## 4 Ссылки для парсинга
+
+После установки Робастика в меню Excel появляются новые кнопки: **Добавить ссылку**, **Браузер** и **Старт**.
+
+![Меню парсинга Авито и ЦИАН](images/start-parsing-avito-cian-now/initial-menu-parsing.PNG)
+
+Ссылку для парсинга можно сформировать самостоятельно или с помощью фильтров на сайте недвижимости. Начните парсинг с готовой ссылкой и при необходимости вернитесь к подробному разбору самостоятельного составления ссылок.
+
+Чтобы получить готовую ссылку 
 
 Робастик добавляет в меню Excel кнопку для добавления ссылок, которые надо спарсить. Там же рядом и кнопка «Старт», которая запускает сам процесс. Это весь *Дата Сайэнс*, который надо знать для сбора данных в интернете.
 
