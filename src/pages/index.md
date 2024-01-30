@@ -33,8 +33,12 @@ sections:
         image: images/MenuParser.png
         image_alt: Парсинг недвижимости Авито ЦИАН в Excel
         content: >
-          *   Скопировать ссылку из браузера в Excel и кликнуть "Старт". Данные
+          *   [Скопировать ссылку](/blog/start-parsing-avito-cian-now#link_parsing) из браузера в Excel и кликнуть "Старт". Данные
           начнут загружаться на лист Excel.
+
+          * [Стандартный парсинг](/blog/start-parsing-avito-cian-now/)
+
+          * Режим [telegram-бота](/blog/telegram-bot-full-manual/)
 
           *   Авито, ЦИАН и любой сайт на заказ.
 
