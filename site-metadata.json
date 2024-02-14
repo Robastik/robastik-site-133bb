@@ -77,7 +77,7 @@
                 "nav_links": [
                     {
                         "label": "Email",
-                        "url": "mail@robastik.ru",
+                        "url": "mailto:mail@robastik.ru",
                         "style": "link",
                         "has_icon": true,
                         "icon": "envelope",
