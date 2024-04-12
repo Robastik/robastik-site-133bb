@@ -10,7 +10,7 @@ image: images/auto-add-links/auto-links-adding-mars.PNG
 image_alt: Парсинг недвижимости из меню Excel
 template: post
 subtitle: 'Когда нужно постоянно менять ссылки и файлы для загрузки'
-meta_title: Робастик | Парсинг
+meta_title: Робастик | Автоссылки для парсинга
 meta_description: 'Автоматические ссылки'
 canonical_url: 'https://robastik.ru/blog/auto-add-links/'
 ---
